@@ -1,812 +1,812 @@
-	Game	Year	Genre	Publisher	North America	Europe	Japan	Rest of World	Global
-0	Grand Theft Auto V	2014	Action	Rockstar Games	6060000.0	9710000.0	600000.0	3020000.0	19390000.0
-1	Call of Duty: Black Ops 3	2015	Shooter	Activision	6180000.0	6050000.0	410000.0	2440000.0	15080000.0
-2	Red Dead Redemption 2	2018	Action-Adventure	Rockstar Games	5260000.0	6210000.0	210000.0	2260000.0	13940000.0
-3	Call of Duty: WWII	2017	Shooter	Activision	4670000.0	6210000.0	400000.0	2120000.0	13400000.0
-4	FIFA 18	2017	Sports	EA Sports	1270000.0	8640000.0	150000.0	1730000.0	11790000.0
-5	FIFA 17	2016	Sports	Electronic Arts	1260000.0	7950000.0	120000.0	1610000.0	10940000.0
-6	Uncharted (PS4)	2016	Action	Sony Interactive Entertainment	4490000.0	3930000.0	210000.0	1700000.0	10330000.0
-7	Spider-Man (PS4)	2018	Action-Adventure	Sony Interactive Entertainment	3640000.0	3390000.0	320000.0	1410000.0	8760000.0
-8	Call of Duty: Infinite Warfare	2016	Shooter	Activision	3110000.0	3830000.0	190000.0	1360000.0	8490000.0
-9	Fallout 4	2015	Role-Playing	Bethesda Softworks	2910000.0	3970000.0	270000.0	1340000.0	8490000.0
-10	FIFA 16	2015	Sports	EA Sports	1150000.0	5770000.0	70000.0	1230000.0	8220000.0
-11	Star Wars Battlefront 2015	2015	Shooter	Electronic Arts	3310000.0	3190000.0	230000.0	1300000.0	8030000.0
-12	Call of Duty: Advanced Warfare	2014	Shooter	Activision	2840000.0	3340000.0	140000.0	1220000.0	7540000.0
-13	Battlefield 1	2016	Shooter	Electronic Arts	2200000.0	3650000.0	290000.0	1120000.0	7260000.0
-14	The Last of Us	2014	Action-Adventure	Sony Computer Entertainment	2700000.0	2860000.0	110000.0	1100000.0	6770000.0
-15	MineCraft	2014	Misc	Sony Computer Entertainment	1890000.0	3130000.0	350000.0	960000.0	6330000.0
-16	FIFA 15	2014	Sports	EA Sports	830000.0	4490000.0	50000.0	940000.0	6310000.0
-17	God of War (PS4)	2018	Action	Sony Interactive Entertainment	2830000.0	2170000.0	130000.0	1020000.0	6150000.0
-18	Horizon: Zero Dawn	2017	Action	Sony Interactive Entertainment	2200000.0	2430000.0	280000.0	920000.0	5830000.0
-19	Destiny	2014	Shooter	Activision	2530000.0	2130000.0	160000.0	940000.0	5760000.0
-20	Uncharted: The Nathan Drake Collection	2015	Action	Sony Computer Entertainment	2550000.0	2110000.0	100000.0	940000.0	5700000.0
-21	The Witcher 3: Wild Hunt	2015	Role-Playing	Namco Bandai Games	1480000.0	2820000.0	280000.0	810000.0	5390000.0
-22	Final Fantasy XV	2016	Role-Playing	Square Enix	1810000.0	1530000.0	1050000.0	680000.0	5070000.0
-23	Crash Bandicoot N. Sane Trilogy	2017	Platform	Activision	1090000.0	2920000.0	70000.0	740000.0	4820000.0
-24	Monster Hunter: World	2018	Action	Capcom	1030000.0	1060000.0	2170000.0	420000.0	4680000.0
-25	Overwatch	2016	Shooter	Blizzard Entertainment	1840000.0	1800000.0	170000.0	730000.0	4540000.0
-26	Star Wars Battlefront II (2017)	2017	Shooter	Electronic Arts	1700000.0	1990000.0	120000.0	730000.0	4540000.0
-27	Tom Clancy's The Division	2016	Shooter	Ubisoft	1490000.0	2040000.0	160000.0	690000.0	4380000.0
-28	Tom Clancy's Rainbow Six: Siege	2015	Shooter	Ubisoft	1290000.0	2060000.0	360000.0	640000.0	4350000.0
-29	Watch Dogs	2014	Action-Adventure	Ubisoft	1400000.0	2130000.0	110000.0	680000.0	4320000.0
-30	Call of Duty: Ghosts	2013	Shooter	Activision	1790000.0	1640000.0	50000.0	690000.0	4170000.0
-31	Assassin's Creed: Unity	2014	Action	Ubisoft	1250000.0	2160000.0	90000.0	650000.0	4150000.0
-32	Destiny 2	2017	Shooter	Activision	1920000.0	1440000.0	100000.0	690000.0	4150000.0
-33	Batman: Arkham Knight	2015	Action	Warner Bros. Interactive	1650000.0	1680000.0	110000.0	660000.0	4100000.0
-34	Assassin's Creed Origins	2017	Action	Ubisoft	1220000.0	2110000.0	110000.0	630000.0	4070000.0
-35	Far Cry 4	2014	Shooter	Ubisoft	1180000.0	2140000.0	110000.0	630000.0	4060000.0
-36	NBA 2K16	2015	Sports	2K Sports	2560000.0	660000.0	50000.0	710000.0	3980000.0
-37	Far Cry 5	2018	Action	Ubisoft	1440000.0	1730000.0	150000.0	620000.0	3940000.0
-38	Battlefield 4	2013	Shooter	Electronic Arts	1400000.0	1740000.0	190000.0	620000.0	3950000.0
-39	Gran Turismo Sport	2017	Racing	Sony Interactive Entertainment	630000.0	2350000.0	240000.0	540000.0	3760000.0
-40	Assassin's Creed Syndicate	2015	Action	Ubisoft	900000.0	2060000.0	80000.0	550000.0	3590000.0
-41	NBA 2K17	2016	Sports	2K Sports	2280000.0	590000.0	30000.0	630000.0	3530000.0
-42	Mortal Kombat X	2015	Fighting	Warner Bros. Interactive Entertainment	1940000.0	940000.0	0.0	610000.0	3490000.0
-43	FIFA Soccer 14	2013	Sports	EA Sports	620000.0	2180000.0	120000.0	510000.0	3430000.0
-44	The Elder Scrolls V: Skyrim	2016	Role-Playing	Bethesda Softworks	1240000.0	1500000.0	80000.0	540000.0	3360000.0
-45	Watch Dogs 2	2016	Action	Ubisoft	980000.0	1740000.0	120000.0	520000.0	3360000.0
-46	NBA 2K18	2017	Sports	2K Sports	2130000.0	570000.0	40000.0	590000.0	3330000.0
-47	Resident Evil VII: Biohazard	2017	Action	Capcom	880000.0	1560000.0	410000.0	460000.0	3310000.0
-48	Madden NFL 16	2015	Sports	EA Sports	2390000.0	310000.0	0.0	610000.0	3310000.0
-49	Madden NFL 17	2016	Sports	EA Sports	2300000.0	370000.0	0.0	600000.0	3270000.0
-50	Middle-Earth: Shadow of Mordor	2014	Action	Warner Bros. Interactive Entertainment	1030000.0	1600000.0	50000.0	510000.0	3190000.0
-51	Assassin's Creed IV: Black Flag	2013	Action-Adventure	Ubisoft	1070000.0	1550000.0	60000.0	510000.0	3190000.0
-52	Tom Clancy's Ghost Recon Wildlands	2017	Shooter	Ubisoft	1070000.0	1350000.0	220000.0	470000.0	3110000.0
-53	Bloodborne	2015	Role-Playing	Sony Computer Entertainment	1300000.0	1050000.0	280000.0	480000.0	3110000.0
-54	Metal Gear Solid V: The Phantom Pain	2015	Action	Konami Digital Entertainment	970000.0	1150000.0	500000.0	420000.0	3040000.0
-55	Killzone: Shadow Fall	2013	Shooter	Sony Computer Entertainment	890000.0	1580000.0	80000.0	470000.0	3020000.0
-56	inFAMOUS: Second Son	2014	Action-Adventure	Sony Computer Entertainment	1350000.0	1090000.0	70000.0	500000.0	3010000.0
-57	Doom (2016)	2016	Shooter	Bethesda Softworks	930000.0	1480000.0	40000.0	460000.0	2910000.0
-58	Mafia III	2016	Action-Adventure	2K Games	720000.0	1670000.0	40000.0	440000.0	2870000.0
-59	Diablo III	2014	Role-Playing	Blizzard Entertainment	830000.0	1480000.0	80000.0	440000.0	2830000.0
-60	Far Cry: Primal	2016	Action-Adventure	Ubisoft	630000.0	1610000.0	70000.0	410000.0	2720000.0
-61	Need for Speed (2015)	2015	Racing	Electronic Arts	590000.0	1660000.0	60000.0	410000.0	2720000.0
-62	Madden NFL 18	2017	Sports	EA Sports	1730000.0	420000.0	0.0	470000.0	2620000.0
-63	NBA 2K15	2014	Sports	2K Sports	1490000.0	550000.0	10000.0	440000.0	2490000.0
-64	Dying Light	2015	Action	Warner Bros. Interactive	1180000.0	740000.0	130000.0	400000.0	2450000.0
-65	Dark Souls III	2016	Role-Playing	Namco Bandai Games	1000000.0	630000.0	440000.0	340000.0	2410000.0
-66	Ratchet & Clank (2016)	2016	Platform	Sony Interactive Entertainment	970000.0	970000.0	60000.0	390000.0	2390000.0
-67	DriveClub	2014	Racing	Sony Computer Entertainment	370000.0	1630000.0	20000.0	360000.0	2380000.0
-68	Uncharted: The Lost Legacy	2017	Action	Sony Interactive Entertainment	580000.0	1380000.0	40000.0	360000.0	2360000.0
-69	Dragon Age III: Inquisition	2014	Role-Playing	Electronic Arts	1070000.0	800000.0	80000.0	380000.0	2330000.0
-70	No Man's Sky	2016	Action-Adventure	Hello Games	890000.0	970000.0	40000.0	370000.0	2270000.0
-71	Madden NFL 15	2014	Sports	EA Sports	1580000.0	250000.0	0.0	410000.0	2240000.0
-72	Need for Speed: Payback	2017	Racing	Electronic Arts	620000.0	1180000.0	40000.0	340000.0	2180000.0
-73	Destiny: The Taken King	2015	Shooter	Activision	970000.0	800000.0	50000.0	360000.0	2180000.0
-74	Need for Speed Rivals	2013	Racing	Electronic Arts	750000.0	1040000.0	30000.0	350000.0	2170000.0
-75	PlayStation VR Worlds	2016	Misc	Sony Interactive Entertainment	360000.0	1400000.0	90000.0	320000.0	2170000.0
-76	Battlefield: Hardline	2015	Shooter	Electronic Arts	720000.0	970000.0	140000.0	330000.0	2160000.0
-77	Rise of the Tomb Raider	2016	Adventure	Square Enix	610000.0	1080000.0	50000.0	320000.0	2060000.0
-78	LittleBigPlanet 3	2014	Platform	Sony Computer Entertainment	780000.0	930000.0	10000.0	340000.0	2060000.0
-79	The Elder Scrolls Online	2015	MMO	Bethesda Softworks	740000.0	980000.0	0.0	330000.0	2050000.0
-80	Middle-Earth: Shadow of War	2017	Action	Warner Bros. Interactive Entertainment	820000.0	840000.0	60000.0	330000.0	2050000.0
-81	Dragon Quest XI	2017	Role-Playing	Square Enix	290000.0	220000.0	1430000.0	100000.0	2040000.0
-82	Rocket League	2016	Sports	505 Games	370000.0	1340000.0	0.0	310000.0	2020000.0
-83	Just Cause 3	2015	Action-Adventure	Square Enix	530000.0	1070000.0	90000.0	300000.0	1990000.0
-84	Dishonored 2	2016	Action	Bethesda Softworks	620000.0	1020000.0	10000.0	310000.0	1960000.0
-85	Lego Marvel Super Heroes	2013	Action	Warner Bros. Interactive Entertainment	590000.0	1000000.0	10000.0	300000.0	1900000.0
-86	Until Dawn	2015	Adventure	Sony Computer Entertainment	620000.0	920000.0	60000.0	300000.0	1900000.0
-87	Knack	2013	Platform	Sony Computer Entertainment	450000.0	770000.0	420000.0	230000.0	1870000.0
-88	The Evil Within	2014	Action	Bethesda Softworks	560000.0	900000.0	110000.0	280000.0	1850000.0
-89	The Crew	2014	Racing	Ubisoft	440000.0	1040000.0	30000.0	270000.0	1780000.0
-90	Kingdom Hearts 1.5 + 2.5 Remix	2017	Role-Playing	Square Enix	750000.0	510000.0	230000.0	260000.0	1750000.0
-91	For Honor	2017	Action	Ubisoft	730000.0	660000.0	70000.0	280000.0	1740000.0
-92	Titanfall 2	2016	Shooter	Electronic Arts	750000.0	620000.0	60000.0	280000.0	1710000.0
-93	Injustice 2	2017	Fighting	Warner Bros. Interactive Entertainment	880000.0	540000.0	0.0	290000.0	1710000.0
-94	NieR Automata	2017	Role-Playing	Square Enix	560000.0	510000.0	420000.0	220000.0	1710000.0
-95	Tekken 7	2017	Fighting	Namco Bandai Games	600000.0	720000.0	120000.0	260000.0	1700000.0
-96	Persona 5	2016	Role-Playing	Deep Silver	620000.0	340000.0	480000.0	200000.0	1640000.0
-97	The Order: 1886	2015	Shooter	Sony Computer Entertainment	440000.0	860000.0	70000.0	250000.0	1620000.0
-98	Wolfenstein: The New Order	2014	Shooter	Bethesda Softworks	480000.0	840000.0	30000.0	250000.0	1600000.0
-99	Detroit: Become Human	2018	Adventure	Sony Interactive Entertainment	550000.0	670000.0	120000.0	240000.0	1580000.0
-100	Naruto Shippuden: Ultimate Ninja Storm 4	2016	Fighting	Namco Bandai Games	710000.0	470000.0	120000.0	240000.0	1540000.0
-101	NBA 2K14	2013	Sports	2K Sports	910000.0	350000.0	10000.0	270000.0	1540000.0
-102	Tomb Raider (2013)	2014	Action-Adventure	Square Enix	470000.0	740000.0	60000.0	230000.0	1500000.0
-103	Dragon Ball: Xenoverse 2	2016	Action	Namco Bandai Games	540000.0	590000.0	140000.0	230000.0	1500000.0
-104	Rayman Legends	2014	Platform	Ubisoft	220000.0	1050000.0	0.0	230000.0	1500000.0
-105	Mass Effect: Andromeda	2017	Role-Playing	Electronic Arts	580000.0	670000.0	0.0	250000.0	1500000.0
-106	Dragon Ball Fighter Z	2018	Fighting	Namco Bandai Games	610000.0	510000.0	120000.0	230000.0	1470000.0
-107	South Park: The Fractured But Whole	2017	Role-Playing	Ubisoft	620000.0	570000.0	0.0	240000.0	1430000.0
-108	The Sims 4	2017	Simulation	Electronic Arts	440000.0	720000.0	10000.0	220000.0	1390000.0
-109	Street Fighter V	2016	Fighting	Capcom	640000.0	420000.0	120000.0	220000.0	1400000.0
-110	Wolfenstein II: The New Colossus	2017	Shooter	Bethesda Softworks	550000.0	580000.0	10000.0	220000.0	1360000.0
-111	WWE 2K18	2017	Sports	2K Sports	450000.0	670000.0	0.0	220000.0	1340000.0
-112	Lego Star Wars: The Force Awakens	2016	Action-Adventure	Warner Bros. Interactive Entertainment	300000.0	780000.0	20000.0	200000.0	1300000.0
-113	EA Sports UFC 2	2016	Sports	EA Sports	440000.0	650000.0	0.0	210000.0	1300000.0
-114	The Last Guardian	2016	Action-Adventure	Sony Interactive Entertainment	400000.0	580000.0	130000.0	190000.0	1300000.0
-115	WWE 2K16	2015	Sports	Take-Two Interactive	430000.0	650000.0	0.0	210000.0	1290000.0
-116	Borderlands: The Handsome Collection	2015	Shooter	2K Games	690000.0	340000.0	30000.0	220000.0	1280000.0
-117	Project CARS	2015	Racing	Bandai Namco Games	290000.0	760000.0	40000.0	190000.0	1280000.0
-118	WWE 2K17	2016	Sports	2K Games	320000.0	700000.0	0.0	190000.0	1210000.0
-119	Guitar Hero Live	2015	Music	Activision	520000.0	490000.0	0.0	200000.0	1210000.0
-120	Metal Gear Solid: Ground Zeroes	2014	Action-Adventure	Konami Digital Entertainment	360000.0	500000.0	170000.0	170000.0	1200000.0
-121	Mad Max (2013)	2015	Action	Warner Bros. Interactive Entertainment	380000.0	590000.0	50000.0	190000.0	1210000.0
-122	Shadow of the Colossus	2018	Action-Adventure	Sony Interactive Entertainment	440000.0	520000.0	50000.0	190000.0	1200000.0
-123	Kingdom Hearts HD 2.8 Final Chapter Prologue	2017	Role-Playing	Square Enix	570000.0	250000.0	200000.0	170000.0	1190000.0
-124	Dragon Ball: XenoVerse	2015	Fighting	Namco Bandai Games	330000.0	550000.0	140000.0	170000.0	1190000.0
-125	LEGO Dimensions	2015	Action	Warner Bros. Interactive Entertainment	480000.0	500000.0	0.0	200000.0	1180000.0
-126	LEGO Jurassic World	2015	Action	Warner Bros. Interactive Entertainment	410000.0	560000.0	20000.0	190000.0	1180000.0
-127	WWE 2K15	2014	Sports	2K Sports	400000.0	570000.0	0.0	190000.0	1160000.0
-128	MLB The Show 17	2017	Sports	Sony Interactive Entertainment	940000.0	0.0	0.0	220000.0	1160000.0
-129	LEGO Worlds	2017	Misc	Warner Bros. Interactive Entertainment	210000.0	720000.0	40000.0	170000.0	1140000.0
-130	The Elder Scrolls V: Skyrim PSVR	2017	Role-Playing	Bethesda Softworks	470000.0	470000.0	10000.0	190000.0	1140000.0
-131	LEGO Marvel Super Heroes 2	2017	Action	Warner Bros. Interactive Entertainment	330000.0	600000.0	0.0	180000.0	1110000.0
-132	EA Sports UFC	2014	Fighting	Electronic Arts	490000.0	430000.0	10000.0	180000.0	1110000.0
-133	Final Fantasy XII: The Zodiac Age	2017	Role-Playing	Square Enix	370000.0	410000.0	160000.0	150000.0	1090000.0
-134	Alien: Isolation	2014	Adventure	Sega	290000.0	590000.0	50000.0	160000.0	1090000.0
-135	MLB The Show 18	2018	Sports	Sony Interactive Entertainment	860000.0	0.0	0.0	200000.0	1060000.0
-136	The Evil Within II	2017	Action	Bethesda Softworks	310000.0	490000.0	90000.0	150000.0	1040000.0
-137	Prey (2017)	2017	Shooter	Bethesda Softworks	250000.0	620000.0	20000.0	160000.0	1050000.0
-138	Final Fantasy Type-0	2015	Role-Playing	Square Enix	400000.0	330000.0	160000.0	150000.0	1040000.0
-139	Ni-Oh	2017	Action	Tecmo Koei	340000.0	360000.0	200000.0	140000.0	1040000.0
-140	MLB 15: The Show	2015	Sports	Sony Computer Entertainment	750000.0	80000.0	0.0	190000.0	1020000.0
-141	Steep	2016	Sports	Ubisoft	230000.0	600000.0	20000.0	150000.0	1000000.0
-142	LEGO Marvel's Avengers	2016	Action	Warner Bros. Interactive Entertainment	310000.0	530000.0	10000.0	160000.0	1010000.0
-143	Evolve	2015	Shooter	2K Games	380000.0	410000.0	50000.0	160000.0	1000000.0
-144	Injustice: Gods Among Us	2013	Fighting	Warner Bros. Interactive Entertainment	460000.0	350000.0	0.0	170000.0	980000.0
-145	EA Sports UFC 3	2018	Sports	EA Sports	400000.0	410000.0	10000.0	160000.0	980000.0
-146	Madden NFL 25	2013	Sports	EA Sports	640000.0	150000.0	0.0	170000.0	960000.0
-147	MLB 16: The Show	2016	Sports	Sony Computer Entertainment	780000.0	0.0	0.0	180000.0	960000.0
-148	Lego Batman 3: Beyond Gotham	2014	Action	Warner Bros. Interactive Entertainment	370000.0	420000.0	0.0	160000.0	950000.0
-149	Final Fantasy X/X-2 HD Remaster	2015	Role-Playing	Square Enix	340000.0	360000.0	70000.0	140000.0	910000.0
-150	Ni no Kuni II: Revenant Kingdom	2018	Role-Playing	Namco Bandai Games	330000.0	310000.0	120000.0	130000.0	890000.0
-151	God of War III	2015	Action	Sony Computer Entertainment	400000.0	330000.0	20000.0	150000.0	900000.0
-152	Fortnite	2017	Action	Gearbox Software	420000.0	320000.0	0.0	150000.0	890000.0
-153	LEGO Harry Potter Collection	2016	Action	Warner Bros. Interactive Entertainment	70000.0	680000.0	0.0	130000.0	880000.0
-154	Minecraft: Story Mode	2015	Adventure	Mojang	310000.0	420000.0	0.0	140000.0	870000.0
-155	BioShock The Collection	2016	Shooter	2K Games	410000.0	280000.0	30000.0	140000.0	860000.0
-156	Thief 4	2014	Action	Square Enix	280000.0	410000.0	30000.0	130000.0	850000.0
-157	Until Dawn: Rush of Blood	2016	Shooter	Sony Interactive Entertainment	500000.0	210000.0	0.0	150000.0	860000.0
-158	Disney Infinity 3.0	2015	Action	Disney Interactive Studios	310000.0	400000.0	0.0	140000.0	850000.0
-159	Farming Simulator 17	2016	Simulation	Focus Home Interactive	190000.0	520000.0	10000.0	130000.0	850000.0
-160	The Crew 2	2018	Racing	Ubisoft	220000.0	420000.0	50000.0	120000.0	810000.0
-161	Pro Evolution Soccer 2016	2015	Sports	Konami Digital Entertainment	140000.0	430000.0	140000.0	100000.0	810000.0
-162	ARK: Survival Evolved	2017	Action	Studio Wildcard	280000.0	290000.0	140000.0	110000.0	820000.0
-163	Dragon Quest Heroes: The World's Tree Woe and the Blight Below	2015	Action	Square Enix	210000.0	140000.0	390000.0	70000.0	810000.0
-164	Assassin's Creed The Ezio Collection	2016	Action	Ubisoft	140000.0	520000.0	20000.0	120000.0	800000.0
-165	Final Fantasy XIV: A Realm Reborn	2014	MMO	Square Enix	350000.0	230000.0	80000.0	120000.0	780000.0
-166	Destiny: The Collection	2016	Shooter	Activision	240000.0	400000.0	20000.0	120000.0	780000.0
-167	F1 2016 (Codemasters)	2016	Racing	Codemasters	70000.0	560000.0	30000.0	110000.0	770000.0
-168	Hitman (2016)	2017	Action	Square Enix	240000.0	360000.0	60000.0	110000.0	770000.0
-169	Pro Evolution Soccer 2015	2014	Sports	Konami Digital Entertainment	90000.0	450000.0	120000.0	100000.0	760000.0
-170	LEGO City Undercover	2017	Platform	Warner Bros. Interactive Entertainment	170000.0	460000.0	10000.0	120000.0	760000.0
-171	Pro Evolution Soccer 2018	2017	Sports	Konami Digital Entertainment	120000.0	360000.0	190000.0	90000.0	760000.0
-172	Disney Infinity 2.0: Marvel Super Heroes	2014	Action-Adventure	Disney Interactive Studios	370000.0	250000.0	0.0	130000.0	750000.0
-173	Pro Evolution Soccer 2017	2016	Sports	Konami Digital Entertainment	80000.0	410000.0	180000.0	90000.0	760000.0
-174	Sniper Elite 3	2014	Shooter	505 Games	250000.0	370000.0	0.0	120000.0	740000.0
-175	MLB 14 The Show	2014	Sports	Sony Computer Entertainment	590000.0	0.0	0.0	140000.0	730000.0
-176	WipEout Omega Collection	2017	Racing	Sony Interactive Entertainment	120000.0	490000.0	0.0	110000.0	720000.0
-177	Deus Ex: Mankind Divided	2016	Role-Playing	Square Enix	250000.0	340000.0	10000.0	120000.0	720000.0
-178	The LEGO Movie Videogame	2014	Action-Adventure	Warner Bros. Interactive Entertainment	260000.0	320000.0	10000.0	110000.0	700000.0
-179	Marvel vs. Capcom: Infinite	2017	Fighting	Capcom	360000.0	190000.0	40000.0	110000.0	700000.0
-180	Dark Souls II	2015	Role-Playing	Namco Bandai Games	270000.0	230000.0	90000.0	100000.0	690000.0
-181	Yakuza 6	2016	Adventure	Sega	160000.0	100000.0	380000.0	50000.0	690000.0
-182	F1 2015	2015	Racing	Codemasters	100000.0	450000.0	40000.0	100000.0	690000.0
-183	METRO 2033	2014	Shooter	Deep Silver	220000.0	310000.0	50000.0	100000.0	680000.0
-184	Rocksmith 2014	2014	Music	Ubisoft	380000.0	170000.0	0.0	120000.0	670000.0
-185	NHL 16	2015	Sports	EA Sports	380000.0	160000.0	0.0	120000.0	660000.0
-186	Plants vs Zombies: Garden Warfare	2014	Shooter	Electronic Arts	240000.0	300000.0	10000.0	110000.0	660000.0
-187	Tales of Berseria	2016	Role-Playing	Namco Bandai Games	220000.0	100000.0	260000.0	70000.0	650000.0
-188	Yakuza Zero: The Place of Oath	2015	Adventure	Sega	220000.0	160000.0	190000.0	80000.0	650000.0
-189	One Piece: Burning Blood	2016	Fighting	Namco Bandai Games	210000.0	260000.0	90000.0	90000.0	650000.0
-190	Batman: Return to Arkham	2016	Action	Warner Bros. Interactive Entertainment	150000.0	390000.0	10000.0	100000.0	650000.0
-191	Plants vs. Zombies: Garden Warfare 2	2016	Shooter	Electronic Arts	220000.0	310000.0	0.0	100000.0	630000.0
-192	LEGO The Hobbit	2014	Action-Adventure	Warner Bros. Interactive Entertainment	140000.0	390000.0	0.0	100000.0	630000.0
-193	World of Final Fantasy	2016	Role-Playing	Square Enix	240000.0	210000.0	90000.0	90000.0	630000.0
-194	F1 2017	2017	Racing	Koch Media	40000.0	470000.0	20000.0	90000.0	620000.0
-195	NHL 15	2014	Sports	EA Sports	320000.0	190000.0	0.0	110000.0	620000.0
-196	Knowledge is Power	2017	Party	Sony Interactive Entertainment	50000.0	470000.0	0.0	90000.0	610000.0
-197	L.A. Noire	2017	Adventure	Rockstar Games	180000.0	320000.0	0.0	100000.0	600000.0
-198	Hidden Agenda	2017	Adventure	Sony Interactive Entertainment	80000.0	420000.0	0.0	90000.0	590000.0
-199	Call of Duty: Modern Warfare Remastered	2017	Shooter	Activision	170000.0	300000.0	30000.0	90000.0	590000.0
-200	Dragon Quest Builders: Revive Alefgard	2016	Role-Playing	Square Enix	120000.0	170000.0	240000.0	60000.0	590000.0
-201	The Lego Ninjago Movie Videogame	2017	Action	Warner Bros. Interactive Entertainment	160000.0	320000.0	0.0	90000.0	570000.0
-202	Resident Evil: Revelations 2	2015	Action	Capcom	140000.0	250000.0	110000.0	70000.0	570000.0
-203	Rock Band 4	2015	Music	Harmonix Music Systems	410000.0	60000.0	0.0	100000.0	570000.0
-204	NHL 18	2017	Sports	EA Sports	310000.0	160000.0	0.0	100000.0	570000.0
-205	Everybody's Golf	2017	Sports	Sony Interactive Entertainment	120000.0	220000.0	170000.0	60000.0	570000.0
-206	The Amazing Spider-Man 2 (2014)	2014	Action-Adventure	Activision	200000.0	260000.0	20000.0	90000.0	570000.0
-207	DOOM VFR	2017	Shooter	Bethesda Softworks	220000.0	250000.0	0.0	90000.0	560000.0
-208	Sonic Forces	2017	Platform	Sega	150000.0	310000.0	10000.0	90000.0	560000.0
-209	Kingdom Come: Deliverance	2018	Role-Playing	Deep Silver	180000.0	280000.0	0.0	90000.0	550000.0
-210	Lords of the Fallen	2014	Role-Playing	Square Enix	200000.0	240000.0	20000.0	90000.0	550000.0
-211	Sniper Elite 4	2017	Shooter	Rebellion Developments	210000.0	250000.0	0.0	90000.0	550000.0
-212	Rory McIlroy PGA Tour	2015	Sports	Electronic Arts	190000.0	270000.0	0.0	90000.0	550000.0
-213	Project CARS 2	2017	Racing	Namco Bandai Games	100000.0	350000.0	20000.0	80000.0	550000.0
-214	Skylanders: Trap Team	2014	Platform	Activision	250000.0	180000.0	0.0	90000.0	520000.0
-215	NHL 17	2016	Sports	EA Sports	320000.0	110000.0	0.0	90000.0	520000.0
-216	One Piece: Pirate Warriors 3	2015	Action	Namco Bandai Games	110000.0	220000.0	110000.0	60000.0	500000.0
-217	DiRT Rally	2016	Racing	Codemasters	130000.0	300000.0	0.0	80000.0	510000.0
-218	Homefront: The Revolution	2016	Shooter	Deep Silver	110000.0	290000.0	40000.0	70000.0	510000.0
-219	Attack on Titan (KOEI)	2016	Action	Tecmo Koei	80000.0	240000.0	120000.0	60000.0	500000.0
-220	DiRT 4	2017	Racing	Codemasters	100000.0	300000.0	20000.0	70000.0	490000.0
-221	Farpoint	2017	Shooter	Sony Interactive Entertainment	0.0	380000.0	40000.0	60000.0	480000.0
-222	Battleborn	2016	Shooter	2K Games	250000.0	120000.0	30000.0	80000.0	480000.0
-223	A Way Out	2018	Action	Electronic Arts	230000.0	160000.0	0.0	80000.0	470000.0
-224	Friday the 13th: The Game	2017	Action	Gun Media	290000.0	90000.0	30000.0	80000.0	490000.0
-225	The Walking Dead: A Telltale Games Series	2014	Adventure	Telltale Games	120000.0	260000.0	30000.0	70000.0	480000.0
-226	Wolfenstein: The Old Blood	2015	Shooter	Bethesda Softworks	130000.0	250000.0	20000.0	70000.0	470000.0
-227	Deadpool	2015	Action	Activision	260000.0	130000.0	0.0	80000.0	470000.0
-228	Dragon Quest Heroes II: Twin Kings and the Prophecy's End	2016	Action	Square Enix	50000.0	90000.0	300000.0	30000.0	470000.0
-229	TrackMania Turbo	2016	Racing	Ubisoft	40000.0	350000.0	0.0	70000.0	460000.0
-230	Knack 2	2017	Platform	Sony Interactive Entertainment	140000.0	250000.0	10000.0	70000.0	470000.0
-231	Just Dance 2014	2013	Music	Ubisoft	210000.0	180000.0	0.0	80000.0	470000.0
-232	Dissidia Final Fantasy NT	2018	Fighting	Square Enix	190000.0	60000.0	160000.0	50000.0	460000.0
-233	Skylanders: SuperChargers	2015	Action-Adventure	Activision	290000.0	90000.0	0.0	80000.0	460000.0
-234	Yakuza Kiwami	2016	Adventure	Sega	130000.0	70000.0	210000.0	40000.0	450000.0
-235	Tales of Zestiria	2015	Role-Playing	Namco Bandai Games	180000.0	160000.0	40000.0	70000.0	450000.0
-236	Star Ocean 5: Integrity and Faithlessness	2016	Role-Playing	Square Enix	100000.0	130000.0	160000.0	50000.0	440000.0
-237	Sleeping Dogs	2014	Action	Square Enix	160000.0	210000.0	0.0	70000.0	440000.0
-238	Skylanders SWAP Force	2013	Misc	Activision	230000.0	140000.0	0.0	80000.0	450000.0
-239	Skylanders Imaginators	2016	Platform	Activision	180000.0	180000.0	0.0	70000.0	430000.0
-240	Trials Fusion	2014	Misc	Ubisoft	130000.0	230000.0	10000.0	70000.0	440000.0
-241	Saints Row IV	2015	Action	Deep Silver	150000.0	180000.0	30000.0	60000.0	420000.0
-242	Dishonored	2015	Action	Bethesda Softworks	120000.0	210000.0	20000.0	60000.0	410000.0
-243	Mirror's Edge 2	2016	Platform	Electronic Arts	130000.0	190000.0	30000.0	60000.0	410000.0
-244	Farming Simulator 2015	2015	Simulation	Koch Media	130000.0	220000.0	0.0	70000.0	420000.0
-245	Just Dance 2015	2014	Music	Ubisoft	210000.0	130000.0	0.0	70000.0	410000.0
-246	Sword Art Online: Hollow Realization	2016	Role-Playing	Namco Bandai Games	180000.0	60000.0	120000.0	50000.0	410000.0
-247	Just Dance 2016	2015	Music	Ubisoft	190000.0	130000.0	0.0	70000.0	390000.0
-248	Batman: Arkham VR	2016	Action	Warner Bros. Interactive Entertainment	320000.0	0.0	0.0	70000.0	390000.0
-249	Little Nightmares	2017	Platform	Namco Bandai Games	180000.0	120000.0	20000.0	60000.0	380000.0
-250	Tropico 5	2015	Simulation	Kalypso Media	70000.0	180000.0	80000.0	50000.0	380000.0
-251	Life is Strange	2016	Adventure	Square Enix	110000.0	160000.0	50000.0	50000.0	370000.0
-252	Resident Evil Zero	2016	Action-Adventure	Capcom	70000.0	180000.0	70000.0	50000.0	370000.0
-253	Yakuza Kiwami 2	2017	Action	Sega	80000.0	60000.0	190000.0	30000.0	360000.0
-254	Vampyr	2018	Role-Playing	Focus Home Interactive	120000.0	190000.0	0.0	60000.0	370000.0
-255	Okami	2017	Action	Capcom	160000.0	120000.0	30000.0	60000.0	370000.0
-256	Sniper: Ghost Warrior 3	2017	Shooter	City Interactive	140000.0	150000.0	30000.0	60000.0	380000.0
-257	Hokuto ga Gotoku	2018	Action	Sega	90000.0	50000.0	180000.0	30000.0	350000.0
-258	Sword Art Online: Lost Song	2015	Role-Playing	Namco Bandai Games	190000.0	110000.0	0.0	60000.0	360000.0
-259	Disgaea 5: Alliance of Vengeance	2015	Role-Playing	NIS America	150000.0	80000.0	70000.0	50000.0	350000.0
-260	Dead or Alive 5	2015	Fighting	Tecmo Koei	90000.0	130000.0	90000.0	40000.0	350000.0
-261	Gravity Rush 2	2017	Action-Adventure	Sony Interactive Entertainment	130000.0	50000.0	130000.0	40000.0	350000.0
-262	Odin Sphere: Leifthrasir	2016	Role-Playing	NIS America	140000.0	70000.0	90000.0	40000.0	340000.0
-263	Divinity: Original Sin	2015	Role-Playing	Focus Home Interactive	130000.0	130000.0	40000.0	50000.0	350000.0
-264	The King of Fighters XIV	2016	Fighting	Deep Silver	210000.0	20000.0	60000.0	50000.0	340000.0
-265	Dishonored: Death of the Outsider	2017	Action	Bethesda Softworks	100000.0	180000.0	0.0	50000.0	330000.0
-266	Valkyria Chronicles	2016	Role-Playing	Sega	140000.0	80000.0	80000.0	40000.0	340000.0
-267	Murdered: Soul Suspect	2014	Action-Adventure	Square Enix	90000.0	170000.0	20000.0	50000.0	330000.0
-268	Payday 2	2015	Shooter	505 Games	120000.0	140000.0	0.0	50000.0	310000.0
-269	UEFA Euro 2016	2016	Sports	Konami Digital Entertainment	0.0	220000.0	50000.0	40000.0	310000.0
-270	DmC: Devil May Cry	2015	Action	Capcom	120000.0	130000.0	0.0	50000.0	300000.0
-271	Sonic Mania	2017	Platform	Sega	100000.0	150000.0	10000.0	50000.0	310000.0
-272	J Stars Victory Vs.	2015	Fighting	Namco Bandai Games	110000.0	140000.0	0.0	50000.0	300000.0
-273	XCOM 2	2016	Strategy	2K Games	160000.0	100000.0	0.0	50000.0	310000.0
-274	Dynasty Warriors 8: Xtreme Legends	2014	Misc	Tecmo Koei	90000.0	120000.0	60000.0	40000.0	310000.0
-275	Cities: Skylines	2017	Simulation	Koch Media	150000.0	70000.0	40000.0	50000.0	310000.0
-276	Saint Seiya: Soldiers' Soul	2015	Fighting	Namco Bandai Games	0.0	210000.0	50000.0	40000.0	300000.0
-277	Just Dance 2018	2017	Music	Ubisoft	100000.0	150000.0	0.0	50000.0	300000.0
-278	The Walking Dead: Season Two	2014	Misc	Square Enix	130000.0	90000.0	30000.0	50000.0	300000.0
-279	Sword Art Online: Fatal Bullet	2018	Role-Playing	Namco Bandai Games	110000.0	30000.0	130000.0	30000.0	300000.0
-280	Naruto to Boruto: Shinobi Striker	2018	Action	Bandai Namco Games	190000.0	30000.0	20000.0	50000.0	290000.0
-281	Yooka-Laylee	2017	Platform	Sold Out	90000.0	160000.0	0.0	50000.0	300000.0
-282	Cars 3: Driven to Win	2017	Racing	Warner Bros. Interactive Entertainment	60000.0	180000.0	10000.0	40000.0	290000.0
-283	Metal Gear Solid V: The Definitive Experience	2016	Action	Konami Digital Entertainment	130000.0	80000.0	30000.0	40000.0	280000.0
-284	Sherlock Holmes: Crimes & Punishments	2014	Adventure	Focus Home Interactive	100000.0	140000.0	0.0	50000.0	290000.0
-285	Star Trek Bridge Crew VR	2017	Action	Ubisoft	110000.0	120000.0	0.0	50000.0	280000.0
-286	The Heavy Rain and Beyond: Two Souls Collection	2016	Action	Sony Computer Entertainment	0.0	240000.0	0.0	40000.0	280000.0
-287	Spintires: MudRunner	2017	Simulation	Focus Home Interactive	110000.0	120000.0	0.0	50000.0	280000.0
-288	Onechanbara Z2: Chaos	2014	Action	NIS America	160000.0	30000.0	50000.0	40000.0	280000.0
-289	Secret of Mana	2018	Role-Playing	Square Enix	60000.0	120000.0	50000.0	40000.0	270000.0
-290	Gundam Versus	2017	Action	Namco Bandai Games	80000.0	0.0	180000.0	20000.0	280000.0
-291	NBA Live 14	2013	Sports	EA Sports	170000.0	50000.0	0.0	50000.0	270000.0
-292	Bravo Team VR	2018	Shooter	Sony Interactive Entertainment	120000.0	90000.0	20000.0	40000.0	270000.0
-293	Killing Floor 2 	2016	Shooter	Tripwire Interactive	190000.0	30000.0	0.0	50000.0	270000.0
-294	Robinson: The Journey	2016	Action-Adventure	Sony Interactive Entertainment	140000.0	90000.0	0.0	50000.0	280000.0
-295	DriveClub VR	2016	Racing	Sony Interactive Entertainment	120000.0	90000.0	10000.0	40000.0	260000.0
-296	Fate/Extella: The Umbral Star	2016	Action	PQube	120000.0	0.0	120000.0	30000.0	270000.0
-297	Ultimate Marvel vs. Capcom 3	2017	Fighting	Capcom	190000.0	0.0	20000.0	40000.0	250000.0
-298	New Danganronpa V3: Minna no Koroshiai Shin Gakki	2017	Adventure	NIS America	90000.0	50000.0	70000.0	30000.0	240000.0
-299	Samurai Warriors 4	2014	Fighting	Tecmo Koei	80000.0	70000.0	60000.0	30000.0	240000.0
-300	Darksiders III	2018	Action	THQ Nordic	130000.0	70000.0	0.0	40000.0	240000.0
-301	NBA Live 15	2014	Sports	Electronic Arts	160000.0	40000.0	0.0	40000.0	240000.0
-302	NBA Live 18	2017	Sports	EA Sports	200000.0	0.0	0.0	50000.0	250000.0
-303	Tearaway Unfolded	2015	Platform	Sony Computer Entertainment	70000.0	130000.0	0.0	40000.0	240000.0
-304	.hack//G.U. Last Recode	2017	Role-Playing	Namco Bandai Games	100000.0	40000.0	80000.0	30000.0	250000.0
-305	Ride	2015	Racing	Milestone S.r.l.	40000.0	130000.0	30000.0	30000.0	230000.0
-306	Just Dance 2017	2016	Misc	Ubisoft	80000.0	120000.0	0.0	40000.0	240000.0
-307	The Escapists 2	2017	Action	Sold Out	40000.0	160000.0	0.0	40000.0	240000.0
-308	Transformers: Devastation	2015	Action	Activision	110000.0	90000.0	0.0	40000.0	240000.0
-309	Darksiders II	2015	Action-Adventure	Nordic Games	100000.0	100000.0	0.0	40000.0	240000.0
-310	Jikkyou Powerful Pro Baseball 2016	2016	Sports	Konami Digital Entertainment	0.0	0.0	240000.0	0.0	240000.0
-311	The Elder Scrolls Online: Morrowind	2017	MMO	Bethesda Softworks	110000.0	90000.0	0.0	40000.0	240000.0
-312	Digimon World: Next Order	2017	Role-Playing	Namco Bandai Games	130000.0	50000.0	20000.0	40000.0	240000.0
-313	theHunter: Call of the Wild	2017	Shooter	Astragon	190000.0	0.0	0.0	40000.0	230000.0
-314	Tony Hawk's Pro Skater 5	2015	Sports	Activision	110000.0	80000.0	0.0	40000.0	230000.0
-315	Angry Birds: Star Wars	2013	Puzzle	Activision	110000.0	90000.0	0.0	40000.0	240000.0
-316	Elex	2017	Role-Playing	THQ Nordic	30000.0	160000.0	0.0	40000.0	230000.0
-317	RIGS: Mechanized Combat League	2016	Action	Sony Interactive Entertainment	110000.0	60000.0	20000.0	40000.0	230000.0
-318	Transformer: Rise of the Dark Spark	2014	Shooter	Activision	80000.0	110000.0	10000.0	40000.0	240000.0
-319	Dead Island Definitive Collection	2016	Action	Deep Silver	90000.0	80000.0	30000.0	30000.0	230000.0
-320	Metal Gear Survive	2018	Action	Konami Digital Entertainment	80000.0	60000.0	50000.0	30000.0	220000.0
-321	Singstar Celebration	2017	Music	Sony Interactive Entertainment	40000.0	150000.0	0.0	30000.0	220000.0
-322	Dead by Daylight	2017	Action	505 Games	110000.0	60000.0	20000.0	40000.0	230000.0
-323	Attack on Titan 2	2018	Action	Koei Tecmo	90000.0	40000.0	60000.0	30000.0	220000.0
-324	The Wolf Among Us	2014	Adventure	Telltale Games	110000.0	70000.0	0.0	40000.0	220000.0
-325	Micro Machines: World Series	2017	Racing	Codemasters	30000.0	160000.0	0.0	30000.0	220000.0
-326	Bladestorm: Nightmare	2015	Action	Tecmo Koei	110000.0	40000.0	30000.0	30000.0	210000.0
-327	Zombie Army Trilogy	2015	Shooter	Rebellion Developments	60000.0	130000.0	0.0	30000.0	220000.0
-328	Outlast Trinity	2017	Action	Warner Bros. Interactive Entertainment	90000.0	90000.0	0.0	40000.0	220000.0
-329	EVE: Valkyrie	2016	Shooter	Sony Interactive Entertainment	110000.0	60000.0	0.0	40000.0	210000.0
-330	Senran Kagura: Peach Beach Splash	2017	Action	PQube	90000.0	20000.0	80000.0	20000.0	210000.0
-331	Ys VIII: Lacrimosa of Dana	2017	Role-Playing	NIS America	80000.0	40000.0	80000.0	20000.0	220000.0
-332	Bound By Flame	2014	Action	Focus Home Interactive	80000.0	90000.0	0.0	40000.0	210000.0
-333	NBA Live 16	2015	Sports	EA Sports	130000.0	50000.0	0.0	40000.0	220000.0
-334	7 Days to Die	2016	Action	Telltale Games	90000.0	80000.0	0.0	30000.0	200000.0
-335	Dynasty Warriors 8: Empires	2014	Misc	Tecmo Koei	70000.0	70000.0	40000.0	30000.0	210000.0
-336	Dragon's Dogma	2017	Role-Playing	Capcom	70000.0	70000.0	30000.0	30000.0	200000.0
-337	Godzilla (2015)	2014	Action	Namco Bandai Games	110000.0	30000.0	30000.0	30000.0	200000.0
-338	Eagle Flight	2016	Adventure	Ubisoft	90000.0	80000.0	0.0	30000.0	200000.0
-339	Agents of Mayhem	2017	Action	Deep Silver	80000.0	80000.0	0.0	30000.0	190000.0
-340	MotoGP 14 	2014	Racing	Milestone S.r.l.	50000.0	110000.0	0.0	30000.0	190000.0
-341	Elite: Dangerous	2017	Simulation	Frontier Developments	60000.0	100000.0	0.0	30000.0	190000.0
-342	Singstar: Ultimate Party	2014	Music	Sony Computer Entertainment	0.0	160000.0	0.0	30000.0	190000.0
-343	Toukiden Kiwami	2015	Action	Tecmo Koei	60000.0	70000.0	30000.0	30000.0	190000.0
-344	Batman: A Telltale Game Series	2016	Adventure	Telltale Games	90000.0	70000.0	0.0	30000.0	190000.0
-345	The Surge	2017	Action	Koch Media	70000.0	80000.0	10000.0	30000.0	190000.0
-346	MotoGP 15	2015	Racing	Milestone S.r.l.	0.0	130000.0	40000.0	20000.0	190000.0
-347	Resident Evil: Revelations	2017	Action	Capcom	60000.0	60000.0	40000.0	20000.0	180000.0
-348	Senran Kagura: Estival Versus	2015	Action	Marvelous Interactive	80000.0	0.0	90000.0	20000.0	190000.0
-349	Back to the Future: The Game	2015	Adventure	Telltale Games	100000.0	50000.0	0.0	30000.0	180000.0
-350	The Walking Dead - The Telltale Series: A New Frontier	2017	Adventure	Warner Bros. Interactive Entertainment	110000.0	40000.0	0.0	30000.0	180000.0
-351	Resident Evil 6	2016	Shooter	Capcom	100000.0	0.0	50000.0	20000.0	170000.0
-352	Final Fantasy XIV: Heavensward	2015	MMO	Square Enix	0.0	90000.0	60000.0	20000.0	170000.0
-353	Final Fantasy XIV: Stormblood	2017	MMO	Square Enix	50000.0	60000.0	40000.0	20000.0	170000.0
-354	Guilty Gear Xrd: Sign	2014	Fighting	Arc System Works	110000.0	0.0	40000.0	20000.0	170000.0
-355	Prototype: Biohazard Bundle	2016	Action	Activision	140000.0	0.0	0.0	30000.0	170000.0
-356	BlazBlue Central Fiction	2016	Fighting	PQube	100000.0	0.0	50000.0	20000.0	170000.0
-357	MXGP 3: The Official Motocross Videogame	2017	Racing	Milestone	60000.0	80000.0	0.0	30000.0	170000.0
-358	Ride 2	2016	Racing	Milestone S.r.l	70000.0	60000.0	10000.0	30000.0	170000.0
-359	Dead Rising 4	2017	Action-Adventure	Capcom	80000.0	50000.0	0.0	30000.0	160000.0
-360	Putty Squad	2013	Platform	System 3	60000.0	70000.0	0.0	30000.0	160000.0
-361	Digimon Story: Cyber Sleuth - Hacker's Memory	2017	Role-Playing	Namco Bandai Games	50000.0	50000.0	40000.0	20000.0	160000.0
-362	Battlezone	2016	Action	Sony Interactive Entertainment	90000.0	40000.0	0.0	30000.0	160000.0
-363	Naruto Shippuden: Ultimate Ninja Storm Legacy	2017	Fighting	Namco Bandai Games	70000.0	40000.0	30000.0	20000.0	160000.0
-364	Berserk and the Band of the Hawk	2016	Action	Tecmo Koei	70000.0	20000.0	50000.0	20000.0	160000.0
-365	BlazBlue: Chrono Phantasma Extend	2015	Fighting	PQube	80000.0	40000.0	20000.0	20000.0	160000.0
-366	Pillars of Eternity	2017	Role-Playing	Paradox Interactive 	110000.0	20000.0	0.0	30000.0	160000.0
-367	Valkyria: Azure Revolution	2017	Role-Playing	Deep Silver	40000.0	30000.0	70000.0	20000.0	160000.0
-368	Gravity Rush Remastered	2015	Action-Adventure	Sony Computer Entertainment	20000.0	60000.0	50000.0	20000.0	150000.0
-369	Psycho-Pass: Mandatory Happiness	2016	Visual Novel	NIS America	100000.0	20000.0	0.0	30000.0	150000.0
-370	Brothers: A Tale of Two Sons	2015	Adventure	505 Games	40000.0	90000.0	0.0	20000.0	150000.0
-371	Warriors Orochi 3	2014	Action	Tecmo Koei	40000.0	50000.0	40000.0	20000.0	150000.0
-372	Wasteland 2	2015	Role-Playing	Deep Silver	100000.0	0.0	30000.0	20000.0	150000.0
-373	Atelier Sophie: The Alchemist of the Mysterious Book	2015	Role-Playing	Tecmo Koei	40000.0	30000.0	70000.0	10000.0	150000.0
-374	NASCAR Heat Evolution	2016	Racing	Dusenberry Martin Racing	120000.0	0.0	0.0	30000.0	150000.0
-375	Yakuza: Ishin	2014	Adventure	Sega	0.0	0.0	150000.0	0.0	150000.0
-376	Toukiden 2	2016	Action	Tecmo Koei	40000.0	0.0	100000.0	10000.0	150000.0
-377	Song of the Deep	2016	Action	Insomniac Games	120000.0	0.0	0.0	30000.0	150000.0
-378	Super Robot Wars V	2017	Role-Playing	Namco Bandai Games	0.0	0.0	150000.0	0.0	150000.0
-379	Blue Reflection: Maboroshi ni Mau - Shoujo no Ken	2017	Role-Playing	Tecmo Koei	70000.0	0.0	60000.0	20000.0	150000.0
-380	Yonmegami Online: Cyber Dimension Neptune	2017	Role-Playing	Idea Factory International	60000.0	0.0	70000.0	10000.0	140000.0
-381	Grand Kingdom	2015	Role-Playing	NIS America	80000.0	0.0	40000.0	20000.0	140000.0
-382	Arslan: The Warriors of Legend	2016	Action	Tecmo Koei	30000.0	40000.0	60000.0	10000.0	140000.0
-383	Pro Cycling Manager 2016	2016	Sports	Focus Home Interactive	0.0	120000.0	0.0	20000.0	140000.0
-384	Shovel Knight	2015	Platform	Yacht Club Games	80000.0	40000.0	0.0	20000.0	140000.0
-385	Adventure Time: Finn & Jake Investigations	2015	Action	Little Orbit	70000.0	50000.0	0.0	20000.0	140000.0
-386	Guilty Gear Xrd -Revelator-	2016	Fighting	PQube	60000.0	0.0	70000.0	10000.0	140000.0
-387	We Happy Few	2018	Action-Adventure	Gearbox Software	80000.0	40000.0	0.0	20000.0	140000.0
-388	Rocksmith 2014 Edition Remastered	2016	Music	Ubisoft	110000.0	0.0	0.0	30000.0	140000.0
-389	The Crew: Wild Run	2015	Racing	Ubisoft	0.0	120000.0	0.0	20000.0	140000.0
-390	MXGP 2	2016	Racing	Milestone S.r.l.	50000.0	60000.0	0.0	20000.0	130000.0
-391	MotoGP 17	2017	Racing	Koch Media	40000.0	70000.0	0.0	20000.0	130000.0
-392	Fairy Fencer F: Advent Dark Force	2015	Role-Playing	Idea Factory International	60000.0	0.0	60000.0	10000.0	130000.0
-393	Samurai Warriors 4-II	2015	Action	Tecmo Koei	40000.0	20000.0	70000.0	10000.0	140000.0
-394	The Golf Club	2014	Sports	Ravenscourt	90000.0	20000.0	0.0	20000.0	130000.0
-395	Hatsune Miku: Project Diva X	2016	Music	Sega	80000.0	0.0	40000.0	20000.0	140000.0
-396	NASCAR Heat 2	2017	Racing	505 Games	110000.0	0.0	0.0	20000.0	130000.0
-397	Bulletstorm: Full Clip Edition	2017	Shooter	Gearbox Software	50000.0	60000.0	0.0	20000.0	130000.0
-398	Valentino Rossi: The Game	2016	Racing	Namco Bandai Games	50000.0	50000.0	0.0	20000.0	120000.0
-399	Golf Club 2	2017	Sports	Maximum Games	50000.0	60000.0	0.0	20000.0	130000.0
-400	Akiba's Trip 2	2014	Action	Acquire	90000.0	0.0	20000.0	20000.0	130000.0
-401	Rugby 15	2015	Sports	Bigben Interactive	50000.0	60000.0	0.0	20000.0	130000.0
-402	Utawarerumono: Futari no Hakuoro	2016	Visual Novel	Atlus	50000.0	0.0	70000.0	10000.0	130000.0
-403	The Legend of Heroes: Trails of Cold Steel III	2017	Role-Playing	Nihon Falcom Corporation	0.0	0.0	130000.0	0.0	130000.0
-404	Utawarerumono: Itsuwari no Kamen	2015	Adventure	Deep Silver	50000.0	0.0	70000.0	10000.0	130000.0
-405	The Inpatient	2018	Action	Sony Interactive Entertainment	60000.0	50000.0	0.0	20000.0	130000.0
-406	Don Bradman Cricket 14	2015	Sports	Tru Blu Entertainment	10000.0	90000.0	0.0	20000.0	120000.0
-407	Sword Art Online: Hollow Fragment	2015	Role-Playing	Namco Bandai Games	0.0	110000.0	0.0	20000.0	130000.0
-408	Teenage Mutant Ninja Turtles: Mutants in Manhattan	2016	Action	Activision	70000.0	30000.0	0.0	20000.0	120000.0
-409	Job Simulator	2017	Simulation	Sony Interactive Entertainment	100000.0	0.0	0.0	20000.0	120000.0
-410	Portal Knights	2017	Role-Playing	505 Games	20000.0	50000.0	30000.0	10000.0	110000.0
-411	Samurai Warriors 4: Empires	2015	Action	Tecmo Koei	30000.0	10000.0	70000.0	10000.0	120000.0
-412	Danganronpa 1o2 Reload	2017	Adventure	NIS America	80000.0	0.0	20000.0	20000.0	120000.0
-413	God Eater 2: Rage Burst	2015	Role-Playing	Namco Bandai Games	0.0	10000.0	110000.0	0.0	120000.0
-414	America's Greatest Game Shows: Wheel of Fortune & Jeopardy!	2017	Misc	Ubisoft	100000.0	0.0	0.0	20000.0	120000.0
-415	Marvel's Guardians of the Galaxy: The Telltale Series	2017	Adventure	Warner Bros. Interactive Entertainment	60000.0	40000.0	0.0	20000.0	120000.0
-416	Digimon Story: Cyber Sleuth	2016	Role-Playing	Namco Bandai Games	0.0	100000.0	0.0	20000.0	120000.0
-417	Constructor HD	2017	Strategy	System 3	90000.0	0.0	0.0	20000.0	110000.0
-418	Minecraft: Story Mode - Season Two	2017	Adventure	Telltale Games	90000.0	0.0	0.0	20000.0	110000.0
-419	Darksiders: Warmastered Edition	2016	Action-Adventure	THQ Nordic	70000.0	20000.0	0.0	20000.0	110000.0
-420	Mighty No. 9	2016	Platform	Deep Silver	90000.0	0.0	0.0	20000.0	110000.0
-421	The Invisible Hours	2017	Adventure	GameTrust	90000.0	0.0	0.0	20000.0	110000.0
-422	Monster Energy Supercross - The Official Videogame	2018	Racing	Milestone S.r.l.	80000.0	10000.0	0.0	20000.0	110000.0
-423	The Idolmaster: Platinum Stars	2016	Simulation	Namco Bandai Games	0.0	0.0	110000.0	0.0	110000.0
-424	The Witch and the Hundred Knight	2015	Role-Playing	NIS America	30000.0	10000.0	60000.0	10000.0	110000.0
-425	SD Gundam G Generation Genesis	2016	Strategy	Namco Bandai Games	0.0	0.0	110000.0	0.0	110000.0
-426	Rime	2017	Adventure	Grey Box	20000.0	70000.0	0.0	20000.0	110000.0
-427	Super Robot Wars OG: The Moon Dwellers	2016	Misc	Namco Bandai Games	0.0	0.0	110000.0	0.0	110000.0
-428	Gundam Breaker 3	2016	Action	Namco Bandai Games	0.0	0.0	110000.0	0.0	110000.0
-429	Earth Defense Force 2025.1: The Shadow of New Despair	2015	Shooter	D3Publisher	0.0	0.0	110000.0	0.0	110000.0
-430	Shadow Warrior (2013)	2014	Shooter	Devolver Digital	0.0	90000.0	0.0	20000.0	110000.0
-431	Assassin's Creed Chronicles	2016	Action	Ubisoft	20000.0	50000.0	20000.0	10000.0	100000.0
-432	Mega Man Legacy Collection	2016	Platform	Capcom	90000.0	0.0	0.0	20000.0	110000.0
-433	Pac-Man Championship Edition 2 + Arcade Game Series	2017	Action	Namco Bandai Games	80000.0	0.0	0.0	20000.0	100000.0
-434	Tokyo Xanadu eX+	2016	Role-Playing	Nihon Falcom Corporation	50000.0	0.0	50000.0	10000.0	110000.0
-435	Stardew Valley	2017	Simulation	505 Games	40000.0	40000.0	0.0	20000.0	100000.0
-436	Romance of the Three Kingdoms 13	2015	Action	Tecmo Koei	30000.0	0.0	60000.0	10000.0	100000.0
-437	Musou Stars	2017	Action	Tecmo Koei	30000.0	0.0	60000.0	10000.0	100000.0
-438	Mega Man Legacy Collection 2	2017	Action	Capcom	60000.0	0.0	20000.0	10000.0	90000.0
-439	Final Fantasy XIV Online Complete Edition	2017	MMO	Square Enix	70000.0	0.0	20000.0	20000.0	110000.0
-440	Devil May Cry 4	2015	Action	Capcom	10000.0	0.0	90000.0	0.0	100000.0
-441	Puyo Puyo Tetris	2014	Puzzle	Sega	50000.0	30000.0	0.0	20000.0	100000.0
-442	Natural Doctrine	2014	Role-Playing	NIS America	50000.0	20000.0	20000.0	10000.0	100000.0
-443	Sudden Strike 4	2017	Strategy	Kalypso Media	50000.0	30000.0	10000.0	20000.0	110000.0
-444	Accel World vs. Sword Art Online: Millennium Twilight	2017	Action	Namco Bandai Games	0.0	30000.0	60000.0	10000.0	100000.0
-445	Wolfenstein The Two Pack	2017	Shooter	Bethesda Softworks	80000.0	0.0	0.0	20000.0	100000.0
-446	Guilty Gear Xrd REV 2	2017	Fighting	PQube	40000.0	10000.0	30000.0	10000.0	90000.0
-448	Let's Sing 2016	2015	Music	Ravenscourt	80000.0	0.0	0.0	20000.0	100000.0
-449	Resident Evil 4 HD	2016	Action-Adventure	Capcom	70000.0	0.0	10000.0	20000.0	100000.0
-450	Nights of Azure 2	2017	Action	Tecmo Koei	40000.0	0.0	40000.0	10000.0	90000.0
-451	The Technomancer	2016	Role-Playing	Focus Home Interactive	40000.0	40000.0	0.0	20000.0	100000.0
-452	Nights of Azure	2015	Action	Tecmo Koei	40000.0	40000.0	0.0	20000.0	100000.0
-453	Taiko no Tatsujin: Drum Session!	2017	Music	Namco Bandai Games	0.0	0.0	90000.0	0.0	90000.0
-454	Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden	2016	Strategy	Tecmo Koei	30000.0	0.0	60000.0	10000.0	100000.0
-455	Grand Ages: Medieval	2015	Strategy	Kalypso Media	0.0	50000.0	30000.0	10000.0	90000.0
-456	Rugby League Live 4	2017	Sports	Tru Blu Entertainment	0.0	80000.0	0.0	10000.0	90000.0
-457	Toy Soldiers: War Chest	2015	Action	Ubisoft	70000.0	0.0	0.0	20000.0	90000.0
-458	God Eater Resurrection	2015	Action	Namco Bandai Games	0.0	0.0	90000.0	0.0	90000.0
-459	Paragon	2016	Action	Sony Interactive Entertainment	70000.0	0.0	0.0	20000.0	90000.0
-460	Summon Night 6: Lost Borders	2016	Role-Playing	Gaijinworks	30000.0	0.0	50000.0	10000.0	90000.0
-461	Black Rose Valkyrie	2016	Role-Playing	Idea Factory International	40000.0	0.0	40000.0	10000.0	90000.0
-462	Duke Nukem 3D: 20th Anniversary World Tour	2016	Shooter	Gearbox Software	70000.0	0.0	0.0	20000.0	90000.0
-463	ATV Drift & Tricks	2017	Racing	Funbox Media	70000.0	0.0	0.0	20000.0	90000.0
-464	Yoru no Nai Kuni	2015	Role-Playing	Tecmo Koei	0.0	0.0	90000.0	0.0	90000.0
-465	Lara Croft and the Temple of Osiris	2014	Action	Square Enix	0.0	70000.0	0.0	10000.0	80000.0
-467	Ghostbusters (2016)	2016	Action	Activision	70000.0	0.0	0.0	20000.0	90000.0
-468	Agatha Christie's The ABC Murders	2016	Adventure	Microids	50000.0	20000.0	0.0	20000.0	90000.0
-469	Shantae: Half-Genie Hero	2016	Platform	Xseed Games	60000.0	0.0	10000.0	10000.0	80000.0
-470	Earth Defense Force 4.1: The Shadow of New Despair	2015	Shooter	PQube	50000.0	20000.0	0.0	10000.0	80000.0
-471	The Sexy Brutale	2017	Adventure	Badland Studio	50000.0	20000.0	0.0	10000.0	80000.0
-472	Legend of Kay	2015	Action	Nordic Games	30000.0	30000.0	0.0	10000.0	70000.0
-473	Hasbro Family Fun Pack Conquest Edition	2016	Misc	Ubisoft	70000.0	0.0	0.0	20000.0	90000.0
-474	Loading Human	2016	Adventure	Maximum Games	50000.0	20000.0	0.0	10000.0	80000.0
-475	Rapala Fishing Pro Series	2017	Simulation	GameMill	60000.0	0.0	0.0	20000.0	80000.0
-476	Atelier Firis: The Alchemist of the Mysterious Journey	2016	Role-Playing	Tecmo Koei	20000.0	0.0	50000.0	10000.0	80000.0
-477	Dead Rising	2016	Action	Capcom	40000.0	0.0	20000.0	10000.0	70000.0
-478	Assetto Corsa	2016	Racing	505 Games	0.0	60000.0	10000.0	10000.0	80000.0
-479	Akiba's Beat	2016	Action	PQube	50000.0	0.0	10000.0	10000.0	70000.0
-480	WRC 6	2016	Racing	PQube	30000.0	20000.0	10000.0	10000.0	70000.0
-481	God Wars: Future Past	2017	Role-Playing	NIS America	30000.0	10000.0	20000.0	10000.0	70000.0
-482	Resident Evil 5 HD	2016	Action	Capcom	50000.0	0.0	10000.0	10000.0	70000.0
-483	The Witch and the Hundred Knights 2	2017	Role-Playing	Nippon Ichi Software	30000.0	0.0	30000.0	10000.0	70000.0
-484	Samurai Warriors: Sanada Maru	2016	Action	Tecmo Koei	20000.0	0.0	50000.0	10000.0	80000.0
-485	Project Setsuna	2016	Role-Playing	Square Enix	0.0	0.0	70000.0	0.0	70000.0
-486	Has-Been Heroes	2017	Action	GameTrust	60000.0	0.0	0.0	10000.0	70000.0
-487	Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary	2017	Misc	Square Enix	0.0	0.0	70000.0	0.0	70000.0
-488	Styx: Shards of Darknes	2017	Action	Focus Home Interactive	60000.0	0.0	0.0	10000.0	70000.0
-489	Dead Rising 2	2016	Action	Capcom	40000.0	0.0	20000.0	10000.0	70000.0
-490	The Book of Unwritten Tales 2	2015	Adventure	Nordic Games	0.0	60000.0	0.0	10000.0	70000.0
-491	Touhou Genso Rondo: Bullet Ballet	2016	Shooter	NIS America	60000.0	0.0	0.0	10000.0	70000.0
-492	The Walking Dead: A Telltale Series Collection	2017	Adventure	Warner Bros. Interactive Entertainment	60000.0	0.0	0.0	10000.0	70000.0
-493	The Silver Case	2017	Visual Novel	NIS America	50000.0	0.0	10000.0	10000.0	70000.0
-494	Hunting Simulator	2017	Shooter	Bigben Interactive	60000.0	0.0	0.0	10000.0	70000.0
-495	WRC 7	2017	Racing	Bigben Interactive	60000.0	0.0	0.0	10000.0	70000.0
-496	Kamen Rider: Battride War Genesis	2016	Action	Namco Bandai Games	0.0	0.0	70000.0	0.0	70000.0
-497	Le Tour de France 2017	2017	Simulation	Focus Home Interactive	0.0	60000.0	0.0	10000.0	70000.0
-498	City Shrouded in Shadow	2017	Action-Adventure	Namco Bandai Games	0.0	0.0	70000.0	0.0	70000.0
-499	SG/ZH: School Girl/Zombie Hunter	2017	Action	Aksys Games	40000.0	0.0	20000.0	10000.0	70000.0
-500	Broken Sword 5: The Serpent's Curse	2015	Adventure	Revolution Software	0.0	60000.0	0.0	10000.0	70000.0
-501	Terraria	2014	Action	505 Games	0.0	50000.0	10000.0	10000.0	70000.0
-502	Warhammer: The End Times - Vermintide	2016	Action	Games Workshop	30000.0	30000.0	0.0	10000.0	70000.0
-503	Batman: The Enemy Within	2017	Adventure	Telltale Games	50000.0	0.0	0.0	10000.0	60000.0
-504	Atari Flashback Classics: Volume 1	2016	Misc	Atari	50000.0	0.0	0.0	10000.0	60000.0
-505	Legend of Kay Anniversary	2015	Action	Nordic Games	0.0	60000.0	0.0	10000.0	70000.0
-506	Steins;Gate 0	2015	Adventure	PQube	0.0	0.0	70000.0	0.0	70000.0
-507	ZombiU	2016	Action	Ubisoft	0.0	40000.0	10000.0	10000.0	60000.0
-508	Risen 3: Titan Lords	2015	Role-Playing	Deep Silver	0.0	60000.0	0.0	10000.0	70000.0
-509	Mark McMorris Infinite Air	2016	Sports	Maximum Games	50000.0	0.0	0.0	10000.0	60000.0
-510	Dead or Alive Xtreme 3: Fortune	2016	Sports	Tecmo Koei	0.0	0.0	60000.0	0.0	60000.0
-511	Birthdays the Beginning	2017	Misc	NIS America	50000.0	0.0	0.0	10000.0	60000.0
-512	Rugby 18	2017	Sports	Koch Media	50000.0	0.0	0.0	10000.0	60000.0
-513	The Binding of Isaac	2017	Misc	Nicalis	50000.0	0.0	0.0	10000.0	60000.0
-514	Sherlock Holmes: The Devil's Daughter	2016	Adventure	Bigben Interactive	50000.0	0.0	0.0	10000.0	60000.0
-515	Atelier Liddy and Soeur: Alchemists of the Mysterious Painting	2017	Role-Playing	Tecmo Koei	30000.0	0.0	30000.0	10000.0	70000.0
-516	MX vs. ATV Supercross Encore	2015	Sports	Nordic Games	0.0	50000.0	0.0	10000.0	60000.0
-517	MX vs ATV Supercross Encore 2017 Track Edition	2017	Racing	THQ Nordic	50000.0	0.0	0.0	10000.0	60000.0
-518	Sword Art Online: Game Director's Edition	2015	Role-Playing	Namco Bandai Games	0.0	0.0	60000.0	0.0	60000.0
-519	Deformers	2017	Action	Ready at Dawn	50000.0	0.0	0.0	10000.0	60000.0
-520	Nobunaga no Yabou: Souzou	2014	Strategy	Tecmo Koei	0.0	0.0	60000.0	0.0	60000.0
-521	Dragon Quest X: All in One Package	2017	Role-Playing	Square Enix	0.0	0.0	60000.0	0.0	60000.0
-522	Yomawari: Midnight Shadows	2017	Action	NIS America	20000.0	0.0	40000.0	0.0	60000.0
-523	Game of Thrones (Telltale)	2015	Adventure	Telltale Games	50000.0	0.0	0.0	10000.0	60000.0
-524	Atari Flashback Classics: Volume 2	2016	Misc	Atari	50000.0	0.0	0.0	10000.0	60000.0
-525	Outcast: Second Contact	2017	Adventure	Maximum Games	50000.0	0.0	0.0	10000.0	60000.0
-526	Cartoon Network Battle Crashers	2016	Action	Maximum Games	50000.0	0.0	0.0	10000.0	60000.0
-527	Handball 16	2015	Sports	Bigben Interactive	0.0	50000.0	0.0	10000.0	60000.0
-528	Extinction	2018	Action	Maximum Games	50000.0	0.0	0.0	10000.0	60000.0
-529	Rugby World Cup 2015	2015	Sports	Big Ben Interactive	0.0	50000.0	0.0	10000.0	60000.0
-530	Exist Archive: The Other Side of the Sky	2015	Role-Playing	Aksys Games	20000.0	0.0	30000.0	0.0	50000.0
-531	King's Quest: The Complete Collection	2016	Adventure	Activision	50000.0	0.0	0.0	10000.0	60000.0
-532	Sine Mora	2017	Action	THQ Nordic	30000.0	10000.0	0.0	10000.0	50000.0
-533	Aven Colony	2017	Strategy	Sold Out	40000.0	10000.0	0.0	10000.0	60000.0
-534	Battle Chasers: Nightwar	2017	Role-Playing	THQ Nordic	30000.0	20000.0	0.0	10000.0	60000.0
-535	WRC 5: FIA World Rally Championship	2015	Racing	Bigben Interactive	0.0	50000.0	0.0	10000.0	60000.0
-536	Black Mirror	2017	Adventure	THQ Nordic	40000.0	0.0	0.0	10000.0	50000.0
-537	Touhou Genso Wanderer	2017	Action	NIS America	40000.0	0.0	0.0	10000.0	50000.0
-538	Arcania: Gothic 4	2015	Role-Playing	Nordic Games	40000.0	0.0	0.0	10000.0	50000.0
-539	Starblood Arena VR	2017	Shooter	Sony Interactive Entertainment	40000.0	0.0	0.0	10000.0	50000.0
-540	Hellblade	2018	Action-Adventure	505 Games	30000.0	10000.0	0.0	10000.0	50000.0
-541	Bubsy: The Woolies Strike Back	2017	Platform	Accolade	40000.0	0.0	0.0	10000.0	50000.0
-542	Nitroplus Blasterz: Heroines Infinite Duel	2015	Fighting	Marvelous Interactive	10000.0	10000.0	30000.0	0.0	50000.0
-543	Nobunaga's Ambition: Creation	2014	Strategy	Tecmo Koei	40000.0	0.0	0.0	10000.0	50000.0
-544	Child of Light	2014	Role-Playing	Ubisoft	0.0	10000.0	40000.0	0.0	50000.0
-545	Phantasy Star Online 2 Episode 4: Deluxe Package	2017	Role-Playing	Sega	0.0	0.0	50000.0	0.0	50000.0
-546	Saints Row: Gat out of Hell	2015	Action	Deep Silver	0.0	40000.0	0.0	10000.0	50000.0
-547	Werewolves Within	2016	Misc	Ubisoft	40000.0	0.0	0.0	10000.0	50000.0
-548	Demon Gaze 2	2017	Role-Playing	NIS America	40000.0	0.0	0.0	10000.0	50000.0
-549	Real Farm	2017	Simulation	Soedesco	40000.0	0.0	0.0	10000.0	50000.0
-550	Worms: WMD	2016	Strategy	Team17 Digital Ltd	20000.0	20000.0	0.0	10000.0	50000.0
-551	Syberia III	2017	Adventure	Microids	40000.0	0.0	0.0	10000.0	50000.0
-552	Sengoku Basara: Sanada Yukimura-Den	2016	Action	Capcom	0.0	0.0	50000.0	0.0	50000.0
-553	Sengoku Basara 4: Sumeragi	2015	Action	Capcom	0.0	0.0	50000.0	0.0	50000.0
-554	Sébastien Loeb Rally Evo	2016	Racing	Milestone S.r.l	0.0	40000.0	0.0	10000.0	50000.0
-555	Don't Starve	2018	Adventure	505 Games	40000.0	0.0	0.0	10000.0	50000.0
-556	Monster Jam: Crush It	2016	Racing	GameMill	40000.0	0.0	0.0	10000.0	50000.0
-557	Prison Architect	2016	Simulation	Introversion Software	20000.0	20000.0	0.0	10000.0	50000.0
-558	Assault Suit Leynos	2016	Shooter	Rising Star Games	40000.0	0.0	0.0	10000.0	50000.0
-559	Tokyo Twilight Ghost Hunters Daybreak: Special Gigs	2016	Adventure	NIS America	40000.0	0.0	0.0	10000.0	50000.0
-560	Overcooked	2016	Action	Sold Out	40000.0	0.0	0.0	10000.0	50000.0
-561	Ben 10 (2017)	2017	Action	Outright Games	40000.0	0.0	0.0	10000.0	50000.0
-562	Dead Alliance	2017	Shooter	Maximum Games	40000.0	0.0	0.0	10000.0	50000.0
-563	Deer Hunter Reloaded	2017	Shooter	Maximum Games	40000.0	0.0	0.0	10000.0	50000.0
-564	That's You	2017	Party	Sony Interactive Entertainment	40000.0	0.0	0.0	10000.0	50000.0
-565	Raid: World War II	2017	Shooter	505 Games	40000.0	0.0	0.0	10000.0	50000.0
-566	Hyperdimension Neptunia Victory II	2015	Role-Playing	Idea Factory International	0.0	0.0	40000.0	0.0	40000.0
-567	Zero Escape The Nonary Games	2017	Adventure	Aksys Games	30000.0	0.0	10000.0	10000.0	50000.0
-568	Rugby Challenge 3	2016	Sports	Alternative Software	0.0	40000.0	0.0	10000.0	50000.0
-569	Vikings: Wolves of Midgard	2017	Action	Kalypso Media	30000.0	10000.0	0.0	10000.0	50000.0
-570	INSIDE / LIMBO Double Pack	2017	Platform	505 Games	40000.0	0.0	0.0	10000.0	50000.0
-571	The Talos Principle	2015	Puzzle	Nighthawk Interactive	0.0	40000.0	0.0	10000.0	50000.0
-572	Megadimension Neptunia VIIR	2017	Role-Playing	Compile Heart	10000.0	0.0	30000.0	0.0	40000.0
-573	R.B.I. Baseball 2016	2016	Sports	MLB.com	40000.0	0.0	0.0	10000.0	50000.0
-574	Pure Farming 2018	2018	Simulation	Techland	20000.0	10000.0	0.0	10000.0	40000.0
-575	Air Conflicts: Secret Wars	2016	Simulation	Nighthawk Interactive	30000.0	0.0	0.0	10000.0	40000.0
-576	Anima - Gate of Memories	2016	Action	Avanquest	10000.0	20000.0	0.0	10000.0	40000.0
-577	Axiom Verge	2017	Action	Badland Studio	30000.0	0.0	0.0	10000.0	40000.0
-578	Unbox: Newbie's Adventure	2017	Action	Merge Games	30000.0	0.0	0.0	10000.0	40000.0
-579	Here They Lie	2016	Adventure	Sony Interactive Entertainment	0.0	30000.0	0.0	10000.0	40000.0
-580	Under Night In-Birth Exe:Latest	2017	Fighting	Arc System Works	10000.0	0.0	30000.0	0.0	40000.0
-581	Aragami	2016	Action	Maximum Games	30000.0	0.0	0.0	10000.0	40000.0
-582	Yonder: The Cloud Catcher Chronicles	2017	Action	CokeM Interactive	30000.0	0.0	0.0	10000.0	40000.0
-583	Assassin's Creed Chronicles: China	2015	Action-Adventure	Ubisoft	0.0	30000.0	0.0	10000.0	40000.0
-584	JoJo's Bizarre Adventure: Eyes of Heaven	2015	Fighting	Namco Bandai Games	0.0	0.0	40000.0	0.0	40000.0
-585	Dungeons 3	2017	Strategy	Kalypso Media	30000.0	0.0	0.0	10000.0	40000.0
-586	Tour de France 2014	2014	Sports	Focus Home Interactive	0.0	30000.0	0.0	10000.0	40000.0
-587	Danganronpa Another Episode: Ultra Despair Girls	2017	Shooter	NIS America	30000.0	0.0	10000.0	10000.0	50000.0
-588	Aegis of Earth: Protonovus Assault	2016	Action	PQube	30000.0	10000.0	0.0	10000.0	50000.0
-589	Just Sing	2016	Music	Ubisoft	30000.0	0.0	0.0	10000.0	40000.0
-590	Wonder Boy: The Dragon's Trap (Remake)	2018	Platform	Nicalis	30000.0	0.0	0.0	10000.0	40000.0
-591	Lumo	2016	Puzzle	Rising Star Games	30000.0	0.0	0.0	10000.0	40000.0
-592	ABZU	2017	Adventure	505 Games	30000.0	0.0	0.0	10000.0	40000.0
-593	Shadow Tactics: Blades of the Shogun	2017	Strategy	Kalypso Media	20000.0	10000.0	0.0	10000.0	40000.0
-594	Darkest Dungeon	2018	Role-Playing	Merge Games	20000.0	0.0	10000.0	10000.0	40000.0
-595	R.B.I. Baseball 2017	2017	Sports	MLB.com	30000.0	0.0	0.0	10000.0	40000.0
-596	Punch Line	2015	Adventure	5pb	30000.0	0.0	0.0	10000.0	40000.0
-597	VR Karts	2017	Racing	Perp Games	30000.0	0.0	0.0	10000.0	40000.0
-598	Resident Evil: Umbrella Corps	2016	Shooter	Capcom	0.0	0.0	40000.0	0.0	40000.0
-599	Marvel Pinball: Epic Collection Volume 1	2016	Puzzle	Nighthawk Interactive	30000.0	0.0	0.0	10000.0	40000.0
-600	God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2	2015	Misc	Namco Bandai Games	0.0	0.0	40000.0	0.0	40000.0
-601	Infamous: First Light	2014	Action	Sony Computer Entertainment	0.0	30000.0	0.0	0.0	30000.0
-602	Raiden V	2017	Action	UFO Interactive	20000.0	0.0	0.0	10000.0	30000.0
-603	The Peanuts Movie: Snoopy's Grand Adventure	2015	Platform	Activision	0.0	30000.0	0.0	0.0	30000.0
-604	The Dwarves	2016	Role-Playing	THQ Nordic	30000.0	0.0	0.0	10000.0	40000.0
-605	Dynasty Warriors: Eiketsuden	2016	Strategy	Tecmo Koei	0.0	0.0	30000.0	0.0	30000.0
-606	Winning Post 8 2016	2016	Simulation	Tecmo Koei	0.0	0.0	30000.0	0.0	30000.0
-607	Dragon's Dogma Online: Season 2	2016	Action	Capcom	0.0	0.0	30000.0	0.0	30000.0
-608	Coven and Labyrinth of Refrain	2017	Action	Nippon Ichi Software	10000.0	0.0	10000.0	0.0	20000.0
-609	Super Dungeon Bros	2016	Action	Wired Productions	20000.0	0.0	0.0	10000.0	30000.0
-610	Blade Arcus from Shining EX	2015	Fighting	Sega	0.0	0.0	30000.0	0.0	30000.0
-611	Troll and I	2017	Action	Maximum Games	20000.0	0.0	0.0	10000.0	30000.0
-612	The Pillars of the Earth	2017	Adventure	Kalypso Media	20000.0	0.0	0.0	10000.0	30000.0
-613	The Lost Child	2017	Action	Kadokawa Games	10000.0	0.0	10000.0	0.0	20000.0
-614	Romance of the Three Kingdoms 13 with Power-Up Kit	2017	Misc	Tecmo Koei	0.0	0.0	30000.0	0.0	30000.0
-615	Koihime Enbu	2016	Fighting	Yeti	0.0	0.0	30000.0	0.0	30000.0
-616	Road Rage	2017	Racing	Maximum Games	20000.0	0.0	0.0	10000.0	30000.0
-617	Winning Post 8 2017	2017	Misc	Tecmo Koei	0.0	0.0	30000.0	0.0	30000.0
-618	Dino Dini's Kick Off Revival	2016	Sports	Avanquest	0.0	20000.0	0.0	0.0	20000.0
-619	God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5	2016	Misc	Namco Bandai Games	0.0	0.0	30000.0	0.0	30000.0
-620	Tumblestone	2016	Puzzle	Nighthawk Interactive	20000.0	0.0	0.0	10000.0	30000.0
-621	Blackguards 2	2017	Strategy	Kalypso Media	20000.0	0.0	0.0	10000.0	30000.0
-622	Baja: Edge of Control HD	2017	Racing	THQ Nordic	20000.0	0.0	0.0	10000.0	30000.0
-623	Crows: Burning Edge	2016	Action	Namco Bandai Games	0.0	0.0	30000.0	0.0	30000.0
-624	Geometry Wars 3: Dimensions Evolved	2016	Action	Activision	20000.0	0.0	0.0	10000.0	30000.0
-625	We Sing (2016)	2016	Music	THQ Nordic	20000.0	0.0	0.0	10000.0	30000.0
-626	Shin Hayarigami 2	2016	Adventure	Nippon Ichi Software	0.0	0.0	30000.0	0.0	30000.0
-627	The Town of Light	2017	Adventure	Wired Productions	20000.0	0.0	0.0	10000.0	30000.0
-628	OlliOlli: Epic Combo Edition	2016	Platform	Badland Studio	20000.0	0.0	0.0	10000.0	30000.0
-629	Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto	2017	Fighting	Namco Bandai Games	0.0	0.0	30000.0	0.0	30000.0
-631	Ao no Kanata no Four Rhythm	2017	Visual Novel	Sprite	0.0	0.0	30000.0	0.0	30000.0
-632	Zero Escape: Zero Time Dilemma	2017	Adventure	Aksys Games	20000.0	0.0	0.0	0.0	20000.0
-633	AereA	2017	Role-Playing	Soedesco	20000.0	0.0	0.0	0.0	20000.0
-634	Root Letter	2016	Visual Novel	PQube	0.0	0.0	30000.0	0.0	30000.0
-635	ClaDun Sengoku	2017	Action	NIS America	20000.0	0.0	0.0	0.0	20000.0
-636	The Girl and the Robot	2017	Misc	Soedesco	20000.0	0.0	0.0	0.0	20000.0
-637	Omega Quintet	2014	Role-Playing	Compile Heart	0.0	0.0	20000.0	0.0	20000.0
-638	Touhou Kobuto V: Burst Battle	2017	Shooter	NIS America	20000.0	0.0	0.0	0.0	20000.0
-639	God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4	2016	Action	Namco Bandai Games	0.0	0.0	20000.0	0.0	20000.0
-640	Rugby League Live 3	2015	Sports	Tru Blu Entertainment	0.0	20000.0	0.0	0.0	20000.0
-641	Omega Labyrinth Z	2017	Role-Playing	D3Publisher	0.0	0.0	20000.0	0.0	20000.0
-642	Lost Sphear	2017	Role-Playing	Square Enix	0.0	0.0	20000.0	0.0	20000.0
-643	Superbeat: Xonic	2017	Music	PM Studios	20000.0	0.0	0.0	0.0	20000.0
-644	Republique	2016	Action-Adventure	Gunho Online Entertainment	0.0	10000.0	10000.0	0.0	20000.0
-645	Super Stardust Ultra VR	2016	Shooter	Sony Interactive Entertainment	0.0	20000.0	0.0	0.0	20000.0
-646	Redout	2017	Racing	505 Games	20000.0	0.0	0.0	0.0	20000.0
-647	Resident Evil: Value Pack	2016	Action-Adventure	Capcom	0.0	0.0	20000.0	0.0	20000.0
-648	God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7	2016	Action	Namco Bandai Games	0.0	0.0	20000.0	0.0	20000.0
-649	PaRappa the Rapper Remastered	2017	Music	Sony Interactive Entertainment	0.0	0.0	20000.0	0.0	20000.0
-650	Earth's Dawn	2016	Action	Rising Star Games	20000.0	0.0	0.0	0.0	20000.0
-651	Big Buck Hunter Arcade	2016	Shooter	GameMill Entertainment	20000.0	0.0	0.0	0.0	20000.0
-652	Dungeons 2	2016	Role-Playing	Kalypso Media	20000.0	0.0	0.0	0.0	20000.0
-653	Tricky Towers	2017	Puzzle	Soedesco	20000.0	0.0	0.0	0.0	20000.0
-654	No Heroes Allowed! VR	2017	Strategy	Sony Interactive Entertainment	0.0	0.0	20000.0	0.0	20000.0
-655	ArmaGallant: Decks of Destiny	2017	Strategy	Maximum Games	20000.0	0.0	0.0	0.0	20000.0
-656	Carmageddon: Max Damage	2016	Action	Stainless Games	20000.0	0.0	0.0	0.0	20000.0
-657	Armello	2018	Strategy	League of Geeks	20000.0	0.0	0.0	0.0	20000.0
-658	Shaq-Fu: A Legend Reborn	2018	Action	Wired Productions	20000.0	0.0	0.0	0.0	20000.0
-659	Patapon Remastered	2017	Music	Sony Interactive Entertainment	0.0	0.0	20000.0	0.0	20000.0
-660	Monster Hunter Frontier Z: Beginner's Package	2016	Action	Capcom	0.0	0.0	20000.0	0.0	20000.0
-661	Professional Farmer 2016	2015	Action	Namco Bandai Games	0.0	20000.0	0.0	0.0	20000.0
-662	Natsuiro High School: Seishun Hakusho	2015	Action	D3Publisher	0.0	0.0	20000.0	0.0	20000.0
-663	The Inner World: The Last Wind Monk	2017	Puzzle	Kalypso Media	20000.0	0.0	0.0	0.0	20000.0
-664	SteamWorld Collection	2016	Misc	Rising Star Games	20000.0	0.0	0.0	0.0	20000.0
-665	Konoyo no Hate de Koi o Utau Shoujo: Yu-No	2017	Visual Novel	5pb	0.0	0.0	20000.0	0.0	20000.0
-666	God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6	2016	Misc	Namco Bandai Games	0.0	0.0	20000.0	0.0	20000.0
-667	Genkai Tokki: Castle Panzers	2017	Role-Playing	Compile Heart	0.0	0.0	20000.0	0.0	20000.0
-668	Skullgirls: 2nd Encore	2016	Fighting	Arc System Works	0.0	0.0	20000.0	0.0	20000.0
-669	This Is The Police	2017	Simulation	THQ Nordic	10000.0	0.0	0.0	0.0	10000.0
-670	Rabbids Invasion: The Interactive TV Show	2014	Misc	Ubisoft	0.0	10000.0	0.0	0.0	10000.0
-671	FlatOut 4: Total Insanity	2017	Racing	Bigben Interactive	10000.0	0.0	0.0	0.0	10000.0
-672	Chaos;Child	2015	Visual Novel	PQube	0.0	0.0	20000.0	0.0	20000.0
-673	Touhou Shinhiroku: Urban Legend in Limbo	2016	Fighting	Mediascape	0.0	0.0	20000.0	0.0	20000.0
-674	Rogue Trooper: Redux	2017	Shooter	Rebellion	10000.0	0.0	0.0	0.0	10000.0
-675	Space Hulk: Deathwing	2015	Shooter	Focus Home Interactive	0.0	10000.0	0.0	0.0	10000.0
-676	Pharaonic	2017	Action	Soedesco	10000.0	0.0	0.0	0.0	10000.0
-677	White Day	2017	Action	PQube	0.0	10000.0	10000.0	0.0	20000.0
-678	Torment: Tides of Numenera	2017	Role-Playing	Techland	10000.0	0.0	0.0	0.0	10000.0
-679	Let It Die	2017	Action	GungHo	0.0	10000.0	10000.0	0.0	20000.0
-680	Summer Lesson: Miyamoto Hikari Collection	2017	Adventure	Namco Bandai Games	0.0	0.0	10000.0	0.0	10000.0
-681	Raven's Cry	2015	Role-Playing	TopWare Interactive	0.0	10000.0	0.0	0.0	10000.0
-682	New Game! The Challenge Stage!	2017	Adventure	5pb	0.0	0.0	10000.0	0.0	10000.0
-683	Hakoniwa Company Works	2017	Strategy	Nippon Ichi Software	0.0	0.0	10000.0	0.0	10000.0
-684	DJ Max Respect	2017	Misc	Arc System Works	0.0	0.0	10000.0	0.0	10000.0
-685	Battle Worlds: Kronos	2016	Strategy	Nordic Games	10000.0	0.0	0.0	0.0	10000.0
-686	Dragon's Dogma Online: Season 3	2017	Role-Playing	Capcom	0.0	0.0	10000.0	0.0	10000.0
-687	Occultic;Nine	2017	Adventure	5pb	0.0	0.0	10000.0	0.0	10000.0
-688	Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!	2017	Adventure	5pb	0.0	0.0	10000.0	0.0	10000.0
-689	Battle Garegga Rev.2016	2016	Strategy	M2	0.0	0.0	10000.0	0.0	10000.0
-690	Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set	2017	Adventure	5pb	0.0	0.0	10000.0	0.0	10000.0
-691	Farming 2017 - The Simulation	2016	Simulation	UIG Entertainment	0.0	10000.0	0.0	0.0	10000.0
-692	Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss	2017	Adventure	5pb	0.0	0.0	10000.0	0.0	10000.0
-693	Zombie Vikings	2016	Action	Rising Star Games	0.0	10000.0	0.0	0.0	10000.0
-694	ATV Renegades	2017	Racing	Nighthawk Interactive	10000.0	0.0	0.0	0.0	10000.0
-695	Ziggurat	2016	Shooter	Soedesco	0.0	10000.0	0.0	0.0	10000.0
-696	Chaos;Child: Love Chu Chu!!	2017	Visual Novel	5pb	0.0	0.0	10000.0	0.0	10000.0
-697	Moto Racer 4	2016	Racing	PQube	10000.0	0.0	0.0	0.0	10000.0
-698	LocoRoco Remastered	2017	Platform	Sony Interactive Entertainment	0.0	0.0	10000.0	0.0	10000.0
-699	Lock's Quest	2017	Strategy	THQ Nordic	10000.0	0.0	0.0	0.0	10000.0
-700	Gal Gun: Double Peace	2015	Action	PQube	0.0	0.0	10000.0	0.0	10000.0
-701	Woodcutter Simulator 2016	2015	Action	Namco Bandai Games	0.0	10000.0	0.0	0.0	10000.0
-702	Akiba's Trip 2+A	2017	Adventure	Acquire	0.0	0.0	10000.0	0.0	10000.0
-703	Date-A-Live Twin Edition: Rio Reincarnation	2017	Adventure	Compile Heart	0.0	0.0	10000.0	0.0	10000.0
-704	Valhalla Hills	2017	Strategy	Kalypso Media	10000.0	0.0	0.0	0.0	10000.0
-705	Deception IV: Blood Ties	2015	Action	Tecmo Koei	0.0	0.0	10000.0	0.0	10000.0
-706	One Piece: Unlimited World Red	2017	Action	Namco Bandai Games	0.0	0.0	10000.0	0.0	10000.0
-707	Hyper Light Drifter	2017	Role-Playing	Active Gaming Media	0.0	0.0	10000.0	0.0	10000.0
-708	Teslagrad	2014	Platform	Rain Games	0.0	10000.0	0.0	0.0	10000.0
-709	Darius Burst: Chronicle Saviours	2017	Action	Kadokawa Games	0.0	0.0	10000.0	0.0	10000.0
-710	The Escapists: The Walking Dead	2016	Action	Team17 Software	0.0	0.0	0.0	0.0	0.0
-711	Super Meat Boy	2016	Platform	Team Meat	0.0	0.0	0.0	0.0	0.0
-712	Blood Bowl 2	2015	Sports	Focus Home Interactive	0.0	0.0	0.0	0.0	0.0
-713	The Witness	2016	Misc	Thekla, Inc.	0.0	0.0	0.0	0.0	0.0
-714	Quantic Dream Collection	2015	Action	Sony Computer Entertainment	0.0	0.0	0.0	0.0	0.0
-715	Iwaihime: Matsuri	2017	Adventure	Nippon Ichi Software	0.0	0.0	0.0	0.0	0.0
-716	RepKiss	2017	Adventure	Entergram	0.0	0.0	0.0	0.0	0.0
-717	War Thunder	2017	Action	DMM Games	0.0	0.0	0.0	0.0	0.0
-718	Tsuihou Senkyo	2017	Adventure	Nippon Ichi Software	0.0	0.0	0.0	0.0	0.0
-719	Hustle Kings VR	2016	Sports	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-720	Toki Tori 2+	2016	Puzzle	Two Tribes	0.0	0.0	0.0	0.0	0.0
-721	Deception IV: The Nightmare Princess	2015	Action	Tecmo Koei	0.0	0.0	0.0	0.0	0.0
-722	Kingdom Hearts HD I.5 + II.5 ReMIX	2017	Action	Square Enix	0.0	0.0	0.0	0.0	0.0
-723	Fushigi no Chronicle: Furikaerimasen Katsu Madewa	2015	Action	Spike Chunsoft	0.0	0.0	0.0	0.0	0.0
-725	Agatha Christie: The ABC Murders	2016	Adventure	Microids	0.0	0.0	0.0	0.0	0.0
-726	Ancients of Ooga - The Forgotten Chapters	2016	Platform	Koch Media	0.0	0.0	0.0	0.0	0.0
-730	Blacklight: Retribution	2013	Misc	Perfect World Entertainment	0.0	0.0	0.0	0.0	0.0
-731	Bladestorm: The Hundred Years' War	2015	Action	BioWare	0.0	0.0	0.0	0.0	0.0
-732	Brothers in Arms: Furious 4	2019	Shooter	Ubisoft	0.0	0.0	0.0	0.0	0.0
-736	DC Universe Online	2013	MMO	Sony Online Entertainment	0.0	0.0	0.0	0.0	0.0
-740	Industry Giant II	2017	Strategy	UIG Entertainment	0.0	0.0	0.0	0.0	0.0
-746	Mount & Blade: Warband	2016	Role-Playing	Taleworlds	0.0	0.0	0.0	0.0	0.0
-750	Psychonauts	2017	Action	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-751	Resident Evil 5	2016	Action	Capcom	0.0	0.0	0.0	0.0	0.0
-755	The Amazing Spider-Man 2	2014	Misc	Activision	0.0	0.0	0.0	0.0	0.0
-758	Ether One	2015	Adventure	Soedesco	0.0	0.0	0.0	0.0	0.0
-759	Uncharted 2: Among Thieves	2016	Action	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-760	Uncharted 3: Drake's Deception	2016	Action	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-762	Uncharted: Drake's Fortune	2016	Action	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-764	Awesomenauts	2014	Misc	DTP Entertainment	0.0	0.0	0.0	0.0	0.0
-774	Broken Age	2015	Adventure	Nordic Games	0.0	0.0	0.0	0.0	0.0
-778	deep down (Working Title)	2020	Misc	Capcom	0.0	0.0	0.0	0.0	0.0
-782	Whore of the Orient	2020	Misc	Warner Bros. Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-783	Cyberpunk 2077	2018	Action-Adventure	CD Projekt Red Studio	0.0	0.0	0.0	0.0	0.0
-784	Final Fantasy (PS4)	2020	Misc	Square Enix	0.0	0.0	0.0	0.0	0.0
-788	Contrast	2013	Misc	Compulsion Games	0.0	0.0	0.0	0.0	0.0
-790	Carmageddon: Reincarnation	2015	Misc	Stainless Games	0.0	0.0	0.0	0.0	0.0
-803	Kingdom Hearts III	2019	Role-Playing	Square Enix	0.0	0.0	0.0	0.0	0.0
-809	Yaiba: Ninja Gaiden Z	2014	Misc	Tecmo Koei	0.0	0.0	0.0	0.0	0.0
-816	Pinball Arcade	2013	Misc	FarSight Studios	0.0	0.0	0.0	0.0	0.0
-817	Toukiden: The Age of Demons	2014	Action	Tecmo Koei	0.0	0.0	0.0	0.0	0.0
-818	Reus	2016	Strategy	Soedesco	0.0	0.0	0.0	0.0	0.0
-819	Strider (2014)	2014	Platform	Capcom	0.0	0.0	0.0	0.0	0.0
-821	EverQuest Next	2019	MMO	Sony Online Entertainment	0.0	0.0	0.0	0.0	0.0
-834	Velocity 2X	2014	Action	Futurlab 1	0.0	0.0	0.0	0.0	0.0
-835	Helldivers	2015	Action	Sony Computer Entertainment	0.0	0.0	0.0	0.0	0.0
-841	WonderFlick	2014	Misc	Level 5	0.0	0.0	0.0	0.0	0.0
-842	Monochroma	2014	Misc	Nowhere Studios	0.0	0.0	0.0	0.0	0.0
-847	Lily Bergamo	2014	Misc	GungHo	0.0	0.0	0.0	0.0	0.0
-871	SOMA (2015)	2015	Misc	Frictional Games	0.0	0.0	0.0	0.0	0.0
-872	Cult County	2015	Misc	Renegade Kid	0.0	0.0	0.0	0.0	0.0
-874	R.B.I. Baseball 14	2014	Misc	MLB.com	0.0	0.0	0.0	0.0	0.0
-877	Blue Estate 	2014	Misc	Focus Home Interactive	0.0	0.0	0.0	0.0	0.0
-891	Pure Pool 	2014	Misc	Triniti Interactive	0.0	0.0	0.0	0.0	0.0
-896	Bombshell	2014	Misc	3D Realms	0.0	0.0	0.0	0.0	0.0
-898	The Forest	2015	Action	Endnight Games Ltd 	0.0	0.0	0.0	0.0	0.0
-904	Falling Skies: The Game 	2015	Role-Playing	Little Orbit	0.0	0.0	0.0	0.0	0.0
-908	EA Sports PGA Tour	2015	Sports	EA Sports	0.0	0.0	0.0	0.0	0.0
-909	Dead Island 2	2017	Action	Deep Silver	0.0	0.0	0.0	0.0	0.0
-916	Tetris Ultimate 	2014	Puzzle	Ubisoft	0.0	0.0	0.0	0.0	0.0
-917	Afro Samurai 2	2015	Action	Versus Evil	0.0	0.0	0.0	0.0	0.0
-918	The Legend of Korra (2014)	2014	Action	Activision	0.0	0.0	0.0	0.0	0.0
-919	The Vanishing of Ethan Carter 	2015	Adventure	The Astronauts	0.0	0.0	0.0	0.0	0.0
-920	Godzilla (2014)	2014	Action	Namco Bandai Games	0.0	0.0	0.0	0.0	0.0
-921	Gran Turismo 7	2020	Racing	Sony Computer Entertainment	0.0	0.0	0.0	0.0	0.0
-933	Wild	2019	Adventure	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-943	Tadeo Jones y el manuscrito perdido	2014	Adventure	Deep Silver	0.0	0.0	0.0	0.0	0.0
-945	OlliOlli 2: Welcome to Olliwood	2016	Sports	PQube	0.0	0.0	0.0	0.0	0.0
-946	Pathologic	2015	Adventure	Ice-pick Lodge	0.0	0.0	0.0	0.0	0.0
-948	Rebel Galaxy	2015	Role-Playing	Double Damage Games	0.0	0.0	0.0	0.0	0.0
-952	Assassin's Creed: Victory	2015	Action	Ubisoft	0.0	0.0	0.0	0.0	0.0
-953	Silent Hills	2020	Action	Konami Digital Entertainment	0.0	0.0	0.0	0.0	0.0
-973	Overlord: Fellowship of Evil	2015	Action	Codemasters	0.0	0.0	0.0	0.0	0.0
-974	R.B.I. Baseball 15	2015	Sports	MLB.com	0.0	0.0	0.0	0.0	0.0
-976	Wander	2015	Role-Playing	Wander MMO	0.0	0.0	0.0	0.0	0.0
-981	Final Fantasy VII Remake	2019	Role-Playing	Square Enix	0.0	0.0	0.0	0.0	0.0
-982	Ikenie to Yuki no Setsuna	2016	Role-Playing	Square Enix	0.0	0.0	0.0	0.0	0.0
-983	Atelier Sophie	2020	Role-Playing	Gust	0.0	0.0	0.0	0.0	0.0
-984	Dengeki Bunko: Fighting Climax Ignition	2015	Action	Sega	0.0	0.0	0.0	0.0	0.0
-985	World Soccer Winning Eleven 2015	2015	Action	Konami Digital Entertainment	0.0	0.0	0.0	0.0	0.0
-987	Cross Reverie	2017	Role-Playing	Sinxsoft	0.0	0.0	0.0	0.0	0.0
-988	Airship Q	2019	Platform	Cygames	0.0	0.0	0.0	0.0	0.0
-992	The London Heist	2016	Shooter	Sony Computer Entertainment	0.0	0.0	0.0	0.0	0.0
-993	Risen 3 Enhanced Edition	2015	Role-Playing	Deep Silver	0.0	0.0	0.0	0.0	0.0
-994	Air Conflicts: Pacific Carriers	2015	Simulation	Kalypso Media	0.0	0.0	0.0	0.0	0.0
-995	God Wars: Beyond Time	2016	Role-Playing	Kadokawa Games	0.0	0.0	0.0	0.0	0.0
-996	Hasbro Family Fun Pack	2015	Misc	Ubisoft	0.0	0.0	0.0	0.0	0.0
-997	Professional Lumberjack 2016	2015	Simulation	Namco Bandai Games	0.0	0.0	0.0	0.0	0.0
-998	Alekhine's Gun	2016	Action	Maximum Games	0.0	0.0	0.0	0.0	0.0
-999	Kung Fu Panda: Showdown of Legendary Legends	2015	Action	Little Orbit	0.0	0.0	0.0	0.0	0.0
-1004	Bloodborne: Complete Edition	2015	Role-Playing	Sony Computer Entertainment	0.0	0.0	0.0	0.0	0.0
-1008	World to the West	2017	Action-Adventure	Soedesco	0.0	0.0	0.0	0.0	0.0
-1013	Days Gone	2019	Action-Adventure	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-1014	Berserk Musou	2016	Action	Tecmo Koei	0.0	0.0	0.0	0.0	0.0
-1015	Ginger: Beyond the Crystal	2016	Platform	PQube	0.0	0.0	0.0	0.0	0.0
-1016	The Last of Us: Part II	2019	Action	Sony Interactive Entertainment	0.0	0.0	0.0	0.0	0.0
-1017	Don Bradman Cricket 17	2016	Sports	Tru Blu Entertainment	0.0	0.0	0.0	0.0	0.0
-1018	Ace Combat 7: Skies Unknown	2019	Shooter	Bandai Namco Games	0.0	0.0	0.0	0.0	0.0
-1020	Metro Exodus	2019	Shooter	Deep Silver	0.0	0.0	0.0	0.0	0.0
-1021	Anthem	2019	Role-Playing	Electronic Arts	0.0	0.0	0.0	0.0	0.0
-1026	de Blob	2017	Platform	THQ Nordic	0.0	0.0	0.0	0.0	0.0
-1027	Chaos on Deponia	2017	Adventure	Daedalic Entertainment	0.0	0.0	0.0	0.0	0.0
-1028	Code Vein	2018	Action	Bandai Namco Entertainment	0.0	0.0	0.0	0.0	0.0
-1030	Radial G Racing Revolved	2017	Racing	Tammeka Games	0.0	0.0	0.0	0.0	0.0
+,Game,Year,Genre,Publisher,North America,Europe,Japan,Rest of World,Global
+0,Grand Theft Auto V,2014,Action,Rockstar Games,6060000.0,9710000.0,600000.0,3020000.0,19390000.0
+1,Call of Duty: Black Ops 3,2015,Shooter,Activision,6180000.0,6050000.0,410000.0,2440000.0,15080000.0
+2,Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,5260000.0,6210000.0,210000.0,2260000.0,13940000.0
+3,Call of Duty: WWII,2017,Shooter,Activision,4670000.0,6210000.0,400000.0,2120000.0,13400000.0
+4,FIFA 18,2017,Sports,EA Sports,1270000.0,8640000.0,150000.0,1730000.0,11790000.0
+5,FIFA 17,2016,Sports,Electronic Arts,1260000.0,7950000.0,120000.0,1610000.0,10940000.0
+6,Uncharted (PS4),2016,Action,Sony Interactive Entertainment,4490000.0,3930000.0,210000.0,1700000.0,10330000.0
+7,Spider-Man (PS4),2018,Action-Adventure,Sony Interactive Entertainment,3640000.0,3390000.0,320000.0,1410000.0,8760000.0
+8,Call of Duty: Infinite Warfare,2016,Shooter,Activision,3110000.0,3830000.0,190000.0,1360000.0,8490000.0
+9,Fallout 4,2015,Role-Playing,Bethesda Softworks,2910000.0,3970000.0,270000.0,1340000.0,8490000.0
+10,FIFA 16,2015,Sports,EA Sports,1150000.0,5770000.0,70000.0,1230000.0,8220000.0
+11,Star Wars Battlefront 2015,2015,Shooter,Electronic Arts,3310000.0,3190000.0,230000.0,1300000.0,8030000.0
+12,Call of Duty: Advanced Warfare,2014,Shooter,Activision,2840000.0,3340000.0,140000.0,1220000.0,7540000.0
+13,Battlefield 1,2016,Shooter,Electronic Arts,2200000.0,3650000.0,290000.0,1120000.0,7260000.0
+14,The Last of Us,2014,Action-Adventure,Sony Computer Entertainment,2700000.0,2860000.0,110000.0,1100000.0,6770000.0
+15,MineCraft,2014,Misc,Sony Computer Entertainment,1890000.0,3130000.0,350000.0,960000.0,6330000.0
+16,FIFA 15,2014,Sports,EA Sports,830000.0,4490000.0,50000.0,940000.0,6310000.0
+17,God of War (PS4),2018,Action,Sony Interactive Entertainment,2830000.0,2170000.0,130000.0,1020000.0,6150000.0
+18,Horizon: Zero Dawn,2017,Action,Sony Interactive Entertainment,2200000.0,2430000.0,280000.0,920000.0,5830000.0
+19,Destiny,2014,Shooter,Activision,2530000.0,2130000.0,160000.0,940000.0,5760000.0
+20,Uncharted: The Nathan Drake Collection,2015,Action,Sony Computer Entertainment,2550000.0,2110000.0,100000.0,940000.0,5700000.0
+21,The Witcher 3: Wild Hunt,2015,Role-Playing,Namco Bandai Games,1480000.0,2820000.0,280000.0,810000.0,5390000.0
+22,Final Fantasy XV,2016,Role-Playing,Square Enix,1810000.0,1530000.0,1050000.0,680000.0,5070000.0
+23,Crash Bandicoot N. Sane Trilogy,2017,Platform,Activision,1090000.0,2920000.0,70000.0,740000.0,4820000.0
+24,Monster Hunter: World,2018,Action,Capcom,1030000.0,1060000.0,2170000.0,420000.0,4680000.0
+25,Overwatch,2016,Shooter,Blizzard Entertainment,1840000.0,1800000.0,170000.0,730000.0,4540000.0
+26,Star Wars Battlefront II (2017),2017,Shooter,Electronic Arts,1700000.0,1990000.0,120000.0,730000.0,4540000.0
+27,Tom Clancy's The Division,2016,Shooter,Ubisoft,1490000.0,2040000.0,160000.0,690000.0,4380000.0
+28,Tom Clancy's Rainbow Six: Siege,2015,Shooter,Ubisoft,1290000.0,2060000.0,360000.0,640000.0,4350000.0
+29,Watch Dogs,2014,Action-Adventure,Ubisoft,1400000.0,2130000.0,110000.0,680000.0,4320000.0
+30,Call of Duty: Ghosts,2013,Shooter,Activision,1790000.0,1640000.0,50000.0,690000.0,4170000.0
+31,Assassin's Creed: Unity,2014,Action,Ubisoft,1250000.0,2160000.0,90000.0,650000.0,4150000.0
+32,Destiny 2,2017,Shooter,Activision,1920000.0,1440000.0,100000.0,690000.0,4150000.0
+33,Batman: Arkham Knight,2015,Action,Warner Bros. Interactive,1650000.0,1680000.0,110000.0,660000.0,4100000.0
+34,Assassin's Creed Origins,2017,Action,Ubisoft,1220000.0,2110000.0,110000.0,630000.0,4070000.0
+35,Far Cry 4,2014,Shooter,Ubisoft,1180000.0,2140000.0,110000.0,630000.0,4060000.0
+36,NBA 2K16,2015,Sports,2K Sports,2560000.0,660000.0,50000.0,710000.0,3980000.0
+37,Far Cry 5,2018,Action,Ubisoft,1440000.0,1730000.0,150000.0,620000.0,3940000.0
+38,Battlefield 4,2013,Shooter,Electronic Arts,1400000.0,1740000.0,190000.0,620000.0,3950000.0
+39,Gran Turismo Sport,2017,Racing,Sony Interactive Entertainment,630000.0,2350000.0,240000.0,540000.0,3760000.0
+40,Assassin's Creed Syndicate,2015,Action,Ubisoft,900000.0,2060000.0,80000.0,550000.0,3590000.0
+41,NBA 2K17,2016,Sports,2K Sports,2280000.0,590000.0,30000.0,630000.0,3530000.0
+42,Mortal Kombat X,2015,Fighting,Warner Bros. Interactive Entertainment,1940000.0,940000.0,0.0,610000.0,3490000.0
+43,FIFA Soccer 14,2013,Sports,EA Sports,620000.0,2180000.0,120000.0,510000.0,3430000.0
+44,The Elder Scrolls V: Skyrim,2016,Role-Playing,Bethesda Softworks,1240000.0,1500000.0,80000.0,540000.0,3360000.0
+45,Watch Dogs 2,2016,Action,Ubisoft,980000.0,1740000.0,120000.0,520000.0,3360000.0
+46,NBA 2K18,2017,Sports,2K Sports,2130000.0,570000.0,40000.0,590000.0,3330000.0
+47,Resident Evil VII: Biohazard,2017,Action,Capcom,880000.0,1560000.0,410000.0,460000.0,3310000.0
+48,Madden NFL 16,2015,Sports,EA Sports,2390000.0,310000.0,0.0,610000.0,3310000.0
+49,Madden NFL 17,2016,Sports,EA Sports,2300000.0,370000.0,0.0,600000.0,3270000.0
+50,Middle-Earth: Shadow of Mordor,2014,Action,Warner Bros. Interactive Entertainment,1030000.0,1600000.0,50000.0,510000.0,3190000.0
+51,Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,1070000.0,1550000.0,60000.0,510000.0,3190000.0
+52,Tom Clancy's Ghost Recon Wildlands,2017,Shooter,Ubisoft,1070000.0,1350000.0,220000.0,470000.0,3110000.0
+53,Bloodborne,2015,Role-Playing,Sony Computer Entertainment,1300000.0,1050000.0,280000.0,480000.0,3110000.0
+54,Metal Gear Solid V: The Phantom Pain,2015,Action,Konami Digital Entertainment,970000.0,1150000.0,500000.0,420000.0,3040000.0
+55,Killzone: Shadow Fall,2013,Shooter,Sony Computer Entertainment,890000.0,1580000.0,80000.0,470000.0,3020000.0
+56,inFAMOUS: Second Son,2014,Action-Adventure,Sony Computer Entertainment,1350000.0,1090000.0,70000.0,500000.0,3010000.0
+57,Doom (2016),2016,Shooter,Bethesda Softworks,930000.0,1480000.0,40000.0,460000.0,2910000.0
+58,Mafia III,2016,Action-Adventure,2K Games,720000.0,1670000.0,40000.0,440000.0,2870000.0
+59,Diablo III,2014,Role-Playing,Blizzard Entertainment,830000.0,1480000.0,80000.0,440000.0,2830000.0
+60,Far Cry: Primal,2016,Action-Adventure,Ubisoft,630000.0,1610000.0,70000.0,410000.0,2720000.0
+61,Need for Speed (2015),2015,Racing,Electronic Arts,590000.0,1660000.0,60000.0,410000.0,2720000.0
+62,Madden NFL 18,2017,Sports,EA Sports,1730000.0,420000.0,0.0,470000.0,2620000.0
+63,NBA 2K15,2014,Sports,2K Sports,1490000.0,550000.0,10000.0,440000.0,2490000.0
+64,Dying Light,2015,Action,Warner Bros. Interactive,1180000.0,740000.0,130000.0,400000.0,2450000.0
+65,Dark Souls III,2016,Role-Playing,Namco Bandai Games,1000000.0,630000.0,440000.0,340000.0,2410000.0
+66,Ratchet & Clank (2016),2016,Platform,Sony Interactive Entertainment,970000.0,970000.0,60000.0,390000.0,2390000.0
+67,DriveClub,2014,Racing,Sony Computer Entertainment,370000.0,1630000.0,20000.0,360000.0,2380000.0
+68,Uncharted: The Lost Legacy,2017,Action,Sony Interactive Entertainment,580000.0,1380000.0,40000.0,360000.0,2360000.0
+69,Dragon Age III: Inquisition,2014,Role-Playing,Electronic Arts,1070000.0,800000.0,80000.0,380000.0,2330000.0
+70,No Man's Sky,2016,Action-Adventure,Hello Games,890000.0,970000.0,40000.0,370000.0,2270000.0
+71,Madden NFL 15,2014,Sports,EA Sports,1580000.0,250000.0,0.0,410000.0,2240000.0
+72,Need for Speed: Payback,2017,Racing,Electronic Arts,620000.0,1180000.0,40000.0,340000.0,2180000.0
+73,Destiny: The Taken King,2015,Shooter,Activision,970000.0,800000.0,50000.0,360000.0,2180000.0
+74,Need for Speed Rivals,2013,Racing,Electronic Arts,750000.0,1040000.0,30000.0,350000.0,2170000.0
+75,PlayStation VR Worlds,2016,Misc,Sony Interactive Entertainment,360000.0,1400000.0,90000.0,320000.0,2170000.0
+76,Battlefield: Hardline,2015,Shooter,Electronic Arts,720000.0,970000.0,140000.0,330000.0,2160000.0
+77,Rise of the Tomb Raider,2016,Adventure,Square Enix,610000.0,1080000.0,50000.0,320000.0,2060000.0
+78,LittleBigPlanet 3,2014,Platform,Sony Computer Entertainment,780000.0,930000.0,10000.0,340000.0,2060000.0
+79,The Elder Scrolls Online,2015,MMO,Bethesda Softworks,740000.0,980000.0,0.0,330000.0,2050000.0
+80,Middle-Earth: Shadow of War,2017,Action,Warner Bros. Interactive Entertainment,820000.0,840000.0,60000.0,330000.0,2050000.0
+81,Dragon Quest XI,2017,Role-Playing,Square Enix,290000.0,220000.0,1430000.0,100000.0,2040000.0
+82,Rocket League,2016,Sports,505 Games,370000.0,1340000.0,0.0,310000.0,2020000.0
+83,Just Cause 3,2015,Action-Adventure,Square Enix,530000.0,1070000.0,90000.0,300000.0,1990000.0
+84,Dishonored 2,2016,Action,Bethesda Softworks,620000.0,1020000.0,10000.0,310000.0,1960000.0
+85,Lego Marvel Super Heroes,2013,Action,Warner Bros. Interactive Entertainment,590000.0,1000000.0,10000.0,300000.0,1900000.0
+86,Until Dawn,2015,Adventure,Sony Computer Entertainment,620000.0,920000.0,60000.0,300000.0,1900000.0
+87,Knack,2013,Platform,Sony Computer Entertainment,450000.0,770000.0,420000.0,230000.0,1870000.0
+88,The Evil Within,2014,Action,Bethesda Softworks,560000.0,900000.0,110000.0,280000.0,1850000.0
+89,The Crew,2014,Racing,Ubisoft,440000.0,1040000.0,30000.0,270000.0,1780000.0
+90,Kingdom Hearts 1.5 + 2.5 Remix,2017,Role-Playing,Square Enix,750000.0,510000.0,230000.0,260000.0,1750000.0
+91,For Honor,2017,Action,Ubisoft,730000.0,660000.0,70000.0,280000.0,1740000.0
+92,Titanfall 2,2016,Shooter,Electronic Arts,750000.0,620000.0,60000.0,280000.0,1710000.0
+93,Injustice 2,2017,Fighting,Warner Bros. Interactive Entertainment,880000.0,540000.0,0.0,290000.0,1710000.0
+94,NieR Automata,2017,Role-Playing,Square Enix,560000.0,510000.0,420000.0,220000.0,1710000.0
+95,Tekken 7,2017,Fighting,Namco Bandai Games,600000.0,720000.0,120000.0,260000.0,1700000.0
+96,Persona 5,2016,Role-Playing,Deep Silver,620000.0,340000.0,480000.0,200000.0,1640000.0
+97,The Order: 1886,2015,Shooter,Sony Computer Entertainment,440000.0,860000.0,70000.0,250000.0,1620000.0
+98,Wolfenstein: The New Order,2014,Shooter,Bethesda Softworks,480000.0,840000.0,30000.0,250000.0,1600000.0
+99,Detroit: Become Human,2018,Adventure,Sony Interactive Entertainment,550000.0,670000.0,120000.0,240000.0,1580000.0
+100,Naruto Shippuden: Ultimate Ninja Storm 4,2016,Fighting,Namco Bandai Games,710000.0,470000.0,120000.0,240000.0,1540000.0
+101,NBA 2K14,2013,Sports,2K Sports,910000.0,350000.0,10000.0,270000.0,1540000.0
+102,Tomb Raider (2013),2014,Action-Adventure,Square Enix,470000.0,740000.0,60000.0,230000.0,1500000.0
+103,Dragon Ball: Xenoverse 2,2016,Action,Namco Bandai Games,540000.0,590000.0,140000.0,230000.0,1500000.0
+104,Rayman Legends,2014,Platform,Ubisoft,220000.0,1050000.0,0.0,230000.0,1500000.0
+105,Mass Effect: Andromeda,2017,Role-Playing,Electronic Arts,580000.0,670000.0,0.0,250000.0,1500000.0
+106,Dragon Ball Fighter Z,2018,Fighting,Namco Bandai Games,610000.0,510000.0,120000.0,230000.0,1470000.0
+107,South Park: The Fractured But Whole,2017,Role-Playing,Ubisoft,620000.0,570000.0,0.0,240000.0,1430000.0
+108,The Sims 4,2017,Simulation,Electronic Arts,440000.0,720000.0,10000.0,220000.0,1390000.0
+109,Street Fighter V,2016,Fighting,Capcom,640000.0,420000.0,120000.0,220000.0,1400000.0
+110,Wolfenstein II: The New Colossus,2017,Shooter,Bethesda Softworks,550000.0,580000.0,10000.0,220000.0,1360000.0
+111,WWE 2K18,2017,Sports,2K Sports,450000.0,670000.0,0.0,220000.0,1340000.0
+112,Lego Star Wars: The Force Awakens,2016,Action-Adventure,Warner Bros. Interactive Entertainment,300000.0,780000.0,20000.0,200000.0,1300000.0
+113,EA Sports UFC 2,2016,Sports,EA Sports,440000.0,650000.0,0.0,210000.0,1300000.0
+114,The Last Guardian,2016,Action-Adventure,Sony Interactive Entertainment,400000.0,580000.0,130000.0,190000.0,1300000.0
+115,WWE 2K16,2015,Sports,Take-Two Interactive,430000.0,650000.0,0.0,210000.0,1290000.0
+116,Borderlands: The Handsome Collection,2015,Shooter,2K Games,690000.0,340000.0,30000.0,220000.0,1280000.0
+117,Project CARS,2015,Racing,Bandai Namco Games,290000.0,760000.0,40000.0,190000.0,1280000.0
+118,WWE 2K17,2016,Sports,2K Games,320000.0,700000.0,0.0,190000.0,1210000.0
+119,Guitar Hero Live,2015,Music,Activision,520000.0,490000.0,0.0,200000.0,1210000.0
+120,Metal Gear Solid: Ground Zeroes,2014,Action-Adventure,Konami Digital Entertainment,360000.0,500000.0,170000.0,170000.0,1200000.0
+121,Mad Max (2013),2015,Action,Warner Bros. Interactive Entertainment,380000.0,590000.0,50000.0,190000.0,1210000.0
+122,Shadow of the Colossus,2018,Action-Adventure,Sony Interactive Entertainment,440000.0,520000.0,50000.0,190000.0,1200000.0
+123,Kingdom Hearts HD 2.8 Final Chapter Prologue,2017,Role-Playing,Square Enix,570000.0,250000.0,200000.0,170000.0,1190000.0
+124,Dragon Ball: XenoVerse,2015,Fighting,Namco Bandai Games,330000.0,550000.0,140000.0,170000.0,1190000.0
+125,LEGO Dimensions,2015,Action,Warner Bros. Interactive Entertainment,480000.0,500000.0,0.0,200000.0,1180000.0
+126,LEGO Jurassic World,2015,Action,Warner Bros. Interactive Entertainment,410000.0,560000.0,20000.0,190000.0,1180000.0
+127,WWE 2K15,2014,Sports,2K Sports,400000.0,570000.0,0.0,190000.0,1160000.0
+128,MLB The Show 17,2017,Sports,Sony Interactive Entertainment,940000.0,0.0,0.0,220000.0,1160000.0
+129,LEGO Worlds,2017,Misc,Warner Bros. Interactive Entertainment,210000.0,720000.0,40000.0,170000.0,1140000.0
+130,The Elder Scrolls V: Skyrim PSVR,2017,Role-Playing,Bethesda Softworks,470000.0,470000.0,10000.0,190000.0,1140000.0
+131,LEGO Marvel Super Heroes 2,2017,Action,Warner Bros. Interactive Entertainment,330000.0,600000.0,0.0,180000.0,1110000.0
+132,EA Sports UFC,2014,Fighting,Electronic Arts,490000.0,430000.0,10000.0,180000.0,1110000.0
+133,Final Fantasy XII: The Zodiac Age,2017,Role-Playing,Square Enix,370000.0,410000.0,160000.0,150000.0,1090000.0
+134,Alien: Isolation,2014,Adventure,Sega,290000.0,590000.0,50000.0,160000.0,1090000.0
+135,MLB The Show 18,2018,Sports,Sony Interactive Entertainment,860000.0,0.0,0.0,200000.0,1060000.0
+136,The Evil Within II,2017,Action,Bethesda Softworks,310000.0,490000.0,90000.0,150000.0,1040000.0
+137,Prey (2017),2017,Shooter,Bethesda Softworks,250000.0,620000.0,20000.0,160000.0,1050000.0
+138,Final Fantasy Type-0,2015,Role-Playing,Square Enix,400000.0,330000.0,160000.0,150000.0,1040000.0
+139,Ni-Oh,2017,Action,Tecmo Koei,340000.0,360000.0,200000.0,140000.0,1040000.0
+140,MLB 15: The Show,2015,Sports,Sony Computer Entertainment,750000.0,80000.0,0.0,190000.0,1020000.0
+141,Steep,2016,Sports,Ubisoft,230000.0,600000.0,20000.0,150000.0,1000000.0
+142,LEGO Marvel's Avengers,2016,Action,Warner Bros. Interactive Entertainment,310000.0,530000.0,10000.0,160000.0,1010000.0
+143,Evolve,2015,Shooter,2K Games,380000.0,410000.0,50000.0,160000.0,1000000.0
+144,Injustice: Gods Among Us,2013,Fighting,Warner Bros. Interactive Entertainment,460000.0,350000.0,0.0,170000.0,980000.0
+145,EA Sports UFC 3,2018,Sports,EA Sports,400000.0,410000.0,10000.0,160000.0,980000.0
+146,Madden NFL 25,2013,Sports,EA Sports,640000.0,150000.0,0.0,170000.0,960000.0
+147,MLB 16: The Show,2016,Sports,Sony Computer Entertainment,780000.0,0.0,0.0,180000.0,960000.0
+148,Lego Batman 3: Beyond Gotham,2014,Action,Warner Bros. Interactive Entertainment,370000.0,420000.0,0.0,160000.0,950000.0
+149,Final Fantasy X/X-2 HD Remaster,2015,Role-Playing,Square Enix,340000.0,360000.0,70000.0,140000.0,910000.0
+150,Ni no Kuni II: Revenant Kingdom,2018,Role-Playing,Namco Bandai Games,330000.0,310000.0,120000.0,130000.0,890000.0
+151,God of War III,2015,Action,Sony Computer Entertainment,400000.0,330000.0,20000.0,150000.0,900000.0
+152,Fortnite,2017,Action,Gearbox Software,420000.0,320000.0,0.0,150000.0,890000.0
+153,LEGO Harry Potter Collection,2016,Action,Warner Bros. Interactive Entertainment,70000.0,680000.0,0.0,130000.0,880000.0
+154,Minecraft: Story Mode,2015,Adventure,Mojang,310000.0,420000.0,0.0,140000.0,870000.0
+155,BioShock The Collection,2016,Shooter,2K Games,410000.0,280000.0,30000.0,140000.0,860000.0
+156,Thief 4,2014,Action,Square Enix,280000.0,410000.0,30000.0,130000.0,850000.0
+157,Until Dawn: Rush of Blood,2016,Shooter,Sony Interactive Entertainment,500000.0,210000.0,0.0,150000.0,860000.0
+158,Disney Infinity 3.0,2015,Action,Disney Interactive Studios,310000.0,400000.0,0.0,140000.0,850000.0
+159,Farming Simulator 17,2016,Simulation,Focus Home Interactive,190000.0,520000.0,10000.0,130000.0,850000.0
+160,The Crew 2,2018,Racing,Ubisoft,220000.0,420000.0,50000.0,120000.0,810000.0
+161,Pro Evolution Soccer 2016,2015,Sports,Konami Digital Entertainment,140000.0,430000.0,140000.0,100000.0,810000.0
+162,ARK: Survival Evolved,2017,Action,Studio Wildcard,280000.0,290000.0,140000.0,110000.0,820000.0
+163,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,2015,Action,Square Enix,210000.0,140000.0,390000.0,70000.0,810000.0
+164,Assassin's Creed The Ezio Collection,2016,Action,Ubisoft,140000.0,520000.0,20000.0,120000.0,800000.0
+165,Final Fantasy XIV: A Realm Reborn,2014,MMO,Square Enix,350000.0,230000.0,80000.0,120000.0,780000.0
+166,Destiny: The Collection,2016,Shooter,Activision,240000.0,400000.0,20000.0,120000.0,780000.0
+167,F1 2016 (Codemasters),2016,Racing,Codemasters,70000.0,560000.0,30000.0,110000.0,770000.0
+168,Hitman (2016),2017,Action,Square Enix,240000.0,360000.0,60000.0,110000.0,770000.0
+169,Pro Evolution Soccer 2015,2014,Sports,Konami Digital Entertainment,90000.0,450000.0,120000.0,100000.0,760000.0
+170,LEGO City Undercover,2017,Platform,Warner Bros. Interactive Entertainment,170000.0,460000.0,10000.0,120000.0,760000.0
+171,Pro Evolution Soccer 2018,2017,Sports,Konami Digital Entertainment,120000.0,360000.0,190000.0,90000.0,760000.0
+172,Disney Infinity 2.0: Marvel Super Heroes,2014,Action-Adventure,Disney Interactive Studios,370000.0,250000.0,0.0,130000.0,750000.0
+173,Pro Evolution Soccer 2017,2016,Sports,Konami Digital Entertainment,80000.0,410000.0,180000.0,90000.0,760000.0
+174,Sniper Elite 3,2014,Shooter,505 Games,250000.0,370000.0,0.0,120000.0,740000.0
+175,MLB 14 The Show,2014,Sports,Sony Computer Entertainment,590000.0,0.0,0.0,140000.0,730000.0
+176,WipEout Omega Collection,2017,Racing,Sony Interactive Entertainment,120000.0,490000.0,0.0,110000.0,720000.0
+177,Deus Ex: Mankind Divided,2016,Role-Playing,Square Enix,250000.0,340000.0,10000.0,120000.0,720000.0
+178,The LEGO Movie Videogame,2014,Action-Adventure,Warner Bros. Interactive Entertainment,260000.0,320000.0,10000.0,110000.0,700000.0
+179,Marvel vs. Capcom: Infinite,2017,Fighting,Capcom,360000.0,190000.0,40000.0,110000.0,700000.0
+180,Dark Souls II,2015,Role-Playing,Namco Bandai Games,270000.0,230000.0,90000.0,100000.0,690000.0
+181,Yakuza 6,2016,Adventure,Sega,160000.0,100000.0,380000.0,50000.0,690000.0
+182,F1 2015,2015,Racing,Codemasters,100000.0,450000.0,40000.0,100000.0,690000.0
+183,METRO 2033,2014,Shooter,Deep Silver,220000.0,310000.0,50000.0,100000.0,680000.0
+184,Rocksmith 2014,2014,Music,Ubisoft,380000.0,170000.0,0.0,120000.0,670000.0
+185,NHL 16,2015,Sports,EA Sports,380000.0,160000.0,0.0,120000.0,660000.0
+186,Plants vs Zombies: Garden Warfare,2014,Shooter,Electronic Arts,240000.0,300000.0,10000.0,110000.0,660000.0
+187,Tales of Berseria,2016,Role-Playing,Namco Bandai Games,220000.0,100000.0,260000.0,70000.0,650000.0
+188,Yakuza Zero: The Place of Oath,2015,Adventure,Sega,220000.0,160000.0,190000.0,80000.0,650000.0
+189,One Piece: Burning Blood,2016,Fighting,Namco Bandai Games,210000.0,260000.0,90000.0,90000.0,650000.0
+190,Batman: Return to Arkham,2016,Action,Warner Bros. Interactive Entertainment,150000.0,390000.0,10000.0,100000.0,650000.0
+191,Plants vs. Zombies: Garden Warfare 2,2016,Shooter,Electronic Arts,220000.0,310000.0,0.0,100000.0,630000.0
+192,LEGO The Hobbit,2014,Action-Adventure,Warner Bros. Interactive Entertainment,140000.0,390000.0,0.0,100000.0,630000.0
+193,World of Final Fantasy,2016,Role-Playing,Square Enix,240000.0,210000.0,90000.0,90000.0,630000.0
+194,F1 2017,2017,Racing,Koch Media,40000.0,470000.0,20000.0,90000.0,620000.0
+195,NHL 15,2014,Sports,EA Sports,320000.0,190000.0,0.0,110000.0,620000.0
+196,Knowledge is Power,2017,Party,Sony Interactive Entertainment,50000.0,470000.0,0.0,90000.0,610000.0
+197,L.A. Noire,2017,Adventure,Rockstar Games,180000.0,320000.0,0.0,100000.0,600000.0
+198,Hidden Agenda,2017,Adventure,Sony Interactive Entertainment,80000.0,420000.0,0.0,90000.0,590000.0
+199,Call of Duty: Modern Warfare Remastered,2017,Shooter,Activision,170000.0,300000.0,30000.0,90000.0,590000.0
+200,Dragon Quest Builders: Revive Alefgard,2016,Role-Playing,Square Enix,120000.0,170000.0,240000.0,60000.0,590000.0
+201,The Lego Ninjago Movie Videogame,2017,Action,Warner Bros. Interactive Entertainment,160000.0,320000.0,0.0,90000.0,570000.0
+202,Resident Evil: Revelations 2,2015,Action,Capcom,140000.0,250000.0,110000.0,70000.0,570000.0
+203,Rock Band 4,2015,Music,Harmonix Music Systems,410000.0,60000.0,0.0,100000.0,570000.0
+204,NHL 18,2017,Sports,EA Sports,310000.0,160000.0,0.0,100000.0,570000.0
+205,Everybody's Golf,2017,Sports,Sony Interactive Entertainment,120000.0,220000.0,170000.0,60000.0,570000.0
+206,The Amazing Spider-Man 2 (2014),2014,Action-Adventure,Activision,200000.0,260000.0,20000.0,90000.0,570000.0
+207,DOOM VFR,2017,Shooter,Bethesda Softworks,220000.0,250000.0,0.0,90000.0,560000.0
+208,Sonic Forces,2017,Platform,Sega,150000.0,310000.0,10000.0,90000.0,560000.0
+209,Kingdom Come: Deliverance,2018,Role-Playing,Deep Silver,180000.0,280000.0,0.0,90000.0,550000.0
+210,Lords of the Fallen,2014,Role-Playing,Square Enix,200000.0,240000.0,20000.0,90000.0,550000.0
+211,Sniper Elite 4,2017,Shooter,Rebellion Developments,210000.0,250000.0,0.0,90000.0,550000.0
+212,Rory McIlroy PGA Tour,2015,Sports,Electronic Arts,190000.0,270000.0,0.0,90000.0,550000.0
+213,Project CARS 2,2017,Racing,Namco Bandai Games,100000.0,350000.0,20000.0,80000.0,550000.0
+214,Skylanders: Trap Team,2014,Platform,Activision,250000.0,180000.0,0.0,90000.0,520000.0
+215,NHL 17,2016,Sports,EA Sports,320000.0,110000.0,0.0,90000.0,520000.0
+216,One Piece: Pirate Warriors 3,2015,Action,Namco Bandai Games,110000.0,220000.0,110000.0,60000.0,500000.0
+217,DiRT Rally,2016,Racing,Codemasters,130000.0,300000.0,0.0,80000.0,510000.0
+218,Homefront: The Revolution,2016,Shooter,Deep Silver,110000.0,290000.0,40000.0,70000.0,510000.0
+219,Attack on Titan (KOEI),2016,Action,Tecmo Koei,80000.0,240000.0,120000.0,60000.0,500000.0
+220,DiRT 4,2017,Racing,Codemasters,100000.0,300000.0,20000.0,70000.0,490000.0
+221,Farpoint,2017,Shooter,Sony Interactive Entertainment,0.0,380000.0,40000.0,60000.0,480000.0
+222,Battleborn,2016,Shooter,2K Games,250000.0,120000.0,30000.0,80000.0,480000.0
+223,A Way Out,2018,Action,Electronic Arts,230000.0,160000.0,0.0,80000.0,470000.0
+224,Friday the 13th: The Game,2017,Action,Gun Media,290000.0,90000.0,30000.0,80000.0,490000.0
+225,The Walking Dead: A Telltale Games Series,2014,Adventure,Telltale Games,120000.0,260000.0,30000.0,70000.0,480000.0
+226,Wolfenstein: The Old Blood,2015,Shooter,Bethesda Softworks,130000.0,250000.0,20000.0,70000.0,470000.0
+227,Deadpool,2015,Action,Activision,260000.0,130000.0,0.0,80000.0,470000.0
+228,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,2016,Action,Square Enix,50000.0,90000.0,300000.0,30000.0,470000.0
+229,TrackMania Turbo,2016,Racing,Ubisoft,40000.0,350000.0,0.0,70000.0,460000.0
+230,Knack 2,2017,Platform,Sony Interactive Entertainment,140000.0,250000.0,10000.0,70000.0,470000.0
+231,Just Dance 2014,2013,Music,Ubisoft,210000.0,180000.0,0.0,80000.0,470000.0
+232,Dissidia Final Fantasy NT,2018,Fighting,Square Enix,190000.0,60000.0,160000.0,50000.0,460000.0
+233,Skylanders: SuperChargers,2015,Action-Adventure,Activision,290000.0,90000.0,0.0,80000.0,460000.0
+234,Yakuza Kiwami,2016,Adventure,Sega,130000.0,70000.0,210000.0,40000.0,450000.0
+235,Tales of Zestiria,2015,Role-Playing,Namco Bandai Games,180000.0,160000.0,40000.0,70000.0,450000.0
+236,Star Ocean 5: Integrity and Faithlessness,2016,Role-Playing,Square Enix,100000.0,130000.0,160000.0,50000.0,440000.0
+237,Sleeping Dogs,2014,Action,Square Enix,160000.0,210000.0,0.0,70000.0,440000.0
+238,Skylanders SWAP Force,2013,Misc,Activision,230000.0,140000.0,0.0,80000.0,450000.0
+239,Skylanders Imaginators,2016,Platform,Activision,180000.0,180000.0,0.0,70000.0,430000.0
+240,Trials Fusion,2014,Misc,Ubisoft,130000.0,230000.0,10000.0,70000.0,440000.0
+241,Saints Row IV,2015,Action,Deep Silver,150000.0,180000.0,30000.0,60000.0,420000.0
+242,Dishonored,2015,Action,Bethesda Softworks,120000.0,210000.0,20000.0,60000.0,410000.0
+243,Mirror's Edge 2,2016,Platform,Electronic Arts,130000.0,190000.0,30000.0,60000.0,410000.0
+244,Farming Simulator 2015,2015,Simulation,Koch Media,130000.0,220000.0,0.0,70000.0,420000.0
+245,Just Dance 2015,2014,Music,Ubisoft,210000.0,130000.0,0.0,70000.0,410000.0
+246,Sword Art Online: Hollow Realization,2016,Role-Playing,Namco Bandai Games,180000.0,60000.0,120000.0,50000.0,410000.0
+247,Just Dance 2016,2015,Music,Ubisoft,190000.0,130000.0,0.0,70000.0,390000.0
+248,Batman: Arkham VR,2016,Action,Warner Bros. Interactive Entertainment,320000.0,0.0,0.0,70000.0,390000.0
+249,Little Nightmares,2017,Platform,Namco Bandai Games,180000.0,120000.0,20000.0,60000.0,380000.0
+250,Tropico 5,2015,Simulation,Kalypso Media,70000.0,180000.0,80000.0,50000.0,380000.0
+251,Life is Strange,2016,Adventure,Square Enix,110000.0,160000.0,50000.0,50000.0,370000.0
+252,Resident Evil Zero,2016,Action-Adventure,Capcom,70000.0,180000.0,70000.0,50000.0,370000.0
+253,Yakuza Kiwami 2,2017,Action,Sega,80000.0,60000.0,190000.0,30000.0,360000.0
+254,Vampyr,2018,Role-Playing,Focus Home Interactive,120000.0,190000.0,0.0,60000.0,370000.0
+255,Okami,2017,Action,Capcom,160000.0,120000.0,30000.0,60000.0,370000.0
+256,Sniper: Ghost Warrior 3,2017,Shooter,City Interactive,140000.0,150000.0,30000.0,60000.0,380000.0
+257,Hokuto ga Gotoku,2018,Action,Sega,90000.0,50000.0,180000.0,30000.0,350000.0
+258,Sword Art Online: Lost Song,2015,Role-Playing,Namco Bandai Games,190000.0,110000.0,0.0,60000.0,360000.0
+259,Disgaea 5: Alliance of Vengeance,2015,Role-Playing,NIS America,150000.0,80000.0,70000.0,50000.0,350000.0
+260,Dead or Alive 5,2015,Fighting,Tecmo Koei,90000.0,130000.0,90000.0,40000.0,350000.0
+261,Gravity Rush 2,2017,Action-Adventure,Sony Interactive Entertainment,130000.0,50000.0,130000.0,40000.0,350000.0
+262,Odin Sphere: Leifthrasir,2016,Role-Playing,NIS America,140000.0,70000.0,90000.0,40000.0,340000.0
+263,Divinity: Original Sin,2015,Role-Playing,Focus Home Interactive,130000.0,130000.0,40000.0,50000.0,350000.0
+264,The King of Fighters XIV,2016,Fighting,Deep Silver,210000.0,20000.0,60000.0,50000.0,340000.0
+265,Dishonored: Death of the Outsider,2017,Action,Bethesda Softworks,100000.0,180000.0,0.0,50000.0,330000.0
+266,Valkyria Chronicles,2016,Role-Playing,Sega,140000.0,80000.0,80000.0,40000.0,340000.0
+267,Murdered: Soul Suspect,2014,Action-Adventure,Square Enix,90000.0,170000.0,20000.0,50000.0,330000.0
+268,Payday 2,2015,Shooter,505 Games,120000.0,140000.0,0.0,50000.0,310000.0
+269,UEFA Euro 2016,2016,Sports,Konami Digital Entertainment,0.0,220000.0,50000.0,40000.0,310000.0
+270,DmC: Devil May Cry,2015,Action,Capcom,120000.0,130000.0,0.0,50000.0,300000.0
+271,Sonic Mania,2017,Platform,Sega,100000.0,150000.0,10000.0,50000.0,310000.0
+272,J Stars Victory Vs.,2015,Fighting,Namco Bandai Games,110000.0,140000.0,0.0,50000.0,300000.0
+273,XCOM 2,2016,Strategy,2K Games,160000.0,100000.0,0.0,50000.0,310000.0
+274,Dynasty Warriors 8: Xtreme Legends,2014,Misc,Tecmo Koei,90000.0,120000.0,60000.0,40000.0,310000.0
+275,Cities: Skylines,2017,Simulation,Koch Media,150000.0,70000.0,40000.0,50000.0,310000.0
+276,Saint Seiya: Soldiers' Soul,2015,Fighting,Namco Bandai Games,0.0,210000.0,50000.0,40000.0,300000.0
+277,Just Dance 2018,2017,Music,Ubisoft,100000.0,150000.0,0.0,50000.0,300000.0
+278,The Walking Dead: Season Two,2014,Misc,Square Enix,130000.0,90000.0,30000.0,50000.0,300000.0
+279,Sword Art Online: Fatal Bullet,2018,Role-Playing,Namco Bandai Games,110000.0,30000.0,130000.0,30000.0,300000.0
+280,Naruto to Boruto: Shinobi Striker,2018,Action,Bandai Namco Games,190000.0,30000.0,20000.0,50000.0,290000.0
+281,Yooka-Laylee,2017,Platform,Sold Out,90000.0,160000.0,0.0,50000.0,300000.0
+282,Cars 3: Driven to Win,2017,Racing,Warner Bros. Interactive Entertainment,60000.0,180000.0,10000.0,40000.0,290000.0
+283,Metal Gear Solid V: The Definitive Experience,2016,Action,Konami Digital Entertainment,130000.0,80000.0,30000.0,40000.0,280000.0
+284,Sherlock Holmes: Crimes & Punishments,2014,Adventure,Focus Home Interactive,100000.0,140000.0,0.0,50000.0,290000.0
+285,Star Trek Bridge Crew VR,2017,Action,Ubisoft,110000.0,120000.0,0.0,50000.0,280000.0
+286,The Heavy Rain and Beyond: Two Souls Collection,2016,Action,Sony Computer Entertainment,0.0,240000.0,0.0,40000.0,280000.0
+287,Spintires: MudRunner,2017,Simulation,Focus Home Interactive,110000.0,120000.0,0.0,50000.0,280000.0
+288,Onechanbara Z2: Chaos,2014,Action,NIS America,160000.0,30000.0,50000.0,40000.0,280000.0
+289,Secret of Mana,2018,Role-Playing,Square Enix,60000.0,120000.0,50000.0,40000.0,270000.0
+290,Gundam Versus,2017,Action,Namco Bandai Games,80000.0,0.0,180000.0,20000.0,280000.0
+291,NBA Live 14,2013,Sports,EA Sports,170000.0,50000.0,0.0,50000.0,270000.0
+292,Bravo Team VR,2018,Shooter,Sony Interactive Entertainment,120000.0,90000.0,20000.0,40000.0,270000.0
+293,Killing Floor 2 ,2016,Shooter,Tripwire Interactive,190000.0,30000.0,0.0,50000.0,270000.0
+294,Robinson: The Journey,2016,Action-Adventure,Sony Interactive Entertainment,140000.0,90000.0,0.0,50000.0,280000.0
+295,DriveClub VR,2016,Racing,Sony Interactive Entertainment,120000.0,90000.0,10000.0,40000.0,260000.0
+296,Fate/Extella: The Umbral Star,2016,Action,PQube,120000.0,0.0,120000.0,30000.0,270000.0
+297,Ultimate Marvel vs. Capcom 3,2017,Fighting,Capcom,190000.0,0.0,20000.0,40000.0,250000.0
+298,New Danganronpa V3: Minna no Koroshiai Shin Gakki,2017,Adventure,NIS America,90000.0,50000.0,70000.0,30000.0,240000.0
+299,Samurai Warriors 4,2014,Fighting,Tecmo Koei,80000.0,70000.0,60000.0,30000.0,240000.0
+300,Darksiders III,2018,Action,THQ Nordic,130000.0,70000.0,0.0,40000.0,240000.0
+301,NBA Live 15,2014,Sports,Electronic Arts,160000.0,40000.0,0.0,40000.0,240000.0
+302,NBA Live 18,2017,Sports,EA Sports,200000.0,0.0,0.0,50000.0,250000.0
+303,Tearaway Unfolded,2015,Platform,Sony Computer Entertainment,70000.0,130000.0,0.0,40000.0,240000.0
+304,.hack//G.U. Last Recode,2017,Role-Playing,Namco Bandai Games,100000.0,40000.0,80000.0,30000.0,250000.0
+305,Ride,2015,Racing,Milestone S.r.l.,40000.0,130000.0,30000.0,30000.0,230000.0
+306,Just Dance 2017,2016,Misc,Ubisoft,80000.0,120000.0,0.0,40000.0,240000.0
+307,The Escapists 2,2017,Action,Sold Out,40000.0,160000.0,0.0,40000.0,240000.0
+308,Transformers: Devastation,2015,Action,Activision,110000.0,90000.0,0.0,40000.0,240000.0
+309,Darksiders II,2015,Action-Adventure,Nordic Games,100000.0,100000.0,0.0,40000.0,240000.0
+310,Jikkyou Powerful Pro Baseball 2016,2016,Sports,Konami Digital Entertainment,0.0,0.0,240000.0,0.0,240000.0
+311,The Elder Scrolls Online: Morrowind,2017,MMO,Bethesda Softworks,110000.0,90000.0,0.0,40000.0,240000.0
+312,Digimon World: Next Order,2017,Role-Playing,Namco Bandai Games,130000.0,50000.0,20000.0,40000.0,240000.0
+313,theHunter: Call of the Wild,2017,Shooter,Astragon,190000.0,0.0,0.0,40000.0,230000.0
+314,Tony Hawk's Pro Skater 5,2015,Sports,Activision,110000.0,80000.0,0.0,40000.0,230000.0
+315,Angry Birds: Star Wars,2013,Puzzle,Activision,110000.0,90000.0,0.0,40000.0,240000.0
+316,Elex,2017,Role-Playing,THQ Nordic,30000.0,160000.0,0.0,40000.0,230000.0
+317,RIGS: Mechanized Combat League,2016,Action,Sony Interactive Entertainment,110000.0,60000.0,20000.0,40000.0,230000.0
+318,Transformer: Rise of the Dark Spark,2014,Shooter,Activision,80000.0,110000.0,10000.0,40000.0,240000.0
+319,Dead Island Definitive Collection,2016,Action,Deep Silver,90000.0,80000.0,30000.0,30000.0,230000.0
+320,Metal Gear Survive,2018,Action,Konami Digital Entertainment,80000.0,60000.0,50000.0,30000.0,220000.0
+321,Singstar Celebration,2017,Music,Sony Interactive Entertainment,40000.0,150000.0,0.0,30000.0,220000.0
+322,Dead by Daylight,2017,Action,505 Games,110000.0,60000.0,20000.0,40000.0,230000.0
+323,Attack on Titan 2,2018,Action,Koei Tecmo,90000.0,40000.0,60000.0,30000.0,220000.0
+324,The Wolf Among Us,2014,Adventure,Telltale Games,110000.0,70000.0,0.0,40000.0,220000.0
+325,Micro Machines: World Series,2017,Racing,Codemasters,30000.0,160000.0,0.0,30000.0,220000.0
+326,Bladestorm: Nightmare,2015,Action,Tecmo Koei,110000.0,40000.0,30000.0,30000.0,210000.0
+327,Zombie Army Trilogy,2015,Shooter,Rebellion Developments,60000.0,130000.0,0.0,30000.0,220000.0
+328,Outlast Trinity,2017,Action,Warner Bros. Interactive Entertainment,90000.0,90000.0,0.0,40000.0,220000.0
+329,EVE: Valkyrie,2016,Shooter,Sony Interactive Entertainment,110000.0,60000.0,0.0,40000.0,210000.0
+330,Senran Kagura: Peach Beach Splash,2017,Action,PQube,90000.0,20000.0,80000.0,20000.0,210000.0
+331,Ys VIII: Lacrimosa of Dana,2017,Role-Playing,NIS America,80000.0,40000.0,80000.0,20000.0,220000.0
+332,Bound By Flame,2014,Action,Focus Home Interactive,80000.0,90000.0,0.0,40000.0,210000.0
+333,NBA Live 16,2015,Sports,EA Sports,130000.0,50000.0,0.0,40000.0,220000.0
+334,7 Days to Die,2016,Action,Telltale Games,90000.0,80000.0,0.0,30000.0,200000.0
+335,Dynasty Warriors 8: Empires,2014,Misc,Tecmo Koei,70000.0,70000.0,40000.0,30000.0,210000.0
+336,Dragon's Dogma,2017,Role-Playing,Capcom,70000.0,70000.0,30000.0,30000.0,200000.0
+337,Godzilla (2015),2014,Action,Namco Bandai Games,110000.0,30000.0,30000.0,30000.0,200000.0
+338,Eagle Flight,2016,Adventure,Ubisoft,90000.0,80000.0,0.0,30000.0,200000.0
+339,Agents of Mayhem,2017,Action,Deep Silver,80000.0,80000.0,0.0,30000.0,190000.0
+340,MotoGP 14 ,2014,Racing,Milestone S.r.l.,50000.0,110000.0,0.0,30000.0,190000.0
+341,Elite: Dangerous,2017,Simulation,Frontier Developments,60000.0,100000.0,0.0,30000.0,190000.0
+342,Singstar: Ultimate Party,2014,Music,Sony Computer Entertainment,0.0,160000.0,0.0,30000.0,190000.0
+343,Toukiden Kiwami,2015,Action,Tecmo Koei,60000.0,70000.0,30000.0,30000.0,190000.0
+344,Batman: A Telltale Game Series,2016,Adventure,Telltale Games,90000.0,70000.0,0.0,30000.0,190000.0
+345,The Surge,2017,Action,Koch Media,70000.0,80000.0,10000.0,30000.0,190000.0
+346,MotoGP 15,2015,Racing,Milestone S.r.l.,0.0,130000.0,40000.0,20000.0,190000.0
+347,Resident Evil: Revelations,2017,Action,Capcom,60000.0,60000.0,40000.0,20000.0,180000.0
+348,Senran Kagura: Estival Versus,2015,Action,Marvelous Interactive,80000.0,0.0,90000.0,20000.0,190000.0
+349,Back to the Future: The Game,2015,Adventure,Telltale Games,100000.0,50000.0,0.0,30000.0,180000.0
+350,The Walking Dead - The Telltale Series: A New Frontier,2017,Adventure,Warner Bros. Interactive Entertainment,110000.0,40000.0,0.0,30000.0,180000.0
+351,Resident Evil 6,2016,Shooter,Capcom,100000.0,0.0,50000.0,20000.0,170000.0
+352,Final Fantasy XIV: Heavensward,2015,MMO,Square Enix,0.0,90000.0,60000.0,20000.0,170000.0
+353,Final Fantasy XIV: Stormblood,2017,MMO,Square Enix,50000.0,60000.0,40000.0,20000.0,170000.0
+354,Guilty Gear Xrd: Sign,2014,Fighting,Arc System Works,110000.0,0.0,40000.0,20000.0,170000.0
+355,Prototype: Biohazard Bundle,2016,Action,Activision,140000.0,0.0,0.0,30000.0,170000.0
+356,BlazBlue Central Fiction,2016,Fighting,PQube,100000.0,0.0,50000.0,20000.0,170000.0
+357,MXGP 3: The Official Motocross Videogame,2017,Racing,Milestone,60000.0,80000.0,0.0,30000.0,170000.0
+358,Ride 2,2016,Racing,Milestone S.r.l,70000.0,60000.0,10000.0,30000.0,170000.0
+359,Dead Rising 4,2017,Action-Adventure,Capcom,80000.0,50000.0,0.0,30000.0,160000.0
+360,Putty Squad,2013,Platform,System 3,60000.0,70000.0,0.0,30000.0,160000.0
+361,Digimon Story: Cyber Sleuth - Hacker's Memory,2017,Role-Playing,Namco Bandai Games,50000.0,50000.0,40000.0,20000.0,160000.0
+362,Battlezone,2016,Action,Sony Interactive Entertainment,90000.0,40000.0,0.0,30000.0,160000.0
+363,Naruto Shippuden: Ultimate Ninja Storm Legacy,2017,Fighting,Namco Bandai Games,70000.0,40000.0,30000.0,20000.0,160000.0
+364,Berserk and the Band of the Hawk,2016,Action,Tecmo Koei,70000.0,20000.0,50000.0,20000.0,160000.0
+365,BlazBlue: Chrono Phantasma Extend,2015,Fighting,PQube,80000.0,40000.0,20000.0,20000.0,160000.0
+366,Pillars of Eternity,2017,Role-Playing,Paradox Interactive ,110000.0,20000.0,0.0,30000.0,160000.0
+367,Valkyria: Azure Revolution,2017,Role-Playing,Deep Silver,40000.0,30000.0,70000.0,20000.0,160000.0
+368,Gravity Rush Remastered,2015,Action-Adventure,Sony Computer Entertainment,20000.0,60000.0,50000.0,20000.0,150000.0
+369,Psycho-Pass: Mandatory Happiness,2016,Visual Novel,NIS America,100000.0,20000.0,0.0,30000.0,150000.0
+370,Brothers: A Tale of Two Sons,2015,Adventure,505 Games,40000.0,90000.0,0.0,20000.0,150000.0
+371,Warriors Orochi 3,2014,Action,Tecmo Koei,40000.0,50000.0,40000.0,20000.0,150000.0
+372,Wasteland 2,2015,Role-Playing,Deep Silver,100000.0,0.0,30000.0,20000.0,150000.0
+373,Atelier Sophie: The Alchemist of the Mysterious Book,2015,Role-Playing,Tecmo Koei,40000.0,30000.0,70000.0,10000.0,150000.0
+374,NASCAR Heat Evolution,2016,Racing,Dusenberry Martin Racing,120000.0,0.0,0.0,30000.0,150000.0
+375,Yakuza: Ishin,2014,Adventure,Sega,0.0,0.0,150000.0,0.0,150000.0
+376,Toukiden 2,2016,Action,Tecmo Koei,40000.0,0.0,100000.0,10000.0,150000.0
+377,Song of the Deep,2016,Action,Insomniac Games,120000.0,0.0,0.0,30000.0,150000.0
+378,Super Robot Wars V,2017,Role-Playing,Namco Bandai Games,0.0,0.0,150000.0,0.0,150000.0
+379,Blue Reflection: Maboroshi ni Mau - Shoujo no Ken,2017,Role-Playing,Tecmo Koei,70000.0,0.0,60000.0,20000.0,150000.0
+380,Yonmegami Online: Cyber Dimension Neptune,2017,Role-Playing,Idea Factory International,60000.0,0.0,70000.0,10000.0,140000.0
+381,Grand Kingdom,2015,Role-Playing,NIS America,80000.0,0.0,40000.0,20000.0,140000.0
+382,Arslan: The Warriors of Legend,2016,Action,Tecmo Koei,30000.0,40000.0,60000.0,10000.0,140000.0
+383,Pro Cycling Manager 2016,2016,Sports,Focus Home Interactive,0.0,120000.0,0.0,20000.0,140000.0
+384,Shovel Knight,2015,Platform,Yacht Club Games,80000.0,40000.0,0.0,20000.0,140000.0
+385,Adventure Time: Finn & Jake Investigations,2015,Action,Little Orbit,70000.0,50000.0,0.0,20000.0,140000.0
+386,Guilty Gear Xrd -Revelator-,2016,Fighting,PQube,60000.0,0.0,70000.0,10000.0,140000.0
+387,We Happy Few,2018,Action-Adventure,Gearbox Software,80000.0,40000.0,0.0,20000.0,140000.0
+388,Rocksmith 2014 Edition Remastered,2016,Music,Ubisoft,110000.0,0.0,0.0,30000.0,140000.0
+389,The Crew: Wild Run,2015,Racing,Ubisoft,0.0,120000.0,0.0,20000.0,140000.0
+390,MXGP 2,2016,Racing,Milestone S.r.l.,50000.0,60000.0,0.0,20000.0,130000.0
+391,MotoGP 17,2017,Racing,Koch Media,40000.0,70000.0,0.0,20000.0,130000.0
+392,Fairy Fencer F: Advent Dark Force,2015,Role-Playing,Idea Factory International,60000.0,0.0,60000.0,10000.0,130000.0
+393,Samurai Warriors 4-II,2015,Action,Tecmo Koei,40000.0,20000.0,70000.0,10000.0,140000.0
+394,The Golf Club,2014,Sports,Ravenscourt,90000.0,20000.0,0.0,20000.0,130000.0
+395,Hatsune Miku: Project Diva X,2016,Music,Sega,80000.0,0.0,40000.0,20000.0,140000.0
+396,NASCAR Heat 2,2017,Racing,505 Games,110000.0,0.0,0.0,20000.0,130000.0
+397,Bulletstorm: Full Clip Edition,2017,Shooter,Gearbox Software,50000.0,60000.0,0.0,20000.0,130000.0
+398,Valentino Rossi: The Game,2016,Racing,Namco Bandai Games,50000.0,50000.0,0.0,20000.0,120000.0
+399,Golf Club 2,2017,Sports,Maximum Games,50000.0,60000.0,0.0,20000.0,130000.0
+400,Akiba's Trip 2,2014,Action,Acquire,90000.0,0.0,20000.0,20000.0,130000.0
+401,Rugby 15,2015,Sports,Bigben Interactive,50000.0,60000.0,0.0,20000.0,130000.0
+402,Utawarerumono: Futari no Hakuoro,2016,Visual Novel,Atlus,50000.0,0.0,70000.0,10000.0,130000.0
+403,The Legend of Heroes: Trails of Cold Steel III,2017,Role-Playing,Nihon Falcom Corporation,0.0,0.0,130000.0,0.0,130000.0
+404,Utawarerumono: Itsuwari no Kamen,2015,Adventure,Deep Silver,50000.0,0.0,70000.0,10000.0,130000.0
+405,The Inpatient,2018,Action,Sony Interactive Entertainment,60000.0,50000.0,0.0,20000.0,130000.0
+406,Don Bradman Cricket 14,2015,Sports,Tru Blu Entertainment,10000.0,90000.0,0.0,20000.0,120000.0
+407,Sword Art Online: Hollow Fragment,2015,Role-Playing,Namco Bandai Games,0.0,110000.0,0.0,20000.0,130000.0
+408,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016,Action,Activision,70000.0,30000.0,0.0,20000.0,120000.0
+409,Job Simulator,2017,Simulation,Sony Interactive Entertainment,100000.0,0.0,0.0,20000.0,120000.0
+410,Portal Knights,2017,Role-Playing,505 Games,20000.0,50000.0,30000.0,10000.0,110000.0
+411,Samurai Warriors 4: Empires,2015,Action,Tecmo Koei,30000.0,10000.0,70000.0,10000.0,120000.0
+412,Danganronpa 1o2 Reload,2017,Adventure,NIS America,80000.0,0.0,20000.0,20000.0,120000.0
+413,God Eater 2: Rage Burst,2015,Role-Playing,Namco Bandai Games,0.0,10000.0,110000.0,0.0,120000.0
+414,America's Greatest Game Shows: Wheel of Fortune & Jeopardy!,2017,Misc,Ubisoft,100000.0,0.0,0.0,20000.0,120000.0
+415,Marvel's Guardians of the Galaxy: The Telltale Series,2017,Adventure,Warner Bros. Interactive Entertainment,60000.0,40000.0,0.0,20000.0,120000.0
+416,Digimon Story: Cyber Sleuth,2016,Role-Playing,Namco Bandai Games,0.0,100000.0,0.0,20000.0,120000.0
+417,Constructor HD,2017,Strategy,System 3,90000.0,0.0,0.0,20000.0,110000.0
+418,Minecraft: Story Mode - Season Two,2017,Adventure,Telltale Games,90000.0,0.0,0.0,20000.0,110000.0
+419,Darksiders: Warmastered Edition,2016,Action-Adventure,THQ Nordic,70000.0,20000.0,0.0,20000.0,110000.0
+420,Mighty No. 9,2016,Platform,Deep Silver,90000.0,0.0,0.0,20000.0,110000.0
+421,The Invisible Hours,2017,Adventure,GameTrust,90000.0,0.0,0.0,20000.0,110000.0
+422,Monster Energy Supercross - The Official Videogame,2018,Racing,Milestone S.r.l.,80000.0,10000.0,0.0,20000.0,110000.0
+423,The Idolmaster: Platinum Stars,2016,Simulation,Namco Bandai Games,0.0,0.0,110000.0,0.0,110000.0
+424,The Witch and the Hundred Knight,2015,Role-Playing,NIS America,30000.0,10000.0,60000.0,10000.0,110000.0
+425,SD Gundam G Generation Genesis,2016,Strategy,Namco Bandai Games,0.0,0.0,110000.0,0.0,110000.0
+426,Rime,2017,Adventure,Grey Box,20000.0,70000.0,0.0,20000.0,110000.0
+427,Super Robot Wars OG: The Moon Dwellers,2016,Misc,Namco Bandai Games,0.0,0.0,110000.0,0.0,110000.0
+428,Gundam Breaker 3,2016,Action,Namco Bandai Games,0.0,0.0,110000.0,0.0,110000.0
+429,Earth Defense Force 2025.1: The Shadow of New Despair,2015,Shooter,D3Publisher,0.0,0.0,110000.0,0.0,110000.0
+430,Shadow Warrior (2013),2014,Shooter,Devolver Digital,0.0,90000.0,0.0,20000.0,110000.0
+431,Assassin's Creed Chronicles,2016,Action,Ubisoft,20000.0,50000.0,20000.0,10000.0,100000.0
+432,Mega Man Legacy Collection,2016,Platform,Capcom,90000.0,0.0,0.0,20000.0,110000.0
+433,Pac-Man Championship Edition 2 + Arcade Game Series,2017,Action,Namco Bandai Games,80000.0,0.0,0.0,20000.0,100000.0
+434,Tokyo Xanadu eX+,2016,Role-Playing,Nihon Falcom Corporation,50000.0,0.0,50000.0,10000.0,110000.0
+435,Stardew Valley,2017,Simulation,505 Games,40000.0,40000.0,0.0,20000.0,100000.0
+436,Romance of the Three Kingdoms 13,2015,Action,Tecmo Koei,30000.0,0.0,60000.0,10000.0,100000.0
+437,Musou Stars,2017,Action,Tecmo Koei,30000.0,0.0,60000.0,10000.0,100000.0
+438,Mega Man Legacy Collection 2,2017,Action,Capcom,60000.0,0.0,20000.0,10000.0,90000.0
+439,Final Fantasy XIV Online Complete Edition,2017,MMO,Square Enix,70000.0,0.0,20000.0,20000.0,110000.0
+440,Devil May Cry 4,2015,Action,Capcom,10000.0,0.0,90000.0,0.0,100000.0
+441,Puyo Puyo Tetris,2014,Puzzle,Sega,50000.0,30000.0,0.0,20000.0,100000.0
+442,Natural Doctrine,2014,Role-Playing,NIS America,50000.0,20000.0,20000.0,10000.0,100000.0
+443,Sudden Strike 4,2017,Strategy,Kalypso Media,50000.0,30000.0,10000.0,20000.0,110000.0
+444,Accel World vs. Sword Art Online: Millennium Twilight,2017,Action,Namco Bandai Games,0.0,30000.0,60000.0,10000.0,100000.0
+445,Wolfenstein The Two Pack,2017,Shooter,Bethesda Softworks,80000.0,0.0,0.0,20000.0,100000.0
+446,Guilty Gear Xrd REV 2,2017,Fighting,PQube,40000.0,10000.0,30000.0,10000.0,90000.0
+448,Let's Sing 2016,2015,Music,Ravenscourt,80000.0,0.0,0.0,20000.0,100000.0
+449,Resident Evil 4 HD,2016,Action-Adventure,Capcom,70000.0,0.0,10000.0,20000.0,100000.0
+450,Nights of Azure 2,2017,Action,Tecmo Koei,40000.0,0.0,40000.0,10000.0,90000.0
+451,The Technomancer,2016,Role-Playing,Focus Home Interactive,40000.0,40000.0,0.0,20000.0,100000.0
+452,Nights of Azure,2015,Action,Tecmo Koei,40000.0,40000.0,0.0,20000.0,100000.0
+453,Taiko no Tatsujin: Drum Session!,2017,Music,Namco Bandai Games,0.0,0.0,90000.0,0.0,90000.0
+454,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,2016,Strategy,Tecmo Koei,30000.0,0.0,60000.0,10000.0,100000.0
+455,Grand Ages: Medieval,2015,Strategy,Kalypso Media,0.0,50000.0,30000.0,10000.0,90000.0
+456,Rugby League Live 4,2017,Sports,Tru Blu Entertainment,0.0,80000.0,0.0,10000.0,90000.0
+457,Toy Soldiers: War Chest,2015,Action,Ubisoft,70000.0,0.0,0.0,20000.0,90000.0
+458,God Eater Resurrection,2015,Action,Namco Bandai Games,0.0,0.0,90000.0,0.0,90000.0
+459,Paragon,2016,Action,Sony Interactive Entertainment,70000.0,0.0,0.0,20000.0,90000.0
+460,Summon Night 6: Lost Borders,2016,Role-Playing,Gaijinworks,30000.0,0.0,50000.0,10000.0,90000.0
+461,Black Rose Valkyrie,2016,Role-Playing,Idea Factory International,40000.0,0.0,40000.0,10000.0,90000.0
+462,Duke Nukem 3D: 20th Anniversary World Tour,2016,Shooter,Gearbox Software,70000.0,0.0,0.0,20000.0,90000.0
+463,ATV Drift & Tricks,2017,Racing,Funbox Media,70000.0,0.0,0.0,20000.0,90000.0
+464,Yoru no Nai Kuni,2015,Role-Playing,Tecmo Koei,0.0,0.0,90000.0,0.0,90000.0
+465,Lara Croft and the Temple of Osiris,2014,Action,Square Enix,0.0,70000.0,0.0,10000.0,80000.0
+467,Ghostbusters (2016),2016,Action,Activision,70000.0,0.0,0.0,20000.0,90000.0
+468,Agatha Christie's The ABC Murders,2016,Adventure,Microids,50000.0,20000.0,0.0,20000.0,90000.0
+469,Shantae: Half-Genie Hero,2016,Platform,Xseed Games,60000.0,0.0,10000.0,10000.0,80000.0
+470,Earth Defense Force 4.1: The Shadow of New Despair,2015,Shooter,PQube,50000.0,20000.0,0.0,10000.0,80000.0
+471,The Sexy Brutale,2017,Adventure,Badland Studio,50000.0,20000.0,0.0,10000.0,80000.0
+472,Legend of Kay,2015,Action,Nordic Games,30000.0,30000.0,0.0,10000.0,70000.0
+473,Hasbro Family Fun Pack Conquest Edition,2016,Misc,Ubisoft,70000.0,0.0,0.0,20000.0,90000.0
+474,Loading Human,2016,Adventure,Maximum Games,50000.0,20000.0,0.0,10000.0,80000.0
+475,Rapala Fishing Pro Series,2017,Simulation,GameMill,60000.0,0.0,0.0,20000.0,80000.0
+476,Atelier Firis: The Alchemist of the Mysterious Journey,2016,Role-Playing,Tecmo Koei,20000.0,0.0,50000.0,10000.0,80000.0
+477,Dead Rising,2016,Action,Capcom,40000.0,0.0,20000.0,10000.0,70000.0
+478,Assetto Corsa,2016,Racing,505 Games,0.0,60000.0,10000.0,10000.0,80000.0
+479,Akiba's Beat,2016,Action,PQube,50000.0,0.0,10000.0,10000.0,70000.0
+480,WRC 6,2016,Racing,PQube,30000.0,20000.0,10000.0,10000.0,70000.0
+481,God Wars: Future Past,2017,Role-Playing,NIS America,30000.0,10000.0,20000.0,10000.0,70000.0
+482,Resident Evil 5 HD,2016,Action,Capcom,50000.0,0.0,10000.0,10000.0,70000.0
+483,The Witch and the Hundred Knights 2,2017,Role-Playing,Nippon Ichi Software,30000.0,0.0,30000.0,10000.0,70000.0
+484,Samurai Warriors: Sanada Maru,2016,Action,Tecmo Koei,20000.0,0.0,50000.0,10000.0,80000.0
+485,Project Setsuna,2016,Role-Playing,Square Enix,0.0,0.0,70000.0,0.0,70000.0
+486,Has-Been Heroes,2017,Action,GameTrust,60000.0,0.0,0.0,10000.0,70000.0
+487,Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary,2017,Misc,Square Enix,0.0,0.0,70000.0,0.0,70000.0
+488,Styx: Shards of Darknes,2017,Action,Focus Home Interactive,60000.0,0.0,0.0,10000.0,70000.0
+489,Dead Rising 2,2016,Action,Capcom,40000.0,0.0,20000.0,10000.0,70000.0
+490,The Book of Unwritten Tales 2,2015,Adventure,Nordic Games,0.0,60000.0,0.0,10000.0,70000.0
+491,Touhou Genso Rondo: Bullet Ballet,2016,Shooter,NIS America,60000.0,0.0,0.0,10000.0,70000.0
+492,The Walking Dead: A Telltale Series Collection,2017,Adventure,Warner Bros. Interactive Entertainment,60000.0,0.0,0.0,10000.0,70000.0
+493,The Silver Case,2017,Visual Novel,NIS America,50000.0,0.0,10000.0,10000.0,70000.0
+494,Hunting Simulator,2017,Shooter,Bigben Interactive,60000.0,0.0,0.0,10000.0,70000.0
+495,WRC 7,2017,Racing,Bigben Interactive,60000.0,0.0,0.0,10000.0,70000.0
+496,Kamen Rider: Battride War Genesis,2016,Action,Namco Bandai Games,0.0,0.0,70000.0,0.0,70000.0
+497,Le Tour de France 2017,2017,Simulation,Focus Home Interactive,0.0,60000.0,0.0,10000.0,70000.0
+498,City Shrouded in Shadow,2017,Action-Adventure,Namco Bandai Games,0.0,0.0,70000.0,0.0,70000.0
+499,SG/ZH: School Girl/Zombie Hunter,2017,Action,Aksys Games,40000.0,0.0,20000.0,10000.0,70000.0
+500,Broken Sword 5: The Serpent's Curse,2015,Adventure,Revolution Software,0.0,60000.0,0.0,10000.0,70000.0
+501,Terraria,2014,Action,505 Games,0.0,50000.0,10000.0,10000.0,70000.0
+502,Warhammer: The End Times - Vermintide,2016,Action,Games Workshop,30000.0,30000.0,0.0,10000.0,70000.0
+503,Batman: The Enemy Within,2017,Adventure,Telltale Games,50000.0,0.0,0.0,10000.0,60000.0
+504,Atari Flashback Classics: Volume 1,2016,Misc,Atari,50000.0,0.0,0.0,10000.0,60000.0
+505,Legend of Kay Anniversary,2015,Action,Nordic Games,0.0,60000.0,0.0,10000.0,70000.0
+506,Steins;Gate 0,2015,Adventure,PQube,0.0,0.0,70000.0,0.0,70000.0
+507,ZombiU,2016,Action,Ubisoft,0.0,40000.0,10000.0,10000.0,60000.0
+508,Risen 3: Titan Lords,2015,Role-Playing,Deep Silver,0.0,60000.0,0.0,10000.0,70000.0
+509,Mark McMorris Infinite Air,2016,Sports,Maximum Games,50000.0,0.0,0.0,10000.0,60000.0
+510,Dead or Alive Xtreme 3: Fortune,2016,Sports,Tecmo Koei,0.0,0.0,60000.0,0.0,60000.0
+511,Birthdays the Beginning,2017,Misc,NIS America,50000.0,0.0,0.0,10000.0,60000.0
+512,Rugby 18,2017,Sports,Koch Media,50000.0,0.0,0.0,10000.0,60000.0
+513,The Binding of Isaac,2017,Misc,Nicalis,50000.0,0.0,0.0,10000.0,60000.0
+514,Sherlock Holmes: The Devil's Daughter,2016,Adventure,Bigben Interactive,50000.0,0.0,0.0,10000.0,60000.0
+515,Atelier Liddy and Soeur: Alchemists of the Mysterious Painting,2017,Role-Playing,Tecmo Koei,30000.0,0.0,30000.0,10000.0,70000.0
+516,MX vs. ATV Supercross Encore,2015,Sports,Nordic Games,0.0,50000.0,0.0,10000.0,60000.0
+517,MX vs ATV Supercross Encore 2017 Track Edition,2017,Racing,THQ Nordic,50000.0,0.0,0.0,10000.0,60000.0
+518,Sword Art Online: Game Director's Edition,2015,Role-Playing,Namco Bandai Games,0.0,0.0,60000.0,0.0,60000.0
+519,Deformers,2017,Action,Ready at Dawn,50000.0,0.0,0.0,10000.0,60000.0
+520,Nobunaga no Yabou: Souzou,2014,Strategy,Tecmo Koei,0.0,0.0,60000.0,0.0,60000.0
+521,Dragon Quest X: All in One Package,2017,Role-Playing,Square Enix,0.0,0.0,60000.0,0.0,60000.0
+522,Yomawari: Midnight Shadows,2017,Action,NIS America,20000.0,0.0,40000.0,0.0,60000.0
+523,Game of Thrones (Telltale),2015,Adventure,Telltale Games,50000.0,0.0,0.0,10000.0,60000.0
+524,Atari Flashback Classics: Volume 2,2016,Misc,Atari,50000.0,0.0,0.0,10000.0,60000.0
+525,Outcast: Second Contact,2017,Adventure,Maximum Games,50000.0,0.0,0.0,10000.0,60000.0
+526,Cartoon Network Battle Crashers,2016,Action,Maximum Games,50000.0,0.0,0.0,10000.0,60000.0
+527,Handball 16,2015,Sports,Bigben Interactive,0.0,50000.0,0.0,10000.0,60000.0
+528,Extinction,2018,Action,Maximum Games,50000.0,0.0,0.0,10000.0,60000.0
+529,Rugby World Cup 2015,2015,Sports,Big Ben Interactive,0.0,50000.0,0.0,10000.0,60000.0
+530,Exist Archive: The Other Side of the Sky,2015,Role-Playing,Aksys Games,20000.0,0.0,30000.0,0.0,50000.0
+531,King's Quest: The Complete Collection,2016,Adventure,Activision,50000.0,0.0,0.0,10000.0,60000.0
+532,Sine Mora,2017,Action,THQ Nordic,30000.0,10000.0,0.0,10000.0,50000.0
+533,Aven Colony,2017,Strategy,Sold Out,40000.0,10000.0,0.0,10000.0,60000.0
+534,Battle Chasers: Nightwar,2017,Role-Playing,THQ Nordic,30000.0,20000.0,0.0,10000.0,60000.0
+535,WRC 5: FIA World Rally Championship,2015,Racing,Bigben Interactive,0.0,50000.0,0.0,10000.0,60000.0
+536,Black Mirror,2017,Adventure,THQ Nordic,40000.0,0.0,0.0,10000.0,50000.0
+537,Touhou Genso Wanderer,2017,Action,NIS America,40000.0,0.0,0.0,10000.0,50000.0
+538,Arcania: Gothic 4,2015,Role-Playing,Nordic Games,40000.0,0.0,0.0,10000.0,50000.0
+539,Starblood Arena VR,2017,Shooter,Sony Interactive Entertainment,40000.0,0.0,0.0,10000.0,50000.0
+540,Hellblade,2018,Action-Adventure,505 Games,30000.0,10000.0,0.0,10000.0,50000.0
+541,Bubsy: The Woolies Strike Back,2017,Platform,Accolade,40000.0,0.0,0.0,10000.0,50000.0
+542,Nitroplus Blasterz: Heroines Infinite Duel,2015,Fighting,Marvelous Interactive,10000.0,10000.0,30000.0,0.0,50000.0
+543,Nobunaga's Ambition: Creation,2014,Strategy,Tecmo Koei,40000.0,0.0,0.0,10000.0,50000.0
+544,Child of Light,2014,Role-Playing,Ubisoft,0.0,10000.0,40000.0,0.0,50000.0
+545,Phantasy Star Online 2 Episode 4: Deluxe Package,2017,Role-Playing,Sega,0.0,0.0,50000.0,0.0,50000.0
+546,Saints Row: Gat out of Hell,2015,Action,Deep Silver,0.0,40000.0,0.0,10000.0,50000.0
+547,Werewolves Within,2016,Misc,Ubisoft,40000.0,0.0,0.0,10000.0,50000.0
+548,Demon Gaze 2,2017,Role-Playing,NIS America,40000.0,0.0,0.0,10000.0,50000.0
+549,Real Farm,2017,Simulation,Soedesco,40000.0,0.0,0.0,10000.0,50000.0
+550,Worms: WMD,2016,Strategy,Team17 Digital Ltd,20000.0,20000.0,0.0,10000.0,50000.0
+551,Syberia III,2017,Adventure,Microids,40000.0,0.0,0.0,10000.0,50000.0
+552,Sengoku Basara: Sanada Yukimura-Den,2016,Action,Capcom,0.0,0.0,50000.0,0.0,50000.0
+553,Sengoku Basara 4: Sumeragi,2015,Action,Capcom,0.0,0.0,50000.0,0.0,50000.0
+554,Sébastien Loeb Rally Evo,2016,Racing,Milestone S.r.l,0.0,40000.0,0.0,10000.0,50000.0
+555,Don't Starve,2018,Adventure,505 Games,40000.0,0.0,0.0,10000.0,50000.0
+556,Monster Jam: Crush It,2016,Racing,GameMill,40000.0,0.0,0.0,10000.0,50000.0
+557,Prison Architect,2016,Simulation,Introversion Software,20000.0,20000.0,0.0,10000.0,50000.0
+558,Assault Suit Leynos,2016,Shooter,Rising Star Games,40000.0,0.0,0.0,10000.0,50000.0
+559,Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,2016,Adventure,NIS America,40000.0,0.0,0.0,10000.0,50000.0
+560,Overcooked,2016,Action,Sold Out,40000.0,0.0,0.0,10000.0,50000.0
+561,Ben 10 (2017),2017,Action,Outright Games,40000.0,0.0,0.0,10000.0,50000.0
+562,Dead Alliance,2017,Shooter,Maximum Games,40000.0,0.0,0.0,10000.0,50000.0
+563,Deer Hunter Reloaded,2017,Shooter,Maximum Games,40000.0,0.0,0.0,10000.0,50000.0
+564,That's You,2017,Party,Sony Interactive Entertainment,40000.0,0.0,0.0,10000.0,50000.0
+565,Raid: World War II,2017,Shooter,505 Games,40000.0,0.0,0.0,10000.0,50000.0
+566,Hyperdimension Neptunia Victory II,2015,Role-Playing,Idea Factory International,0.0,0.0,40000.0,0.0,40000.0
+567,Zero Escape The Nonary Games,2017,Adventure,Aksys Games,30000.0,0.0,10000.0,10000.0,50000.0
+568,Rugby Challenge 3,2016,Sports,Alternative Software,0.0,40000.0,0.0,10000.0,50000.0
+569,Vikings: Wolves of Midgard,2017,Action,Kalypso Media,30000.0,10000.0,0.0,10000.0,50000.0
+570,INSIDE / LIMBO Double Pack,2017,Platform,505 Games,40000.0,0.0,0.0,10000.0,50000.0
+571,The Talos Principle,2015,Puzzle,Nighthawk Interactive,0.0,40000.0,0.0,10000.0,50000.0
+572,Megadimension Neptunia VIIR,2017,Role-Playing,Compile Heart,10000.0,0.0,30000.0,0.0,40000.0
+573,R.B.I. Baseball 2016,2016,Sports,MLB.com,40000.0,0.0,0.0,10000.0,50000.0
+574,Pure Farming 2018,2018,Simulation,Techland,20000.0,10000.0,0.0,10000.0,40000.0
+575,Air Conflicts: Secret Wars,2016,Simulation,Nighthawk Interactive,30000.0,0.0,0.0,10000.0,40000.0
+576,Anima - Gate of Memories,2016,Action,Avanquest,10000.0,20000.0,0.0,10000.0,40000.0
+577,Axiom Verge,2017,Action,Badland Studio,30000.0,0.0,0.0,10000.0,40000.0
+578,Unbox: Newbie's Adventure,2017,Action,Merge Games,30000.0,0.0,0.0,10000.0,40000.0
+579,Here They Lie,2016,Adventure,Sony Interactive Entertainment,0.0,30000.0,0.0,10000.0,40000.0
+580,Under Night In-Birth Exe:Latest,2017,Fighting,Arc System Works,10000.0,0.0,30000.0,0.0,40000.0
+581,Aragami,2016,Action,Maximum Games,30000.0,0.0,0.0,10000.0,40000.0
+582,Yonder: The Cloud Catcher Chronicles,2017,Action,CokeM Interactive,30000.0,0.0,0.0,10000.0,40000.0
+583,Assassin's Creed Chronicles: China,2015,Action-Adventure,Ubisoft,0.0,30000.0,0.0,10000.0,40000.0
+584,JoJo's Bizarre Adventure: Eyes of Heaven,2015,Fighting,Namco Bandai Games,0.0,0.0,40000.0,0.0,40000.0
+585,Dungeons 3,2017,Strategy,Kalypso Media,30000.0,0.0,0.0,10000.0,40000.0
+586,Tour de France 2014,2014,Sports,Focus Home Interactive,0.0,30000.0,0.0,10000.0,40000.0
+587,Danganronpa Another Episode: Ultra Despair Girls,2017,Shooter,NIS America,30000.0,0.0,10000.0,10000.0,50000.0
+588,Aegis of Earth: Protonovus Assault,2016,Action,PQube,30000.0,10000.0,0.0,10000.0,50000.0
+589,Just Sing,2016,Music,Ubisoft,30000.0,0.0,0.0,10000.0,40000.0
+590,Wonder Boy: The Dragon's Trap (Remake),2018,Platform,Nicalis,30000.0,0.0,0.0,10000.0,40000.0
+591,Lumo,2016,Puzzle,Rising Star Games,30000.0,0.0,0.0,10000.0,40000.0
+592,ABZU,2017,Adventure,505 Games,30000.0,0.0,0.0,10000.0,40000.0
+593,Shadow Tactics: Blades of the Shogun,2017,Strategy,Kalypso Media,20000.0,10000.0,0.0,10000.0,40000.0
+594,Darkest Dungeon,2018,Role-Playing,Merge Games,20000.0,0.0,10000.0,10000.0,40000.0
+595,R.B.I. Baseball 2017,2017,Sports,MLB.com,30000.0,0.0,0.0,10000.0,40000.0
+596,Punch Line,2015,Adventure,5pb,30000.0,0.0,0.0,10000.0,40000.0
+597,VR Karts,2017,Racing,Perp Games,30000.0,0.0,0.0,10000.0,40000.0
+598,Resident Evil: Umbrella Corps,2016,Shooter,Capcom,0.0,0.0,40000.0,0.0,40000.0
+599,Marvel Pinball: Epic Collection Volume 1,2016,Puzzle,Nighthawk Interactive,30000.0,0.0,0.0,10000.0,40000.0
+600,God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2,2015,Misc,Namco Bandai Games,0.0,0.0,40000.0,0.0,40000.0
+601,Infamous: First Light,2014,Action,Sony Computer Entertainment,0.0,30000.0,0.0,0.0,30000.0
+602,Raiden V,2017,Action,UFO Interactive,20000.0,0.0,0.0,10000.0,30000.0
+603,The Peanuts Movie: Snoopy's Grand Adventure,2015,Platform,Activision,0.0,30000.0,0.0,0.0,30000.0
+604,The Dwarves,2016,Role-Playing,THQ Nordic,30000.0,0.0,0.0,10000.0,40000.0
+605,Dynasty Warriors: Eiketsuden,2016,Strategy,Tecmo Koei,0.0,0.0,30000.0,0.0,30000.0
+606,Winning Post 8 2016,2016,Simulation,Tecmo Koei,0.0,0.0,30000.0,0.0,30000.0
+607,Dragon's Dogma Online: Season 2,2016,Action,Capcom,0.0,0.0,30000.0,0.0,30000.0
+608,Coven and Labyrinth of Refrain,2017,Action,Nippon Ichi Software,10000.0,0.0,10000.0,0.0,20000.0
+609,Super Dungeon Bros,2016,Action,Wired Productions,20000.0,0.0,0.0,10000.0,30000.0
+610,Blade Arcus from Shining EX,2015,Fighting,Sega,0.0,0.0,30000.0,0.0,30000.0
+611,Troll and I,2017,Action,Maximum Games,20000.0,0.0,0.0,10000.0,30000.0
+612,The Pillars of the Earth,2017,Adventure,Kalypso Media,20000.0,0.0,0.0,10000.0,30000.0
+613,The Lost Child,2017,Action,Kadokawa Games,10000.0,0.0,10000.0,0.0,20000.0
+614,Romance of the Three Kingdoms 13 with Power-Up Kit,2017,Misc,Tecmo Koei,0.0,0.0,30000.0,0.0,30000.0
+615,Koihime Enbu,2016,Fighting,Yeti,0.0,0.0,30000.0,0.0,30000.0
+616,Road Rage,2017,Racing,Maximum Games,20000.0,0.0,0.0,10000.0,30000.0
+617,Winning Post 8 2017,2017,Misc,Tecmo Koei,0.0,0.0,30000.0,0.0,30000.0
+618,Dino Dini's Kick Off Revival,2016,Sports,Avanquest,0.0,20000.0,0.0,0.0,20000.0
+619,God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,2016,Misc,Namco Bandai Games,0.0,0.0,30000.0,0.0,30000.0
+620,Tumblestone,2016,Puzzle,Nighthawk Interactive,20000.0,0.0,0.0,10000.0,30000.0
+621,Blackguards 2,2017,Strategy,Kalypso Media,20000.0,0.0,0.0,10000.0,30000.0
+622,Baja: Edge of Control HD,2017,Racing,THQ Nordic,20000.0,0.0,0.0,10000.0,30000.0
+623,Crows: Burning Edge,2016,Action,Namco Bandai Games,0.0,0.0,30000.0,0.0,30000.0
+624,Geometry Wars 3: Dimensions Evolved,2016,Action,Activision,20000.0,0.0,0.0,10000.0,30000.0
+625,We Sing (2016),2016,Music,THQ Nordic,20000.0,0.0,0.0,10000.0,30000.0
+626,Shin Hayarigami 2,2016,Adventure,Nippon Ichi Software,0.0,0.0,30000.0,0.0,30000.0
+627,The Town of Light,2017,Adventure,Wired Productions,20000.0,0.0,0.0,10000.0,30000.0
+628,OlliOlli: Epic Combo Edition,2016,Platform,Badland Studio,20000.0,0.0,0.0,10000.0,30000.0
+629,Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto,2017,Fighting,Namco Bandai Games,0.0,0.0,30000.0,0.0,30000.0
+631,Ao no Kanata no Four Rhythm,2017,Visual Novel,Sprite,0.0,0.0,30000.0,0.0,30000.0
+632,Zero Escape: Zero Time Dilemma,2017,Adventure,Aksys Games,20000.0,0.0,0.0,0.0,20000.0
+633,AereA,2017,Role-Playing,Soedesco,20000.0,0.0,0.0,0.0,20000.0
+634,Root Letter,2016,Visual Novel,PQube,0.0,0.0,30000.0,0.0,30000.0
+635,ClaDun Sengoku,2017,Action,NIS America,20000.0,0.0,0.0,0.0,20000.0
+636,The Girl and the Robot,2017,Misc,Soedesco,20000.0,0.0,0.0,0.0,20000.0
+637,Omega Quintet,2014,Role-Playing,Compile Heart,0.0,0.0,20000.0,0.0,20000.0
+638,Touhou Kobuto V: Burst Battle,2017,Shooter,NIS America,20000.0,0.0,0.0,0.0,20000.0
+639,God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,2016,Action,Namco Bandai Games,0.0,0.0,20000.0,0.0,20000.0
+640,Rugby League Live 3,2015,Sports,Tru Blu Entertainment,0.0,20000.0,0.0,0.0,20000.0
+641,Omega Labyrinth Z,2017,Role-Playing,D3Publisher,0.0,0.0,20000.0,0.0,20000.0
+642,Lost Sphear,2017,Role-Playing,Square Enix,0.0,0.0,20000.0,0.0,20000.0
+643,Superbeat: Xonic,2017,Music,PM Studios,20000.0,0.0,0.0,0.0,20000.0
+644,Republique,2016,Action-Adventure,Gunho Online Entertainment,0.0,10000.0,10000.0,0.0,20000.0
+645,Super Stardust Ultra VR,2016,Shooter,Sony Interactive Entertainment,0.0,20000.0,0.0,0.0,20000.0
+646,Redout,2017,Racing,505 Games,20000.0,0.0,0.0,0.0,20000.0
+647,Resident Evil: Value Pack,2016,Action-Adventure,Capcom,0.0,0.0,20000.0,0.0,20000.0
+648,God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,2016,Action,Namco Bandai Games,0.0,0.0,20000.0,0.0,20000.0
+649,PaRappa the Rapper Remastered,2017,Music,Sony Interactive Entertainment,0.0,0.0,20000.0,0.0,20000.0
+650,Earth's Dawn,2016,Action,Rising Star Games,20000.0,0.0,0.0,0.0,20000.0
+651,Big Buck Hunter Arcade,2016,Shooter,GameMill Entertainment,20000.0,0.0,0.0,0.0,20000.0
+652,Dungeons 2,2016,Role-Playing,Kalypso Media,20000.0,0.0,0.0,0.0,20000.0
+653,Tricky Towers,2017,Puzzle,Soedesco,20000.0,0.0,0.0,0.0,20000.0
+654,No Heroes Allowed! VR,2017,Strategy,Sony Interactive Entertainment,0.0,0.0,20000.0,0.0,20000.0
+655,ArmaGallant: Decks of Destiny,2017,Strategy,Maximum Games,20000.0,0.0,0.0,0.0,20000.0
+656,Carmageddon: Max Damage,2016,Action,Stainless Games,20000.0,0.0,0.0,0.0,20000.0
+657,Armello,2018,Strategy,League of Geeks,20000.0,0.0,0.0,0.0,20000.0
+658,Shaq-Fu: A Legend Reborn,2018,Action,Wired Productions,20000.0,0.0,0.0,0.0,20000.0
+659,Patapon Remastered,2017,Music,Sony Interactive Entertainment,0.0,0.0,20000.0,0.0,20000.0
+660,Monster Hunter Frontier Z: Beginner's Package,2016,Action,Capcom,0.0,0.0,20000.0,0.0,20000.0
+661,Professional Farmer 2016,2015,Action,Namco Bandai Games,0.0,20000.0,0.0,0.0,20000.0
+662,Natsuiro High School: Seishun Hakusho,2015,Action,D3Publisher,0.0,0.0,20000.0,0.0,20000.0
+663,The Inner World: The Last Wind Monk,2017,Puzzle,Kalypso Media,20000.0,0.0,0.0,0.0,20000.0
+664,SteamWorld Collection,2016,Misc,Rising Star Games,20000.0,0.0,0.0,0.0,20000.0
+665,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,2017,Visual Novel,5pb,0.0,0.0,20000.0,0.0,20000.0
+666,God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6,2016,Misc,Namco Bandai Games,0.0,0.0,20000.0,0.0,20000.0
+667,Genkai Tokki: Castle Panzers,2017,Role-Playing,Compile Heart,0.0,0.0,20000.0,0.0,20000.0
+668,Skullgirls: 2nd Encore,2016,Fighting,Arc System Works,0.0,0.0,20000.0,0.0,20000.0
+669,This Is The Police,2017,Simulation,THQ Nordic,10000.0,0.0,0.0,0.0,10000.0
+670,Rabbids Invasion: The Interactive TV Show,2014,Misc,Ubisoft,0.0,10000.0,0.0,0.0,10000.0
+671,FlatOut 4: Total Insanity,2017,Racing,Bigben Interactive,10000.0,0.0,0.0,0.0,10000.0
+672,Chaos;Child,2015,Visual Novel,PQube,0.0,0.0,20000.0,0.0,20000.0
+673,Touhou Shinhiroku: Urban Legend in Limbo,2016,Fighting,Mediascape,0.0,0.0,20000.0,0.0,20000.0
+674,Rogue Trooper: Redux,2017,Shooter,Rebellion,10000.0,0.0,0.0,0.0,10000.0
+675,Space Hulk: Deathwing,2015,Shooter,Focus Home Interactive,0.0,10000.0,0.0,0.0,10000.0
+676,Pharaonic,2017,Action,Soedesco,10000.0,0.0,0.0,0.0,10000.0
+677,White Day,2017,Action,PQube,0.0,10000.0,10000.0,0.0,20000.0
+678,Torment: Tides of Numenera,2017,Role-Playing,Techland,10000.0,0.0,0.0,0.0,10000.0
+679,Let It Die,2017,Action,GungHo,0.0,10000.0,10000.0,0.0,20000.0
+680,Summer Lesson: Miyamoto Hikari Collection,2017,Adventure,Namco Bandai Games,0.0,0.0,10000.0,0.0,10000.0
+681,Raven's Cry,2015,Role-Playing,TopWare Interactive,0.0,10000.0,0.0,0.0,10000.0
+682,New Game! The Challenge Stage!,2017,Adventure,5pb,0.0,0.0,10000.0,0.0,10000.0
+683,Hakoniwa Company Works,2017,Strategy,Nippon Ichi Software,0.0,0.0,10000.0,0.0,10000.0
+684,DJ Max Respect,2017,Misc,Arc System Works,0.0,0.0,10000.0,0.0,10000.0
+685,Battle Worlds: Kronos,2016,Strategy,Nordic Games,10000.0,0.0,0.0,0.0,10000.0
+686,Dragon's Dogma Online: Season 3,2017,Role-Playing,Capcom,0.0,0.0,10000.0,0.0,10000.0
+687,Occultic;Nine,2017,Adventure,5pb,0.0,0.0,10000.0,0.0,10000.0
+688,Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!,2017,Adventure,5pb,0.0,0.0,10000.0,0.0,10000.0
+689,Battle Garegga Rev.2016,2016,Strategy,M2,0.0,0.0,10000.0,0.0,10000.0
+690,Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set,2017,Adventure,5pb,0.0,0.0,10000.0,0.0,10000.0
+691,Farming 2017 - The Simulation,2016,Simulation,UIG Entertainment,0.0,10000.0,0.0,0.0,10000.0
+692,Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss,2017,Adventure,5pb,0.0,0.0,10000.0,0.0,10000.0
+693,Zombie Vikings,2016,Action,Rising Star Games,0.0,10000.0,0.0,0.0,10000.0
+694,ATV Renegades,2017,Racing,Nighthawk Interactive,10000.0,0.0,0.0,0.0,10000.0
+695,Ziggurat,2016,Shooter,Soedesco,0.0,10000.0,0.0,0.0,10000.0
+696,Chaos;Child: Love Chu Chu!!,2017,Visual Novel,5pb,0.0,0.0,10000.0,0.0,10000.0
+697,Moto Racer 4,2016,Racing,PQube,10000.0,0.0,0.0,0.0,10000.0
+698,LocoRoco Remastered,2017,Platform,Sony Interactive Entertainment,0.0,0.0,10000.0,0.0,10000.0
+699,Lock's Quest,2017,Strategy,THQ Nordic,10000.0,0.0,0.0,0.0,10000.0
+700,Gal Gun: Double Peace,2015,Action,PQube,0.0,0.0,10000.0,0.0,10000.0
+701,Woodcutter Simulator 2016,2015,Action,Namco Bandai Games,0.0,10000.0,0.0,0.0,10000.0
+702,Akiba's Trip 2+A,2017,Adventure,Acquire,0.0,0.0,10000.0,0.0,10000.0
+703,Date-A-Live Twin Edition: Rio Reincarnation,2017,Adventure,Compile Heart,0.0,0.0,10000.0,0.0,10000.0
+704,Valhalla Hills,2017,Strategy,Kalypso Media,10000.0,0.0,0.0,0.0,10000.0
+705,Deception IV: Blood Ties,2015,Action,Tecmo Koei,0.0,0.0,10000.0,0.0,10000.0
+706,One Piece: Unlimited World Red,2017,Action,Namco Bandai Games,0.0,0.0,10000.0,0.0,10000.0
+707,Hyper Light Drifter,2017,Role-Playing,Active Gaming Media,0.0,0.0,10000.0,0.0,10000.0
+708,Teslagrad,2014,Platform,Rain Games,0.0,10000.0,0.0,0.0,10000.0
+709,Darius Burst: Chronicle Saviours,2017,Action,Kadokawa Games,0.0,0.0,10000.0,0.0,10000.0
+710,The Escapists: The Walking Dead,2016,Action,Team17 Software,0.0,0.0,0.0,0.0,0.0
+711,Super Meat Boy,2016,Platform,Team Meat,0.0,0.0,0.0,0.0,0.0
+712,Blood Bowl 2,2015,Sports,Focus Home Interactive,0.0,0.0,0.0,0.0,0.0
+713,The Witness,2016,Misc,"Thekla, Inc.",0.0,0.0,0.0,0.0,0.0
+714,Quantic Dream Collection,2015,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+715,Iwaihime: Matsuri,2017,Adventure,Nippon Ichi Software,0.0,0.0,0.0,0.0,0.0
+716,RepKiss,2017,Adventure,Entergram,0.0,0.0,0.0,0.0,0.0
+717,War Thunder,2017,Action,DMM Games,0.0,0.0,0.0,0.0,0.0
+718,Tsuihou Senkyo,2017,Adventure,Nippon Ichi Software,0.0,0.0,0.0,0.0,0.0
+719,Hustle Kings VR,2016,Sports,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+720,Toki Tori 2+,2016,Puzzle,Two Tribes,0.0,0.0,0.0,0.0,0.0
+721,Deception IV: The Nightmare Princess,2015,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+722,Kingdom Hearts HD I.5 + II.5 ReMIX,2017,Action,Square Enix,0.0,0.0,0.0,0.0,0.0
+723,Fushigi no Chronicle: Furikaerimasen Katsu Madewa,2015,Action,Spike Chunsoft,0.0,0.0,0.0,0.0,0.0
+725,Agatha Christie: The ABC Murders,2016,Adventure,Microids,0.0,0.0,0.0,0.0,0.0
+726,Ancients of Ooga - The Forgotten Chapters,2016,Platform,Koch Media,0.0,0.0,0.0,0.0,0.0
+730,Blacklight: Retribution,2013,Misc,Perfect World Entertainment,0.0,0.0,0.0,0.0,0.0
+731,Bladestorm: The Hundred Years' War,2015,Action,BioWare,0.0,0.0,0.0,0.0,0.0
+732,Brothers in Arms: Furious 4,2019,Shooter,Ubisoft,0.0,0.0,0.0,0.0,0.0
+736,DC Universe Online,2013,MMO,Sony Online Entertainment,0.0,0.0,0.0,0.0,0.0
+740,Industry Giant II,2017,Strategy,UIG Entertainment,0.0,0.0,0.0,0.0,0.0
+746,Mount & Blade: Warband,2016,Role-Playing,Taleworlds,0.0,0.0,0.0,0.0,0.0
+750,Psychonauts,2017,Action,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+751,Resident Evil 5,2016,Action,Capcom,0.0,0.0,0.0,0.0,0.0
+755,The Amazing Spider-Man 2,2014,Misc,Activision,0.0,0.0,0.0,0.0,0.0
+758,Ether One,2015,Adventure,Soedesco,0.0,0.0,0.0,0.0,0.0
+759,Uncharted 2: Among Thieves,2016,Action,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+760,Uncharted 3: Drake's Deception,2016,Action,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+762,Uncharted: Drake's Fortune,2016,Action,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+764,Awesomenauts,2014,Misc,DTP Entertainment,0.0,0.0,0.0,0.0,0.0
+774,Broken Age,2015,Adventure,Nordic Games,0.0,0.0,0.0,0.0,0.0
+778,deep down (Working Title),2020,Misc,Capcom,0.0,0.0,0.0,0.0,0.0
+782,Whore of the Orient,2020,Misc,Warner Bros. Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+783,Cyberpunk 2077,2018,Action-Adventure,CD Projekt Red Studio,0.0,0.0,0.0,0.0,0.0
+784,Final Fantasy (PS4),2020,Misc,Square Enix,0.0,0.0,0.0,0.0,0.0
+788,Contrast,2013,Misc,Compulsion Games,0.0,0.0,0.0,0.0,0.0
+790,Carmageddon: Reincarnation,2015,Misc,Stainless Games,0.0,0.0,0.0,0.0,0.0
+803,Kingdom Hearts III,2019,Role-Playing,Square Enix,0.0,0.0,0.0,0.0,0.0
+809,Yaiba: Ninja Gaiden Z,2014,Misc,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+816,Pinball Arcade,2013,Misc,FarSight Studios,0.0,0.0,0.0,0.0,0.0
+817,Toukiden: The Age of Demons,2014,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+818,Reus,2016,Strategy,Soedesco,0.0,0.0,0.0,0.0,0.0
+819,Strider (2014),2014,Platform,Capcom,0.0,0.0,0.0,0.0,0.0
+821,EverQuest Next,2019,MMO,Sony Online Entertainment,0.0,0.0,0.0,0.0,0.0
+834,Velocity 2X,2014,Action,Futurlab 1,0.0,0.0,0.0,0.0,0.0
+835,Helldivers,2015,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+841,WonderFlick,2014,Misc,Level 5,0.0,0.0,0.0,0.0,0.0
+842,Monochroma,2014,Misc,Nowhere Studios,0.0,0.0,0.0,0.0,0.0
+847,Lily Bergamo,2014,Misc,GungHo,0.0,0.0,0.0,0.0,0.0
+871,SOMA (2015),2015,Misc,Frictional Games,0.0,0.0,0.0,0.0,0.0
+872,Cult County,2015,Misc,Renegade Kid,0.0,0.0,0.0,0.0,0.0
+874,R.B.I. Baseball 14,2014,Misc,MLB.com,0.0,0.0,0.0,0.0,0.0
+877,Blue Estate ,2014,Misc,Focus Home Interactive,0.0,0.0,0.0,0.0,0.0
+891,Pure Pool ,2014,Misc,Triniti Interactive,0.0,0.0,0.0,0.0,0.0
+896,Bombshell,2014,Misc,3D Realms,0.0,0.0,0.0,0.0,0.0
+898,The Forest,2015,Action,Endnight Games Ltd ,0.0,0.0,0.0,0.0,0.0
+904,Falling Skies: The Game ,2015,Role-Playing,Little Orbit,0.0,0.0,0.0,0.0,0.0
+908,EA Sports PGA Tour,2015,Sports,EA Sports,0.0,0.0,0.0,0.0,0.0
+909,Dead Island 2,2017,Action,Deep Silver,0.0,0.0,0.0,0.0,0.0
+916,Tetris Ultimate ,2014,Puzzle,Ubisoft,0.0,0.0,0.0,0.0,0.0
+917,Afro Samurai 2,2015,Action,Versus Evil,0.0,0.0,0.0,0.0,0.0
+918,The Legend of Korra (2014),2014,Action,Activision,0.0,0.0,0.0,0.0,0.0
+919,The Vanishing of Ethan Carter ,2015,Adventure,The Astronauts,0.0,0.0,0.0,0.0,0.0
+920,Godzilla (2014),2014,Action,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+921,Gran Turismo 7,2020,Racing,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+933,Wild,2019,Adventure,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+943,Tadeo Jones y el manuscrito perdido,2014,Adventure,Deep Silver,0.0,0.0,0.0,0.0,0.0
+945,OlliOlli 2: Welcome to Olliwood,2016,Sports,PQube,0.0,0.0,0.0,0.0,0.0
+946,Pathologic,2015,Adventure,Ice-pick Lodge,0.0,0.0,0.0,0.0,0.0
+948,Rebel Galaxy,2015,Role-Playing,Double Damage Games,0.0,0.0,0.0,0.0,0.0
+952,Assassin's Creed: Victory,2015,Action,Ubisoft,0.0,0.0,0.0,0.0,0.0
+953,Silent Hills,2020,Action,Konami Digital Entertainment,0.0,0.0,0.0,0.0,0.0
+973,Overlord: Fellowship of Evil,2015,Action,Codemasters,0.0,0.0,0.0,0.0,0.0
+974,R.B.I. Baseball 15,2015,Sports,MLB.com,0.0,0.0,0.0,0.0,0.0
+976,Wander,2015,Role-Playing,Wander MMO,0.0,0.0,0.0,0.0,0.0
+981,Final Fantasy VII Remake,2019,Role-Playing,Square Enix,0.0,0.0,0.0,0.0,0.0
+982,Ikenie to Yuki no Setsuna,2016,Role-Playing,Square Enix,0.0,0.0,0.0,0.0,0.0
+983,Atelier Sophie,2020,Role-Playing,Gust,0.0,0.0,0.0,0.0,0.0
+984,Dengeki Bunko: Fighting Climax Ignition,2015,Action,Sega,0.0,0.0,0.0,0.0,0.0
+985,World Soccer Winning Eleven 2015,2015,Action,Konami Digital Entertainment,0.0,0.0,0.0,0.0,0.0
+987,Cross Reverie,2017,Role-Playing,Sinxsoft,0.0,0.0,0.0,0.0,0.0
+988,Airship Q,2019,Platform,Cygames,0.0,0.0,0.0,0.0,0.0
+992,The London Heist,2016,Shooter,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+993,Risen 3 Enhanced Edition,2015,Role-Playing,Deep Silver,0.0,0.0,0.0,0.0,0.0
+994,Air Conflicts: Pacific Carriers,2015,Simulation,Kalypso Media,0.0,0.0,0.0,0.0,0.0
+995,God Wars: Beyond Time,2016,Role-Playing,Kadokawa Games,0.0,0.0,0.0,0.0,0.0
+996,Hasbro Family Fun Pack,2015,Misc,Ubisoft,0.0,0.0,0.0,0.0,0.0
+997,Professional Lumberjack 2016,2015,Simulation,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+998,Alekhine's Gun,2016,Action,Maximum Games,0.0,0.0,0.0,0.0,0.0
+999,Kung Fu Panda: Showdown of Legendary Legends,2015,Action,Little Orbit,0.0,0.0,0.0,0.0,0.0
+1004,Bloodborne: Complete Edition,2015,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+1008,World to the West,2017,Action-Adventure,Soedesco,0.0,0.0,0.0,0.0,0.0
+1013,Days Gone,2019,Action-Adventure,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+1014,Berserk Musou,2016,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+1015,Ginger: Beyond the Crystal,2016,Platform,PQube,0.0,0.0,0.0,0.0,0.0
+1016,The Last of Us: Part II,2019,Action,Sony Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+1017,Don Bradman Cricket 17,2016,Sports,Tru Blu Entertainment,0.0,0.0,0.0,0.0,0.0
+1018,Ace Combat 7: Skies Unknown,2019,Shooter,Bandai Namco Games,0.0,0.0,0.0,0.0,0.0
+1020,Metro Exodus,2019,Shooter,Deep Silver,0.0,0.0,0.0,0.0,0.0
+1021,Anthem,2019,Role-Playing,Electronic Arts,0.0,0.0,0.0,0.0,0.0
+1026,de Blob,2017,Platform,THQ Nordic,0.0,0.0,0.0,0.0,0.0
+1027,Chaos on Deponia,2017,Adventure,Daedalic Entertainment,0.0,0.0,0.0,0.0,0.0
+1028,Code Vein,2018,Action,Bandai Namco Entertainment,0.0,0.0,0.0,0.0,0.0
+1030,Radial G Racing Revolved,2017,Racing,Tammeka Games,0.0,0.0,0.0,0.0,0.0
