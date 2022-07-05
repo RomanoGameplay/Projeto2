@@ -1,10 +1,10 @@
 def layout(df1, df2):
-    from functions.graphics import concat_df, line
+    import graphics as g
     from dash import html, dcc
     import dash_bootstrap_components as dbc
 
-    df = concat_df(df1, df2)
-    fig = line(df.groupby(['Year', 'Platform'], as_index=False)[['Global']].sum(), title='Profit per Year', color='Platform', x='Year', y='Global', markers=True, text='Global')
+    df = g.concat_df(df1, df2)
+    fig = g.line(df.groupby(['Year', 'Platform'], as_index=False)[['Global']].sum(), title='Profit per Year', color='Platform', x='Year', y='Global', markers=True, text='Global')
     return dbc.Container([
         dbc.Row([
         dbc.Col([
