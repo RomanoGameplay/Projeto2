@@ -1,5 +1,5 @@
 def layout(df1, df2):
-    import graphics as g
+    from graphs import concat_df, line
     from dash import html, dcc
     import dash_bootstrap_components as dbc
 

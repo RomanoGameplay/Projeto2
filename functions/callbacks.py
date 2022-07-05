@@ -1,5 +1,5 @@
 from dash import Input, Output
-from functions.graphics import *
+from graphs import *
 
 def display_linegraph_detailed_profit():
     @app.callback(
