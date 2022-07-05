@@ -1,5 +1,10 @@
-def card_title():
-    return dbc.Row([
+def layout(df_xbox, df_ps4):
+    from graphics import concat_df, line
+
+    df = concat_df(df_xbox, df_ps4)
+    fig = line(df.groupby(['Year', 'Platform'], as_index=False)[['Global']].sum(), title='Profit per Year', color='Platform', x='Year', y='Global', markers=True, text='Global')
+    return dbc.Container([
+        dbc.Row([
         dbc.Col([
             dbc.Card([
                 dbc.CardHeader([
@@ -7,53 +12,39 @@ def card_title():
                 ]),
             dbc.CardBody([
                 dcc.Dropdown(['PS4', 'Xbox One'], 'PS4', id='drop-1'),
-                html.H4(id='lucro-total', style=dict(display='inline-block')),
-                html.H4(id='n_games', style=dict(display='inline-block'))
+                html.H4(id='lucro-total', style=dict(display='inline-block', marginRight='15px')),
+                html.H4(id='n_games', style=dict(display='inline-block', marginLeft='15px'))
             ])
-            ], className='w-50')
-        ])
-    ], style=dict(paddingTop='25px'))
-
-def title():
-    return dbc.Row([
-        dbc.Col([
-            html.H1(children='Sales over the years', id='title')
-        ], style=dict(paddingLeft='20px')),
-        ], style=dict(paddingTop='25px', paddingBottom='25px'))
-
-def graph_detailed_profit():
-    return dbc.Col([
-            dbc.Card([
-                dbc.CardHeader([
-                    html.H2(['Detailed view of sales over the years'])
-                ]),
-                dbc.CardBody([
-                    dcc.Graph(id='linegraph-detailed-profit')
-                ])
             ])
         ])
-
-def graph_profit():
-    return dbc.Row([
+    ], style=dict(paddingTop='25px', paddingBottom='25px'), justify='center'),
+        dbc.Row([
         dbc.Col([
             dbc.Card([
                 dbc.CardHeader([
                     html.H2(['Sales over the years'])
                 ]),
                 dbc.CardBody([
-                    dcc.Graph(id='linegraph-total-profit')
+                    dcc.Graph(figure=fig)
                 ])
             ])
-        ]),
-        graph_detailed_profit()
-    ])
-
-def graph_bar():
-    return dbc.Row([
+        ], width=6),
+            dbc.Col([
+            dbc.Card([
+                dbc.CardHeader([
+                    html.H2(id='subtitle')
+                ]),
+                dbc.CardBody([
+                    dcc.Graph(id='detailed_profit')
+                ])
+            ])
+        ], width=6)
+        ], justify='between'),
+        dbc.Row([
         dbc.Col([
             dbc.Card([
                 dbc.CardHeader([
-                    html.H2(['Quantity of each genre'], id='title-card')
+                    html.H2(id='title-card')
                 ]),
                 dbc.CardBody([
                     dcc.Graph(id='bargraph')
@@ -61,11 +52,4 @@ def graph_bar():
             ])
         ], style=dict(paddingTop='15px'), className='w-100')
     ])
-
-def layout():
-    return dbc.Container([
-        card_title(),
-        title(),
-        graph_profit(),
-        graph_bar()
     ])
