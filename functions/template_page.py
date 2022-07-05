@@ -1,5 +1,7 @@
 def layout(df_xbox, df_ps4):
     from graphics import concat_df, line
+    from dash import html, dcc
+    import dash_bootstrap_components as dbc
 
     df = concat_df(df_xbox, df_ps4)
     fig = line(df.groupby(['Year', 'Platform'], as_index=False)[['Global']].sum(), title='Profit per Year', color='Platform', x='Year', y='Global', markers=True, text='Global')
