@@ -1,5 +1,5 @@
 def layout(df_xbox, df_ps4):
-    from graphics import concat_df, line
+    from functions.graphics import concat_df, line
     from dash import html, dcc
     import dash_bootstrap_components as dbc
 
